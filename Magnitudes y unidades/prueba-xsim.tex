@@ -1,0 +1,451 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\author{}
+\date{}
+
+
+% MODIFICATIONS MADE BY ME
+\usepackage{siunitx}
+\usepackage{chemfig, chemformula}
+  \setchemfig{atom sep=2em}
+\usepackage[no-files]{xsim}
+  \loadxsimstyle{layouts,ged}
+  \xsimsetup{
+    % path                  = {xsim},
+    exercise/template     = {gedmargin},
+    exercise/name         = {},
+    exercise/print        = {true},
+    solution/template     = {gedsolution},
+    solution/name         = {Solución: },
+    solution/print        = {true},
+    % exercise/within       = section,
+    % exercise/the-counter  = \thesection.\arabic{exercise},
+  }
+
+\begin{document}
+
+\hypertarget{el-sistema-internacional-de-unidades}{%
+\section{El Sistema Internacional de
+Unidades}\label{el-sistema-internacional-de-unidades}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Pon dos ejemplos de propiedades que sean magnitudes físicas, y otros
+  dos que no lo sean. Para cada una de las primeras, enumera al menos
+  tres unidades, una de ellas la del SI.
+\item
+  Busca varios ejemplos de unidades que no pertenezcan al SI. ¿Con qué
+  magnitudes están relacionadas? Indica la equivalencia entre estas
+  unidades y las correspondientes del SI.
+\item
+  ¿Crees que la yarda, definida en su día como unidad de longitud y
+  equivalente a 914~mm, y obtenida por la distancia marcada en una vara
+  entre la nariz y el dedo pulgar de la mano del rey Enrique I de
+  Inglaterra con su brazo estirado, sería hoy un procedimiento adecuado
+  para establecer una unidad de longitud?
+\item
+  Las unidades del SI han sufrido cambios en su definición a lo largo de
+  la historia. Por ejemplo, el metro se definió en 1790 como la
+  diezmillonésima parte del cuadrante del meridiano terrestre que pasa
+  por París. En 1889 fue la distancia entre dos marcas en una barra de
+  aleación de platino-iridio que se guarda en Sévres. La definición
+  actual es de 1983. ¿A qué se deben estos cambios?
+\end{enumerate}
+
+\hypertarget{analisis-dimensional}{%
+\section{Análisis dimensional}\label{analisis-dimensional}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  La ley de la gravitación universal de Newton establece que la fuerza
+  con la que dos cuerpos se atraen es directamente proporcional al
+  producto de sus masas e inversamente proporcional al cuadrado de la
+  distancia que las separa: \[F = G\frac{m \cdot m'}{r^2}\] donde \(G\)
+  es la constante universal de la gravitación. Determina la ecuación
+  dimensional de esta constante y, a partir de ella, su unidad del SI.
+\item
+  La fuerza se puede calcular como el producto de la masa por la
+  aceleración. Calcula la ecuación de dimensiones de esta magnitud.
+\item
+  Comprueba que la siguiente fórmula es homogénea, es decir, que la
+  dimensión de todos los términos es una longitud:
+  \[s = v_0 \cdot t + \frac{1}{2} a \cdot t^2\]
+\item
+  Escribe la ecuación de dimensiones para la aceleración y la fuerza.
+\item
+  Comprueba que la ecuación \(v = \sqrt{2 \cdot g \cdot\ h}\), que
+  determina la velocidad de caída libre de un objeto, es homogénea.
+\item
+  Deduce la ecuación de dimensión de la magnitud física trabajo,
+  definida matemáticamente como: \(W = F \cdot \Delta r\), e indica la
+  expresión de su unidad, el julio, en función de las unidades
+  fundamentales del SI.
+\item
+  La energía intercambiada en forma de calor por un objeto al
+  modificarse su temperatura se determina mediante la expresión:
+  \(Q = m \cdot c_e \cdot \Delta T\). Determina la unidad del SI en la
+  que se mide la constante calor específico \(c_e\).
+\item
+  Expresa en la unidad adecuada del Sistema Internacional las magnitudes
+  expresadas por las siguientes ecuaciones de dimensión:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    \(\mathrm{MLT^{-2}}\)
+  \item
+    \(\mathrm{ML{-3}}\)
+  \item
+    \(\mathrm{LT^{-1}}\)
+  \item
+    \(\mathrm{ML^2T^{-2}}\)
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{factores-de-conversion}{%
+\section{Factores de conversión}\label{factores-de-conversion}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Expresa las siguientes medidas en el SI, respetando el número de
+  cifras significativas que poseen:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    29~cm
+  \item
+    100.0~dg
+  \item
+    144~km/h
+  \item
+    34.65~dm\textsuperscript{2}
+  \end{enumerate}
+\item
+  Utiliza factores de conversión para realizar los siguientes cambios de
+  unidades:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    324500~mg a Mg
+  \item
+    3~cg a Gg
+  \item
+    90~dm a nm
+  \item
+    86400~ms a h
+  \item
+    0.35~hL a uL
+  \item
+    0.335~mL a uL
+  \item
+    0.00092~hm a pm
+  \item
+    0.075~hg a ng
+  \end{enumerate}
+\item
+  Utiliza factores de conversión para realizar los siguientes cambios de
+  unidades de superficie y volumen:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    1850.2~cm\textsuperscript{2} a m\textsuperscript{2}
+  \item
+    0.00245~d\textsuperscript{2}m a um\textsuperscript{2}
+  \item
+    25680~mm\textsuperscript{2} a h\textsuperscript{2}m
+  \item
+    2300~pm\textsuperscript{3} a dm\textsuperscript{3}
+  \item
+    9530~d\textsuperscript{3}m a nm\textsuperscript{3}
+  \item
+    0.003~mm\textsuperscript{3} a d\textsuperscript{3}m
+  \item
+    50~m\textsuperscript{3} a L
+  \item
+    0.3~dm\textsuperscript{3} a nL
+  \item
+    80~kL a dm\textsuperscript{3}
+  \item
+    25460~uL a m\textsuperscript{3}
+  \end{enumerate}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Escribe correctamente los siguentes números en notación científica:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    340000
+  \item
+    0.000076
+  \item
+    750~×~10\textsuperscript{3}
+  \item
+    13800000
+  \item
+    0.000005
+  \item
+    4800000000
+  \item
+    0.0000173
+  \item
+    45872300
+  \item
+    0.0004~×~10\textsuperscript{8}
+  \item
+    0.091e-9
+  \end{enumerate}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Utiliza factores de conversión para realizar los siguientes cambios de
+  unidades:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    90~m/s a km/h
+  \item
+    540~km/h a m/s
+  \item
+    4.5~×~10\textsuperscript{3}~kg/mm\textsuperscript{3} a dg/mL
+  \item
+    0.03~×~10\textsuperscript{4}~pm\textsuperscript{3}/ns a kL/ds
+  \item
+    240~um/min a dm/s
+  \item
+    80~gmm/s a kgm/h
+  \end{enumerate}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Utilizando factores de conversión, cambia las siguientes medidas a
+  unidades del SI, expresando los resultados en notación científica:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    934.8~hm/min
+  \item
+    0.0023~Mg/pLnm\textsuperscript{2}
+  \item
+    35~cg/L
+  \item
+    162.3~dgL/nm\textsuperscript{3}
+  \item
+    0.5~kgm/min
+  \item
+    7~kgm/ds
+  \item
+    256~p\textsuperscript{2}mug/h
+  \item
+    0.03~hL/ms
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{errores-e-incertidumbre}{%
+\section{Errores e incertidumbre}\label{errores-e-incertidumbre}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  ¿Puede ser una medida precisa pero inexacta? ¿Y lo contrario? Propón
+  algún ejemplo para apoyar tu razonamiento.
+\item
+  Si mides tu altura con una cinta métrica, y el error absoluto de la
+  medida es de 1~cm, ¿cuál es el error relativo? Exprésalo mediante
+  valor numérico y porcentual.
+\item
+  Se realizan cinco medidas de la longitud de la mesa del laboratorio
+  con una cinta métrica, obteniendo estos valores, en cm: 120.6, 120.4,
+  120.5, , \& 120.3. ¿Cuál sería el valor de la medida? ¿Y los errores,
+  absoluto y relativo?
+\item
+  Expresa las siguientes cantidades en notación científica:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    75600000~g.
+  \item
+    0.000000025~V.
+  \item
+    149800000~km.
+  \end{enumerate}
+\item
+  ¿Oué puedes concluir de las diferencias entre las cantidades numéricas
+  2.0, 2.00, \& 2.000, procedentes de la medida experimental de una
+  magnitud física?
+\item
+  ¿Sería correcto decir que una medida de tiempo da como resultado
+  \(t = \SI{1.35 +- 0.15}{\s}\)? ¿Por qué?
+\item
+  Medimos la longitud de una mesa y resulta un valor de 98.50~cm.
+  ¿Cuántas cifras significativas tiene la medida? Expresa el valor en
+  metros y en milímetros indicando, en cada caso, el número de cifras
+  significativas.
+\item
+  ¿Cómo hallarías el volumen exterior de un portalápices cilíndrico si
+  dispones de una regla milimetrada? ¿Qué tipo de medida realizas,
+  directa o indirecta?
+\item
+  Se mide la masa y el volumen de un sólido, obteniendo como resultados
+  \(m = \SI{46,72}{\g}\) y \(V = \SI{24,5}{\cubic\cm}\). Calcula su
+  densidad y escríbela con el número de decimales correcto.
+\item
+  Calcula la masa molecular del hidrogenosulfato de sodio (\(NaHSO_4\))
+  y exprésala de forma correcta.
+\item
+  ¿Qué incertidumbre y error relativo cometemos al calcular la masa
+  molar del NaCl? (Para facilitar el cálculo tomamos como masa atómica
+  del cloro 35,5 en vez de su valor real 35,4527, y la del sodio como
+  23, en lugar de 22,9898.)
+\item
+  Suma las magnitudes siguientes:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    \(m_1 = \SI{5}{\kg}\) y \(m_2 = \SI{6}{\kg}\)
+  \item
+    \(\vec{v}_1 = 3\vec{i} - 2\vec{j}\) y
+    \(\vec{v}_2 = -2\vec{i} + 2\vec{j}\)
+  \end{enumerate}
+\item
+  Al afirmar que el año luz equivale a 9460800000000~km:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    ¿Con cuántas cifras significativas se está expresando la medida?
+  \item
+    ¿Cuáles de ellas son cifras exactas y cuál la sometida a error?
+  \end{enumerate}
+\item
+  Dados los siguientes valores:
+  \[A = 263,04; \qquad B = 0,00714; \qquad C = 20,4\] Determina los
+  resultados de estas operaciones y exprésalos correctamente:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    \(A \div C\);
+  \item
+    \(A \cdot B - C\);
+  \item
+    \(B \cdot C\)
+  \end{enumerate}
+\item
+  Escribe los siguientes datos en notación científica y en unidades del
+  SI:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    Distancia entre la Tierra y el Sol: 150000000~km.
+  \item
+    Tamaño de un virus: 18.5~um.
+  \end{enumerate}
+\item
+  Se han calculado la longitud de una torre (22.4~m) con un error de
+  ~±~20~cm, y la de una mesa de pupitre (0.8~m) con un error de ~±~1~cm.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    Indica el error absoluto de cada medida.
+  \item
+    ¿Cuál de las dos medidas es más precisa?
+  \end{enumerate}
+\item
+  ¿Cuál de las dos siguientes medidas es más precisa: la anchura de un
+  folio de papel, que es 210~±~1~mm, o la distancia entre dos ciudades,
+  que es 225~±~1~km?
+\item
+  Dada la longitud 3.2~±~0.1~m. Determina la incertidumbre relativa
+  porcentual de la medida.
+\item
+  Señala el número de cifras significativas en las siguientes medidas de
+  longitud:
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    1.55~m;
+  \item
+    9.02~m;
+  \item
+    0.010~cm;
+  \item
+    1.00~×~10\textsuperscript{3}~cm;
+  \item
+    2500~cm;
+  \end{enumerate}
+\item
+  La sensibilidad de una balanza que mide hasta 10~kg es de ~±~10~g,
+  mientras otra mide hasta 10~g y tiene una sensibilidad de ~±~1~g.
+  ¿Cuáles la mejor balanza de las dos?
+\end{enumerate}
+
+\end{document}
