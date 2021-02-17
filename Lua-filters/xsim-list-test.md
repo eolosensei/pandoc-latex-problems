@@ -1,3 +1,7 @@
+---
+filters:
+- xsim-list.lua
+...
 El Sistema Internacional de Unidades
 ====================================
 
@@ -37,3 +41,12 @@ El Sistema Internacional de Unidades
     c) Tres
 
     {S} Beeeeee
+
+1.  a) Uno
+    b) Dos
+    c) Tres
+
+    {S} Primera linea de la solución
+
+    Segunda línea de la solución
+

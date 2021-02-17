@@ -1,0 +1,13 @@
+from: markdown
+# reader: may be used instead of from:
+to: latex
+# writer: may be used instead of to:
+
+# Filters will be assumed to be Lua filters if they have
+# the .lua extension, and json filters otherwise.  But
+# the filter type can also be specified explicitly, as shown.
+# Filters are run in the order specified.
+# To include the built-in citeproc filter, use either `citeproc`
+# or `{type: citeproc}`.
+filters:
+- xsim-list.lua
