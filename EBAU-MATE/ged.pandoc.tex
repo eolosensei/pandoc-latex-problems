@@ -431,12 +431,12 @@ $endif$
   \loadxsimstyle{ged}
   \xsimsetup{
     % path                  = {xsim},
-    exercise/template     = {gedmargin},
-    exercise/name         = {},
-    exercise/print        = {true},
-    solution/template     = {gedsolution},
-    solution/name         = {Solución: },
-    solution/print        = {true },
+    exercise/template     = {$if(xsim.exercise.template)$$xsim.exercise.template$$else$gedmargin$endif$},
+    exercise/name         = {$if(xsim.exercise.name)$$xsim.exercise.name$$else$$endif$},
+    exercise/print        = {$if(xsim.exercise.print)$$xsim.exercise.print$$else$true$endif$},
+    solution/template     = {$if(xsim.solution.template)$$xsim.solution.template$$else$gedsolution$endif$},
+    solution/name         = {$if(xsim.solution.name)$$xsim.solution.name$$else$Solución: $endif$},
+    solution/print        = {$if(xsim.solution.print)$$xsim.solution.print$$else$false$endif$},
     % exercise/within       = section,
     % exercise/the-counter  = \thesection.\arabic{exercise},
   }
