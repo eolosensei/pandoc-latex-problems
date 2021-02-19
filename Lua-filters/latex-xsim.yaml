@@ -3,6 +3,10 @@ from: markdown
 to: latex
 # writer: may be used instead of to:
 
+template: letter
+standalone: true
+self-contained: false
+
 # Filters will be assumed to be Lua filters if they have
 # the .lua extension, and json filters otherwise.  But
 # the filter type can also be specified explicitly, as shown.
@@ -11,3 +15,10 @@ to: latex
 # or `{type: citeproc}`.
 filters:
 - xsim-list.lua
+
+
+pdf-engine: lualatex
+pdf-engine-opts:
+- "-shell-escape"
+# you may also use pdf-engine-opt: with a single option
+# pdf-engine-opt: "-shell-escape"

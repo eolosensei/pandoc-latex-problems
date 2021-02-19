@@ -45,7 +45,9 @@ if FORMAT:match 'latex' then
           if blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
             type = 'solution'
             blk.content:remove(1)
-            if blk.content[1].t == 'Space' then blk.content:remove(1) end
+            if blk.content[1] and blk.content[1].t == 'Space' then
+              blk.content:remove(1)
+            end
           end
           -- adds the block to the proper list
           final[type]:insert(blk)
