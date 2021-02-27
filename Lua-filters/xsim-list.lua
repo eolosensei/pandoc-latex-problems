@@ -10,13 +10,8 @@ function create_latex_env(type, blk_list)
   if blk_list[1].t ~= "Para" then
     blk_list:insert(1, pandoc.RawBlock('latex', '\\begin{' .. type .. '}'))
   else
-    local first_inline = blk_list[1].content[1]
-    local env_options = ""
-    _,_,first_contents = string.find(first_inline.text,"%[(.+)%]")
-    if first_inline.t == "Str" and first_contents then
-      env_options = "[" .. first_contents .. "]"
-      blk_list[1].content:remove(1)
-    end
+    --print(blk_list[1].content[1].text)
+    local env_options = parse_env_options(blk_list[1])
     blk_list[1].content:insert(1, pandoc.RawInline('latex', '\\begin{' .. type .. '}' .. env_options))
   end
 
@@ -29,6 +24,20 @@ function create_latex_env(type, blk_list)
 
   -- return Pandoc List with latex environment tags included
   return blk_list
+end
+
+function parse_env_options(block)
+  local first_contents
+  if block.content[1] and block.content[1].t == "Str" then
+    _,_,first_contents = string.find(block.content[1].text,"%[(.+)%]")  
+  end
+  if first_contents then
+    first_contents = '[' .. first_contents .. ']'
+    block.content:remove(1)
+  else
+    first_contents = ""
+  end
+  return first_contents
 end
 
 if FORMAT:match 'latex' then
