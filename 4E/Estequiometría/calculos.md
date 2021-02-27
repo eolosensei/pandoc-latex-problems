@@ -13,17 +13,17 @@ Reacciones con gases y sólidos
 
     {S} 24,3 g.
 
-1.  [tags=OXF16] El trióxido de azufre, SO~3~, se obtiene a partir del dióxido
-    de azufre, SO~2~, de acuerdo con esta ecuación:
+1.  [tags=OXF16] El trióxido de azufre, SO3, se obtiene a partir del dióxido
+    de azufre, SO2, de acuerdo con esta ecuación:
     $$\ch{SO2(g) + O2(g) -> SO3(g)}$$
 
     a)  Ajusta la reacción química.
-    b)  Calcula la masa de SO~2~ que se requiere para que reaccione
-        completamente con 32 g de O~2~ .
+    b)  Calcula la masa de SO2 que se requiere para que reaccione
+        completamente con 32 g de O2.
     e)  Determina la masa de trióxido de azufre que se obtiene
         en el caso anterior.
-    d)  Halla el volumen de SO~3~ que se obtiene si reaccionan
-        completamente 22,4 L de SO~2~ a 0 °C y 1 atm.
+    d)  Halla el volumen de SO3 que se obtiene si reaccionan
+        completamente 22,4 L de SO2 a 0 °C y 1 atm.
 
     {S} a) $\ch{SO2(g) + 1/2 O2(g) -> SO3(g)}$; b) 128 g; c) 160 g; d) 22,4 L
 
@@ -44,9 +44,9 @@ Reacciones con gases y sólidos
 
     {S} 2510 L
 
-1.  [tags=OXF16] El carbonato de calcio, CaCO~3~, se descompone a elevada
+1.  [tags=OXF16] El carbonato de calcio, CaCO3, se descompone a elevada
     temperatura en óxido de calcio, CaO, y dióxido de
-    carbono, CO~2~
+    carbono, CO2.
     
     a)  Escribe la ecuación química ajustada.
     b)  Calcula la masa de carbonato de calcio necesaria para
@@ -65,7 +65,7 @@ Reacciones con gases y sólidos
     de hidrógeno y oxígeno que se obtienen en la
     descomposición de 180 g de agua.
 
-    {S} 224 L de H~2~ y 112 L de O~2~
+    {S} 224 L de H2 y 112 L de O2
 
 1.  [tags=OXF16] Todos los hidrocarburos, al quemarse al aire, producen
     dióxido de carbono y agua. Calcula el volumen de oxígeno
@@ -107,8 +107,8 @@ Reacciones con gases y sólidos
     ambos en estado gaseoso.
 
     a)  Escribe la ecuación química ajustada de la reacción.
-    b)  Calcula el volumen de H~2~ que se desprende, a 0 °C y
-        1 atm, en la descomposición de 68 g de NH~3~.
+    b)  Calcula el volumen de H2 que se desprende, a 0 °C y
+        1 atm, en la descomposición de 68 g de NH3.
     c)  Calcula el volumen de nitrógeno que se desprende en
         estas mismas condiciones.
 
@@ -154,11 +154,11 @@ Reacciones con gases y sólidos
     y en dióxido de carbono.
 
     a)  Escribe la ecuación química ajustada de la descomposición de la
-        glucosa (C~6~H~12~O~6~).
+        glucosa (C6H12O6).
     b)  Calcula la cantidad de metano que se puede obtener a partir de
         36 g de glucosa.
     c)  ¿Qué cantidad de glucosa se necesita para que se desprendan
-        22,4 L de CO~2~ a 0 °C y 1 atm?
+        22,4 L de CO2 a 0 °C y 1 atm?
 
     {S} a) $\ch{C6H12O6(s) -> 3 CH4(g) + 3 CO2(g)}$; b) 0,6 mol; c) 0,33 mol.
 
@@ -169,8 +169,8 @@ Reacciones con gases y sólidos
 Reacciones en disolución
 ------------------------
 
-1.  [tags=OXF16] El nitrato de plata, AgNO~3~, en disolución acuosa reacciona
-    con el sulfuro de sodio, Na~2~S, en disolución
+1.  [tags=OXF16] El nitrato de plata, AgNO3, en disolución acuosa reacciona
+    con el sulfuro de sodio, Na2S, en disolución
     acuosa para dar sulfuro de plata más nitrato de sodio.
     Calcula el volumen de disolución 0,1 M de nitrato
     de plata necesario para reaccionar exactamente con
@@ -197,8 +197,7 @@ Reacciones en disolución
 1.  [tags=OXF16] El ácido nítrico reacciona con el hidróxido de amonio,
     NH~4~OH, para dar nitrato de amonio y agua. Calcula el
     volumen de ácido nítrico 0,01 M necesario para que
-    reaccione completamente con 250 mL de hidróxido de
-    amonio 0,05 M.
+    reaccione completamente con 250 mL de hidróxido de amonio 0,05 M.
     
     {S} 1,25 L
 
@@ -215,9 +214,9 @@ Reacciones en disolución
 Rendimiento de la reacción (no 4º ESO)
 --------------------------------------
 
-1.  [tags=OXF15] Calcula la masa de NH~3~ que puede obtenerse con
-    10 L de H~2~, medidos en condiciones normales (1 atm y 273 K)
-    y con exceso de N~2~, si el rendimiento de la reacción es del 70%.
+1.  [tags=OXF15] Calcula la masa de NH3 que puede obtenerse con
+    10 L de H2, medidos en condiciones normales (1 atm y 273 K)
+    y con exceso de N2, si el rendimiento de la reacción es del 70%.
 
     {S} 3,5 g
 
@@ -227,7 +226,7 @@ Rendimiento de la reacción (no 4º ESO)
 
     {S} 92,1%
 
-1.  [tags=OXF15] En la oxidación de 80 g de hierro con el suficiente O~2~
+1.  [tags=OXF15] En la oxidación de 80 g de hierro con el suficiente O2
     se obtienen 95 g de óxido de hierro(III). Calcula:
 
     a)  El rendimiento de la reacción.
@@ -235,16 +234,16 @@ Rendimiento de la reacción (no 4º ESO)
 
     {S} a) 83%; b) 13,6 g
 
-1.  [tags=OXF15] El clorobenceno, \ch{C6H5Cl}, se obtiene a partir de la
+1.  [tags=OXF15] El clorobenceno, C6H5Cl, se obtiene a partir de la
     siguiente reacción:
     $$\ch{C6H6 + Cl2 -> C6H5Cl + HCl}$$
-    Averigua la cantidad de benceno (\ch{C6H6}) necesaria para
-    obtener 1 kg de \ch{C6H5Cl}, si el rendimiento es del 70%.
+    Averigua la cantidad de benceno (C6H6) necesaria para
+    obtener 1 kg de C6H5Cl, si el rendimiento es del 70%.
 
     {S} 990,5 g
 
 1.  [tags=OXF15] A 100 cm3 de una disolución de NaCl 0,5 M, añadimos exceso
-    de nitrato de plata (\ch{AgNO3}).
+    de nitrato de plata (AgNO3).
 
     a)  Escribe la ecuación química ajustada que describe el proceso.
     b)  Averigua la masa de cloruro de plata que obtendremos si
@@ -257,6 +256,6 @@ Rendimiento de la reacción (no 4º ESO)
     la reacción es del 60%, calcula:
 
     a)  La cantidad de hidróxido de calcio que se forma.
-    b)  El volumen de H~2~ obtenido a 780 mmHg y 35 °C.
+    b)  El volumen de H2 obtenido a 780 mmHg y 35 °C.
 
     {S} a) 52,9 g; b) 35,4 L
