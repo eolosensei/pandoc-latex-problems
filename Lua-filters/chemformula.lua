@@ -1,14 +1,13 @@
 if FORMAT:match 'latex' then
     function Str (elem)
-        local sign = elem.text:match("%p$")
-        local formula = ""
+        i, j, sign = elem.text:find("([%p%c]+)$")
         if sign then
-            formula = elem.text:gsub(sign, "")
+            formula = elem.text:sub(1, i-1)
         else
             sign = ""
             formula = elem.text
         end
-
+        
         if formula:match("%(?[A-Z][a-z]?%d?%)?%d+") then
             return pandoc.RawInline('latex', "\\ch{" .. formula .. "}" .. sign)
         else
