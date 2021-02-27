@@ -10,7 +10,14 @@ function create_latex_env(type, blk_list)
   if blk_list[1].t ~= "Para" then
     blk_list:insert(1, pandoc.RawBlock('latex', '\\begin{' .. type .. '}'))
   else
-    blk_list[1].content:insert(1, pandoc.RawInline('latex', '\\begin{' .. type .. '}'))
+    local first_inline = blk_list[1].content[1]
+    local env_options = ""
+    _,_,first_contents = string.find(first_inline.text,"%[(.+)%]")
+    if first_inline.t == "Str" and first_contents then
+      env_options = "[" .. first_contents .. "]"
+      blk_list[1].content:remove(1)
+    end
+    blk_list[1].content:insert(1, pandoc.RawInline('latex', '\\begin{' .. type .. '}' .. env_options))
   end
 
   -- End latex environment
