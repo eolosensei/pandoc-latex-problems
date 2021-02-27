@@ -17,6 +17,12 @@
               \,\XSIMtranslate{point-abbr}%
             )}%
           }%
+          \IfExercisePropertySetT{tags}{%
+            \tabularnewline
+            {\scriptsize %
+              \ListExerciseTags{tags}{, }
+            }%
+          }%
         \endtabular
       }%
     }]\relax
