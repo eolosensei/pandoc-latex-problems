@@ -15,6 +15,9 @@ El Sistema Internacional de Unidades
     magnitudes están relacionadas? Indica la equivalencia entre estas
     unidades y las correspondientes del SI.
 
+    Por otro lado, meto compuestos químicos como el AgCl, el Mg(OH)3 y el CH3-CH2-OH,
+    así como el Cu(NO3)2
+
 1.  [OXF15] ¿Crees que la yarda, definida en su día como unidad de longitud y
     equivalente a 914 mm, y obtenida por la distancia marcada en una
     vara entre la nariz y el dedo pulgar de la mano del rey Enrique I de
