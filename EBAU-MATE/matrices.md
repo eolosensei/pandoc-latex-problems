@@ -42,7 +42,8 @@ Ejercicios de EBAU - Matrices y sistemas
     a)  Estudia y clasifica el sistema según los valores de $a \in \mathbb{R}$. _(1.5 puntos)_
     b)  Resuélvelo, si es posible, para el caso $a = 2$. _(1 punto)_
 
-1.  En una oficina se hicieron la semana pasada un total de 550 fotocopias entre fotocopias
+1.  En una oficina se hicieron la semana pasada un total de 550
+    fotocopias entre fotocopias
     en blanco y negro y fotocopias en color. El coste total de dichas fotocopias fue de 3,5 euros, siendo el coste de cada fotocopia en blanco y negro de _m_ centimos de euro, y el coste de cada fotocopia en color cuatro veces el coste de una en blanco y negro.
 
     a)  __[0,5 puntos]__ Plantea un sistema de ecuaciones (en función de _m_) donde las incógnitas
@@ -69,7 +70,7 @@ Ejercicios de EBAU - Matrices y sistemas
         Por lo tanto, se hiceron 500 fotocopias en blanco y negro.
 
 
-1.  _[EBAU20-X]_ Sean las matrices
+1.  [tags=EBAU20-X] Sean las matrices
         $$A = \begin{pmatrix}
             m-1 & 0\\
             -2 & m \\
