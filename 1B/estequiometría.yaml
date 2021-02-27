@@ -1,15 +1,30 @@
 from: markdown
 # reader: may be used instead of from:
-to: latex
+to: pdf
 # writer: may be used instead of to:
 
 # leave blank for output to stdout:
-output-file: xsim-list-test.tex
+output-file: estequiometría.pdf
 # leave blank for input from stdin, use [] for no input:
-input-file: xsim-list-test.md
+input-file:
+- estequiometría.md
+- ./estequiometría/ajuste-reacciones.md
+- ./estequiometría/reactivo-limitante.md
 
+template: ../LaTeX-config/ged.pandoc.tex
 standalone: true
 self-contained: false
+
+# note that structured variables may be specified:
+metadata:
+  xsim:
+    exercise:
+      print: 'true'
+      template: gedmargin
+    solution:
+      print: 'true'
+      template: gedsolution
+      name: 'Solución: '
 
 # Filters will be assumed to be Lua filters if they have
 # the .lua extension, and json filters otherwise.  But
@@ -18,10 +33,10 @@ self-contained: false
 # To include the built-in citeproc filter, use either `citeproc`
 # or `{type: citeproc}`.
 filters:
-- xsim-list.lua
+- ../Lua-filters/xsim-list.lua
 
 
-pdf-engine: lualatex
+pdf-engine: pdflatex
 pdf-engine-opts:
 - "-shell-escape"
 # you may also use pdf-engine-opt: with a single option
