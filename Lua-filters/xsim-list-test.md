@@ -16,7 +16,7 @@ El Sistema Internacional de Unidades
     unidades y las correspondientes del SI.
 
     Por otro lado, meto compuestos químicos como el AgCl, el Mg(OH)3 y el CH3-CH2-OH,
-    así como el Cu(NO3)2.
+    así como el Cu(NO3)2. Y aquí viene uno con paréntesis y punto: (C6H12O6).
 
 1.  [OXF15] ¿Crees que la yarda, definida en su día como unidad de longitud y
     equivalente a 914 mm, y obtenida por la distancia marcada en una
