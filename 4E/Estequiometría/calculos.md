@@ -37,7 +37,7 @@ Reacciones con gases y sólidos
     {S} 160 g
     
 1.  [tags=OXF16] La ecuación química ajustada de la reacción de combustión
-    del batano es:
+    del butano es:
     $$\ch{2 C4H10(g) + 13 O2(g) -> 8 CO2(g) + 10 H2O(g)}$$
     ¿Qué volumen de oxígeno debe utilizarse para la combustión
     completa de 1 kg de butano?
@@ -242,7 +242,7 @@ Rendimiento de la reacción (no 4º ESO)
 
     {S} 990,5 g
 
-1.  [tags=OXF15] A 100 cm3 de una disolución de NaCl 0,5 M, añadimos exceso
+1.  [tags=OXF15] A 100 cm^3^ de una disolución de NaCl 0,5 M, añadimos exceso
     de nitrato de plata (AgNO3).
 
     a)  Escribe la ecuación química ajustada que describe el proceso.
