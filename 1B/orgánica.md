@@ -51,26 +51,26 @@ Química orgánica
 1.  [tags=OXF15] Nombra los siguientes compuestos:
 
     a) \chemfig{CH_3-C(-[2]CH_3)(-[6]CH_3)-C(-[2]CH_3)(-[6]CH_3)-CH_2-CH_3}
-    a) \ch{CH2=CH-CH=CH2}
-    a) \ch{HC+CH-C+C-CH3}
-    a) \ch{CH2=CH-CH2-C+C-CH3}
+    a) CH2=CH-CH=CH2
+    a) HC+CH-C+C-CH3
+    a) CH2=CH-CH2-C+C-CH3
     a) \chemfig{[:-126]*5((-CH_3)--=-=)}
     a) \chemfig{*4(-(-CH_3)--(-CH_3)-)}
     a) \chemfig{[:-120]**6((-OH)------)}
     a) \chemfig{[:-120]**6(----(-CH_3)--)}
     a) \chemfig{[:-120]**6(--(-CH_3)--(-CH_3)--)}
-    a) \ch{CHO-C+C-CH2-CHO}
-    a) \ch{CH3-CH=CH-CH(CH3)-COOH}
-    a) \ch{CH3-CH2-COO-CH3}
+    a) CHO-C+C-CH2-CHO
+    a) CH3-CH=CH-CH(CH3)-COOH
+    a) CH3-CH2-COO-CH3
     a) \chemfig{CH_3-CH(-[6]**6(------))-COOH}
     a) \chemfig{NH(-[4]**6(------))-**6(------)}
-    a) \ch{CH3-CO-NH-CH3}
-    a) \ch{CH3-CH2-CO-NH2}
-    a) \ch{CH3-CH2-CH=CH-CO-NH2}
+    a) CH3-CO-NH-CH3
+    a) CH3-CH2-CO-NH2
+    a) CH3-CH2-CH=CH-CO-NH2
     a) \chemfig{CH_3-C(-[2]OH)(-[6]CH_3)-C(-[2]OH)(-[6]CH_3)-CH_3}
     a) \chemfig{CHO-[4]**6(------)}
-    a) \ch{CH3-CO-CH2-CH3}
-    a) \ch{CH3-CH2-CHCl-COOH}
+    a) CH3-CO-CH2-CH3
+    a) CH3-CH2-CHCl-COOH
     a) \chemfig{CH_2(-[6]OH)-CH(-[6]**6(------))-CH_3}
 
     {S}
