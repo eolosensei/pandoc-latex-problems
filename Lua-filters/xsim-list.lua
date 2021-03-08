@@ -58,7 +58,7 @@ if FORMAT:match 'latex' then
         -- run over all blocks in each item from the ordered list
         for j,blk in ipairs(ex) do
           -- check if the block starts the solution block and removes signal
-          if blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
+          if blk.t == "Para" and blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
             type = 'solution'
             blk.content:remove(1)
             if blk.content[1] and blk.content[1].t == 'Space' then
@@ -76,4 +76,8 @@ if FORMAT:match 'latex' then
       return final.global
     end
   end
+end
+
+if FORMAT:match 'markdown' then
+  
 end
