@@ -441,6 +441,7 @@ $endif$
     % exercise/the-counter  = \thesection.\arabic{exercise},
   }
 \usepackage{icomma}
+\usepackage[gen]{eurosym}
 
 % END MODIFICATIONS
 
@@ -499,6 +500,14 @@ $if(has-frontmatter)$
 \mainmatter
 $endif$
 $body$
+
+$if(xsim.endsolution)$
+\xsimsetup{
+  solution/template = {gedmargin-solution},
+  solution/name     = {S},
+  }
+{\small \printsolutions}
+$endif$
 
 $if(has-frontmatter)$
 \backmatter
