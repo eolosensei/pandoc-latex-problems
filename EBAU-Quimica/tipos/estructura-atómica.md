@@ -1,3 +1,5 @@
+# Estructura atómica y clasificación periódica
+
 1.  [tags=EBAU20X] Indique, de forma razonada, los valores posibles del número cuántico $m_l$, que puede presentar un electrón alojado en la subcapa 4d.
 
     {S} Para un electrón en una subcapa 4d, los valores de los números cuánticos son $n = 4$ y $l = 2$.
@@ -20,7 +22,7 @@
 
 1.  [tags=EBAU20O] De los siguientes conjuntos de números cuánticos indique, justificando la respuesta, el que representa correctamente a un electrón en un átomo:
     i)  (3, 3, 0, 1/2)
-    i)  (2, 1, –1, 1/2)
+    i)  (2, 1, -1, 1/2)
 
     {S}
     i)  No es correcta porque $0 \leq l \leq 2$.
@@ -92,3 +94,55 @@
 
     Y ($Z = 35$): 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 4s^2^ 3d^10^ 4p^5^; Grupo: 17; Período: 4
 
+
+1.  [tags=EBAU18X-B] Escriba las configuraciones electrónicas, en estado fundamental, de los elementos X ($Z = 17$) e Y ($Z = 53$). Indique el grupo y periodo de la tabla periódica a los que pertenece cada uno de los elementos. A partir de su posición en la tabla periódica, indique, de forma razonada, el elemento que previsiblemente presentará el valor más negativo de la afinidad electrónica.
+
+    {S} X ($Z = 17$):   1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^5^, Grupo: 17; Período: 3; valor más negativo de afinidad electrónica
+    
+    Y ($Z = 53$):       1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 4s^2^ 3d^10^ 4p^6^ 5s^2^ 4d^10^ 5p^5^, Grupo: 17; Período: 5
+
+1.  [tags=EBAU18X-B] Para los valores de los números cuánticos que se indican $n = 4$ y $m_l = -3$, indique: 
+    i)  el valor del número cuántico $l$; 
+    i)  la notación del subnivel electrónico;
+    i)  el número de orbitales en el subnivel;
+    i)  el número máximo de electrones en el subnivel.
+    
+    Justifique todas las respuestas.
+
+    {S}
+    i)  $l = 3$
+    i)  4f
+    i)  7 orbitales
+    i)  14
+
+1.  [tags=EBAU18O-B] Indique el valor aceptable para el número cuántico que falta en el conjunto $n = 3$, $l = ?$, $m_l = -2$. Justifique la respuesta.
+
+    {S} $l = 2$ 
+
+
+1.  [tags=EBAU18O-B] Para los aniones \ch{O^{2-}} y \ch{F-}, indique, de forma razonada, el anión que posee el radio iónico más pequeño.
+
+    Datos: O ($Z = 8$); F ($Z = 9$)
+
+    {S} El anión \ch{F-} posee el radio iónico más pequeño.
+
+1.  [tags=EBAU18O-B] El elemento X presenta la siguiente configuración electrónica en estado fundamental: 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 4s^2^ 3d^10^ 4p^4^. Indique, de forma razonada:
+    i)  el grupo y período de la tabla periódica a los que pertenece el elemento;
+    i)  el tipo de ión, anión o catión, que formará con mayor facilidad el elemento y la configuración electrónica del ión formado.
+
+    {S}
+    i)  Grupo 16 (p^4^) y periodo 4 ($n = 4$)
+    i)  Tiene tendencia a formar el anión \ch{X^{2-}}, con configuración electrónica 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 4s^2^ 3d^10^ 4p^6^
+
+1.  [tags=EBAU18O-A] Para el valor del número cuántico $l = 1$, indique, de forma razonada, el tipo de subcapa que representa y el número máximo de electrones permitidos que puede alojar la subcapa.
+
+    {S} Subcapa tipo **p**, con un máximo de 6 electrones.
+
+1.  [tags=EBAU18O-A] Escriba las configuraciones electrónicas en estado fundamental de los elementos X ($Z = 16$) e Y ($Z
+    = 52$). Indique el grupo y período de la tabla periódica a los que pertenece cada uno de los
+    elementos. A partir de su posición en la tabla periódica, indique, de forma razonada, el elemento
+    que, previsiblemente, presentará el valor más bajo del radio atómico.
+
+    {S} X ($Z = 16$) 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^4^; Grupo: 16; Período: 3; radio atómico más pequeño.
+
+    Y ($Z = 52$) 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 4s^2^ 3d^10^ 4p^6^ 5s^2^ 4d^10^ 5p^4^: Grupo: 16; Período: 5.

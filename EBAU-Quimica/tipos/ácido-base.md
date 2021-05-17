@@ -1,3 +1,5 @@
+# Ácido-base
+
 1.  [tags=EBAU20X] Para determinar el contenido en ácido acético (CH3COOH) del vinagre, 20 mL de vinagre se diluyen con agua hasta obtener un volumen final de 50 mL. La neutralización exacta de esta disolución consume 40 mL de una disolución acuosa de hidróxido de sodio, NaOH 0,1 M. Determine la concentración molar del ácido acético en el vinagre comercial.
 
     {S} 0,2 M
@@ -23,6 +25,10 @@
     Dato: $K_b(\ch{NH3}) = \num{1,8e-5}$
 
     {S} i) $\alpha = 0,042$; ii) $pH = 10,62$.
+
+1.  [tags=EBAU20X] Indique el material de laboratorio necesario para realizar la determinación del contenido de ácido acético en un vinagre comercial. Identifique el material de laboratorio en el que colocaría el indicador utilizado.
+
+    {S} Bureta con soporte, erlenmeyer, pipeta aforada y probeta. El indicador se colocaría en el matraz Erlenmeyer en el que se encuentra la disolución acuosa de vinagre.
 
 1.  [tags=EBAU20O] En la realización de una volumetría ácido-base para determinar la concentración de ácido acético (CH3COOH) en un vinagre comercial, empleando hidróxido de sodio (NaOH) como reactivo valorante, 20 mL del vinagre se diluyen con 50 mL de agua. La neutralización exacta de esta disolución consume 15 mL de una disolución acuosa de hidróxido de sodio, NaOH, 0,1 M.
     a)  Calcule la concentración de ácido acético en el vinagre comercial e indique donde colocaría la disolución acuosa de NaOH para realizar la valoración.
@@ -71,10 +77,63 @@
 1.  [tags=EBAU19X-A] Se prepara una disolución acuosa de ácido cianhídrico, HCN, disolviendo 0,675 g del ácido en un volumen final de disolución de 250 mL. El pH de la disolución resultante es 5,07. Calcule el valor del grado de disociación y de la constante de ionización del ácido en la disolución acuosa a 25 ºC.
     Datos. Masas atómicas: $C = 12$ u; $N = 14$ u; $H = 1$ u.
 
-    {S} $K_a(\ch{HCN}) = \num{7.24e-10}$; $\alpha = \num{8.51e-5}.
+    {S} $K_a(\ch{HCN}) = \num{7.24e-10}$; $\alpha = \num{8.51e-5}$.
 
 1.  [tags=EBAU19O-B] Se mezclan 7,5 mL de una disolución acuosa de ácido nítrico, HNO3, de $pH = 1,5$, con 2,5 mL de una disolución acuosa de ácido clorhídrico, HCl, del 0,8% en masa y densidad igual a 1,05 g/mL. La mezcla se diluye con agua hasta un volumen final de la disolución de 2 L. Calcule el pH de la disolución resultante.
     Datos. Masas atómicas: $Cl = 35,45$ u; $H = 1,01$ u.
 
     {S} $pH = 3,4$
 
+1.  [tags=EBAU19O-B] Para la valoración de una base fuerte, NaOH(ac), con un ácido fuerte, HCl(ac), proponga, de forma razonada, el indicador que utilizaría para identificar el punto de equivalencia y el cambio de color que observaría. Indique el material de laboratorio en el que colocaría el indicador utilizado.
+
+    Indicador               Medio ácido      pH de cambio      Medio básico
+    ---------------------- -------------   ----------------  ----------------
+    Rojo de metilo             Rojo           4,8 - 6,0          Amarillo
+    Tornasol                   Rojo           5,0 - 8,0           Azul
+    Fenolftaleína            Incoloro         8,2 - 10,0          Rosa
+
+    {S} El mejor indicador será aquel que cambie netamente a $pH = 7$, es decir, el **tornasol**. El indicador deberá colocarse en el **erlenmeyer** junto con la disolución de NaOH.
+
+1.  [tags=EBAU19O-A] Indique, de forma razonada, el carácter ácido, básico o neutro de la disolución acuosa resultante de la neutralización exacta de una disolución acuosa de hidróxido de sodio, NaOH, con una disolución acuosa de ácido nitroso, HNO2.
+
+    Dato. $K_a(\ch{HNO2}) = \num{7,2e-4}$
+
+    {S} La sal resultante proporciona un caracter básico a la disolución.
+
+1.  [tags=EBAU18X-B] Para la valoración de una base fuerte, NaOH(ac), con un ácido fuerte, HCl(ac), proponga, de forma razonada, el indicador que utilizaría para identificar el punto de equivalencia y el cambio de color que observaría. Indique el material de laboratorio en el que colocaría el indicador utilizado.
+
+    Indicador               Medio ácido      pH de cambio      Medio básico
+    ---------------------- -------------   ----------------  ----------------
+    Rojo de metilo             Rojo           4,8 - 6,0          Amarillo
+    Tornasol                   Rojo           5,0 - 8,0           Azul
+    Fenolftaleína            Incoloro         8,2 - 10,0          Rosa
+
+    {S} El indicador propuesto es aquel que cambie netamente de color a $pH = 7$, es decir, el tornasol, que cambiará de azul (medio básico) a rojo (medio ácido). El indicador se colocaría en el erlenmeyer en el que se encuentra la disolución acuosa de NaOH.
+
+1.  [tags=EBAU18X-B] En la disolución preparada disolviendo 9 mg de ácido acético, CH3COOH, en agua hasta completar 300 mL de disolución, se observa que en el equilibrio el 83% de la masa de ácido añadida no se ha disociado, permaneciendo como CH3COOH en la disolución. A partir de esta información, calcule el valor de la constante de disociación del ácido acético en agua y el pH de la disolución resultante.
+
+    Datos. Masas atómicas: $C = 12$ u; $H = 1,0$ u; $O = 16$ u.
+
+    {S} $K_a (\ch{CH3COOH}) = \num{1.74e-5}$; $pH = 4,07$.
+
+1.  [tags=EBAU18X-A] Indique, de forma razonada, el carácter ácido, básico o neutro de la disolución acuosa resultante de la neutralización exacta de una disolución acuosa de amoniaco, NH3, con una disolución acuosa de ácido clorhídrico, HCl.
+
+    Dato: $K_b(\ch{NH3}) = \num{1.8e-5}$
+
+    {S} Tendrá carácter ácido, puesto que aumenta $[\ch{H3O+}]$.
+
+1.  [tags=EBAU18O-B] Para la valoración de una base débil, NH3(ac), con un ácido fuerte, HCl(ac), proponga, de forma razonada, el indicador que utilizaría para identificar el punto de equivalencia y el cambio de color que observaría. Indique el material de laboratorio en el que colocaría el indicador utilizado.
+
+    Indicador               Medio ácido      pH de cambio      Medio básico
+    ---------------------- -------------   ----------------  ----------------
+    Rojo de metilo             Rojo           4,8 - 6,0          Amarillo
+    Tornasol                   Rojo           5,0 - 8,0           Azul
+    Fenolftaleína            Incoloro         8,2 - 10,0          Rosa
+
+    {S} El indicador propuesto es aquel que cambie netamente de color a $pH < 7$, es decir, el rojo de metilo. Este indicador cambiará de amarillo (medio básico) a rojo (medio ácido). El indicador se colocaría en el erlenmeyer en el que se encuentra la disolución acuosa de NH3.
+
+1.  [tags=EBAU18O-A] Calcule la masa, en gramos, de amoniaco, NH3, que es necesaria para preparar 2 L de una disolución acuosa de la base cuyo $pH = 11,0$.
+
+    Datos. Masas atómicas: $N = 14$ u; $H = 1$ u. $K_b(\ch{NH3}) = \num{1,8e-5}$.
+
+    {S} Se necesitan 1,94 g de NH3.

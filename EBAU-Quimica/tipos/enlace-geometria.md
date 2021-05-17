@@ -1,3 +1,5 @@
+# Enlace químico y geometría molecular
+
 1.  [tags=EBAU20X] Para la molécula de Cl2CO, deduzca la estructura de Lewis. Indique y dibuje la geometría molecular
     del compuesto, según la TRPECV, y los ángulos de enlace aproximados.
 
@@ -28,7 +30,7 @@
 
     {S} Estructura molecular: \ch{H-C+N}.
 
-    Si consideramos los valores de las electronegatividades, en la molécula de HCN, el carbono es más electronegativo que el hidrógeno, y el nitrógeno más electronegativo que el carbono, por lo que los dos enlaces son polares. El enlace \ch{H–C} es polar hacia el C y el enlace \ch{C-N} es polar hacia el N. Dada la geometría de la molécula, los momentos dipolares de los enlaces se suman, no se anulan. En consecuencia, la molécula es **polar**.
+    Si consideramos los valores de las electronegatividades, en la molécula de HCN, el carbono es más electronegativo que el hidrógeno, y el nitrógeno más electronegativo que el carbono, por lo que los dos enlaces son polares. El enlace \ch{H-C} es polar hacia el C y el enlace \ch{C-N} es polar hacia el N. Dada la geometría de la molécula, los momentos dipolares de los enlaces se suman, no se anulan. En consecuencia, la molécula es **polar**.
 
 1.  [tags=EBAU20O] Las temperaturas de ebullición a la presión de 1 atm de las sustancias Br2(l) y HCl(l) son \SI{58.8}{\celsius} y \SI{108.6}{\celsius}, respectivamente. Justifique la diferencia en los valores de las temperaturas de ebullición de estas dos sustancias.
 
@@ -72,3 +74,34 @@
 
     {S} Puesto que la suma vectorial de los momentos dipolares no es nula, la molécula es **polar**.
 
+1.  [tags=EBAU19O-A] Dibuje el ciclo de Born-Haber y calcule la energía de red ($\Delta H_\text{red}$) del KI(s) a partir de los siguientes datos: 
+    -   Entalpía estándar de formación del KI(s):   $\Delta H_f (\ch{KI})              = \SI{-327,9}{\kJ\per\mol}$.
+    -   Entalpía de sublimación del K(s):           $\Delta H_\text{subl} (\ch{K(s)})  = \SI{89,24}{\kJ\per\mol}$.
+    -   Entalpía de sublimación del I2(s):          $\Delta H_\text{subl} (\ch{I2(s)}) = \SI{62,44}{\kJ\per\mol}$.
+    -   Entalpía de disociación del I2(g):          $\Delta H_D (\ch{I2(g)})           = \SI{151}{\kJ\per\mol}$.
+    -   Primera energía de ionización del K(g):     $\Delta H_\text{ioniz} (\ch{K(g)}) = \SI{418,9}{\kJ\per\mol}$.
+    -   Afinidad electrónica del I(g):              $\Delta H_\text{afin} (\ch{I(g)})  = \SI{-295,2}{\kJ\per\mol}$.
+
+    {S} $\Delta H_\text{red} (\ch{KI(s)}) = \SI{-647,56}{\kJ\per\mol}$ de KI(s)
+
+1.  [tags=EBAU18X-B] Indique el tipo, o tipos, de fuerzas intermoleculares que contribuyen, de manera preferente, a mantener en estado líquido el Br2.
+
+    {S} Dipolo inducido-dipolo inducido (fuerzas de London).
+
+1.  [tags=EBAU18X-A] Dibuje el ciclo de Born-Haber y calcule la energía de red ($\Delta H_\text{red}$) del KF(s) a partir de los siguientes datos:
+    -   Entalpía estándar de formación del KF(s):   $\Delta H_f (\ch{KF})              = \SI{-567,4}{\kJ\per\mol}$.
+    -   Entalpía de sublimación del K(s):           $\Delta H_\text{subl} (\ch{K(s)})  = \SI{89,24}{\kJ\per\mol}$.
+    -   Entalpía de disociación del F2(g):          $\Delta H_D (\ch{F2(g)})           = \SI{567,4}{\kJ\per\mol}$.
+    -   Primera energía de ionización del K(g):     $\Delta H_\text{ioniz} (\ch{K(g)}) = \SI{418,9}{\kJ\per\mol}$.
+    -   Afinidad electrónica del F(g):              $\Delta H_\text{afin} (\ch{F(g)})  = \SI{-328}{\kJ\per\mol}$.
+
+    {S} $\Delta H_\text{red} (\ch{KF(s)}) = \SI{-827,04}{\kJ\per\mol}$ de KF(s).
+
+1.  [tags=EBAU18O-A] Para la molécula de CO2, deduzca la estructura de Lewis. Indique y dibuje la geometría molecular
+del compuesto, según la TRPECV, y los ángulos de enlace aproximados.
+    
+    Datos. C ($Z = 6$); O ($Z = 8$).
+
+    {S} Geometría lineal, con ángulos de enlace aproximados de \ang{180}. Estructura de Lewis con 16 electrones de valencia:
+
+    \chemfig{\charge{90=\:,270=\:}{O}=C=\charge{90=\:,270=\:}{O}}

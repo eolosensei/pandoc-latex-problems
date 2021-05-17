@@ -1,3 +1,5 @@
+# Redox
+
 1.  [tags=EBAU20X] La concentración de peróxido de hidrógeno, H2O2, en un agua oxigenada puede cuantificarse mediante una valoración redox utilizando permanganato potásico, KMnO4, de acuerdo con la siguiente reacción química:
 
     \ch{2 KMnO4(ac) + 5 H2O2(ac) + 3 H2SO4(ac) -> 2 MnSO4(ac) + 5 O2(g) + 8 H2O(l) + K2SO4(ac)}
@@ -110,7 +112,7 @@
     i)  La disolución acuosa de peróxido de hidrógeno se coloca en el **matraz erlenmeyer**
 
 1.  [tags=EBAU19OX-B] Cuando se añade una disolución acuosa de peróxido de hidrógeno, H2O2, a una disolución acuosa ácida que contiene bromo disuelto, Br2(ac), se produce una reacción química espontánea. A partir de los valores de los potenciales estándar de reducción, $E^0(\ch{H2O2/H2O}) = \SI{+1,763}{\V}$; $E^0(\ch{BrO3- /Br2}) = \SI{+1,478}{\V}$:
-    i.  Indique, de forma razonada, la especie química en disolución que experimenta la reacción de oxidación y la que experimenta la reacción de reducción. Escriba y ajuste por el método del ion–electrón la ecuación que representa la reacción química que se produce de forma espontánea. Indique la especie química que actúa como reductor.
+    i.  Indique, de forma razonada, la especie química en disolución que experimenta la reacción de oxidación y la que experimenta la reacción de reducción. Escriba y ajuste por el método del ion-electrón la ecuación que representa la reacción química que se produce de forma espontánea. Indique la especie química que actúa como reductor.
     i.  Calcule el potencial estándar de la reacción global.
 
     Nota: Todas las especies en disolución están en condiciones estándar.
@@ -122,3 +124,82 @@
 
         Reacción global: \ch{H2O2 (ac) + Br2 (ac) -> 2 BrO3- (ac) + 2 H+ (ac) + 4 H2O}
     i.  $E^0_\text{global} = \SI{0.285}{\V}$
+
+1.  [tags=EBAU19O-A] Ajuste, por el método del ión-electrón en medio básico, la siguiente ecuación química:
+
+    \ch{S (s) + ClO- (ac) -> SO3^{2-} (ac) + Cl- (ac)}
+
+    {S} Oxidación: \ch{S (s) + 3 H2O -> SO3^{2-} (ac) + 6 H+ (ac) + 4 e-}
+
+    Reducción: \ch{ClO- (ac) + 2 H+ (ac) + 2e- -> Cl- (ac) + H2O}
+
+    Reacción global: \ch{S(s) + 2 ClO- (ac) + 2 OH- (ac) -> SO3^{2-} (ac) + 2 Cl- (ac) + H2O}
+
+1.  [tags=EBAU19O-A] Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentración de
+peróxido de hidrógeno en un agua oxigenada, mediante la valoración denominada permanganimetría.
+Indique el material de laboratorio utilizado.
+
+    {S} Se toma un volumen de agua oxigenada, se coloca en una probeta y se diluye con agua destilada.
+    Una alícuota de esta disolución se vierte en el erlenmeyer. Al erlenmeyer se añade agua destilada y ácido sulfúrico. 
+    Se llena la bureta con la disolución de permanganato de potasio. Se añade lentamente la disolución de la bureta sobre
+    la disolución colocada en el erlenmeyer hasta que se produzca un cambio de color.
+
+1.  [tags=EBAU18X-B] Cuando se añade dicromato de potasio, K2Cr2O7, a una disolución acuosa de ácido sulfúrico que contiene sulfato de hierro(II), FeSO4, se produce una reacción química espontánea. A partir de los valores de los potenciales estándar de reducción:
+$E^0 (\ch{Cr2O7^{2-}/Cr^{3+}}) = \SI{+1,33}{\V}$; $E^0 (\ch{Fe^{3+}/Fe^{2+}}) = \SI{+0,771}{\V}$; $E^0(\ch{Fe^{2+}/Fe}) = \SI{-0,44}{\V}$.
+    i.  Indique, de forma razonada, la especie química en disolución que experimenta la reacción de oxidación y la que experimenta la reacción de reducción. Escriba y ajuste por el método del ión-electrón, en forma iónica y molecular, la ecuación que representa la reacción química que se produce de forma espontánea.
+    i.  Calcule el potencial estándar de la reacción global.
+
+    Nota: Todas las especies en disolución están en condiciones estándar.
+
+    {S}
+    i.  Reducción: \ch{Cr2O7^{2-} + 14 H+ + 6 e- -> 2 Cr^{3+} + 7 H2O}
+
+        Oxidación: \ch{Fe^{2+} -> Fe^{3+} + 1 e-}
+
+        Reacción global: \ch{K2Cr2O7 + 6 FeSO4 + 7 H2SO4 -> Cr2(SO4)3 + 3 Fe2(SO4)3 + 7 H2O + K2SO4}
+    i.  $E^0_\text{global} = \SI{0.559}{\V}$
+
+1.  [tags=EBAU18X-A] Ajuste, por el método del ión-electrón, la siguiente ecuación química:
+
+    \ch{NH3 (g) + O2 (g) -> NO (g) + H2O (g)}
+
+    {S} Oxidación: \ch{NH3 + H2O -> NO + 5 H+ + 5 e-}
+
+    Reducción: \ch{O2 + 4 H+ + 4 e- -> H2O + H2O}
+
+    Reacción global: \ch{4 NH3 + 5 O2 -> 4 NO + 6 H2O}
+
+1.  [tags=EBAU18X-A] Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentración de peróxido de hidrógeno en un agua oxigenada, mediante la valoración denominada permanganimetría.
+    Indique el material de laboratorio utilizado.
+
+    {S} Se toma un volumen de agua oxigenada, se coloca en una probeta y se diluye con agua destilada. Una alícuota de esta disolución se vierte en el erlenmeyer. Al erlenmeyer se añade agua destilada y ácido sulfúrico. Se llena la bureta con la disolución de permanganato de potasio. Por último se añade lentamente la disolución de la bureta sobre el erlenmeyer hasta que se produzca un cambio de color. **No es necesario añadir indicador**.
+
+1.  [tags=EBAU18O-B] Se construye una pila galvánica utilizando las siguientes semicélulas:
+    a)  un hilo de Pt sumergido en una disolución acuosa ácida que contiene MnO2(s) en suspensión y $[\ch{MnO4-}] = \SI{1}{M}$;
+    b)  un hilo de Pt sumergido en una disolución acuosa ácida que contiene $[\ch{ClO3-}] = [\ch{Cl-}] = \SI{1}{M}$.
+
+    Responda a las siguientes preguntas:
+    i.  Escriba las semirreacciones de oxidación y de reducción y la reacción global, ajustadas por el método del ión-electrón en forma iónica. Indique la especie química que actúa como oxidante y la que actúa como reductora durante el funcionamiento espontáneo de la pila. 
+    i.  Dibuje un esquema de la pila en el que estén representadas la semicélula que actúa como ánodo y la que actúa como cátodo, así como el sentido del flujo de electrones durante el funcionamiento de la pila.
+    
+    Datos. $E^0 (\ch{MnO4-/MnO2}) = \SI{+1,70}{\V}$; $E^0 (\ch{ClO3-/Cl-}) = \SI{+1,45}{\V}$.
+
+    {S}
+    i.  Reducción: \ch{MnO4- (ac) + 4 H+ (ac) + 3 e- -> MnO2(s) + 2 H2O}
+
+        Oxidación: \ch{Cl- (ac) + 3 H2O -> ClO3- (ac) + 6 H+ (ac) + 6 e-}
+
+        Reacción global: \ch{2MnO4- (ac) + Cl- (ac) + 8 H+ (ac) + 3 H2O -> 2 MnO2 (s) + ClO3- (ac) + 4 H2O + 6 H+ (ac)}
+    i.  Dibujar un esquema de la pila, reflejando adecuadamente ánodo, cátodo, reacciones en las semiceldas y puente salino, así como la dirección de flujo de los electrones.
+
+1.  [tags=EBAU18O-A] La concentración de peróxido de hidrógeno, H2O2, en un agua oxigenada puede determinarse mediante valoración redox con permanganato de potasio, KMnO4, de acuerdo con la ecuación química:
+
+    \ch{2 KMnO4 (ac) + 5 H2O2 (ac) + 3 H2SO4 (ac) -> 2 MnSO4 (ac) + 5 O2 (g) + 8 H2O + K2SO4 (ac)}
+
+    En el laboratorio, 2 mL del agua oxigenada se diluyen con agua hasta un volumen final de 20 mL. La valoración exacta de esta disolución consume, en el punto de equivalencia, 20 mL de una disolución acuosa de permanganato de potasio 0,01 M. 
+    i)  calcule la concentración de peróxido de hidrógeno en el agua oxigenada inicial;
+    i)  indique el nombre del material de laboratorio en el que se coloca la disolución acuosa de permanganato de potasio durante la valoración.
+
+    {S}
+    i.  $[\ch{H2O2}] = \SI{0.25}{M}$
+    i.  La disolución acuosa de permanganato de potasio se coloca en una **bureta**.

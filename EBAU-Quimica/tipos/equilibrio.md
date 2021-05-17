@@ -1,3 +1,5 @@
+# Equilibrio químico
+
 1.  [tags=EBAU20X] A 375 K, la constante de equilibrio, $K_P$, de la reacción \ch{SO2Cl2(g) <> SO2(g) + Cl2(g)} es 2,4, cuando las presiones se expresan en atmósferas. En un recipiente de 1 L, en el que inicialmente se ha realizado el vacío, se colocan 6,7 g de SO2Cl2(g) y se eleva la temperatura a 375 K. Calcule la presión parcial de cada uno de los componentes de la mezcla gaseosa en equilibrio a 375 K.
 
     Datos: Masas atómicas: $S = 32$ u; $O = 16$ u; $Cl = 35,45$ u. $R = \SI{0,082}{\atm\L\per\K\per\mol}$
@@ -154,3 +156,17 @@
     Datos: $R = \SI{0,082}{\atm\L\per\mol\per\K}$
 
     {S} $K_p = 0,149$ y $K_c = \num{4,04e-3}$
+
+1.  [tags=EBAU18O-B] En un recipiente cerrado de 20 L, en el que inicialmente se ha realizado el vacío, se introducen 0,85 moles de pentacloruro de fósforo, PCl5, y se calientan a 200 ºC. A esta temperatura se alcanza el equilíbrio:
+
+    \ch{PCl5 (g) <> PCl3 (g) + Cl2 (g)}
+
+    En el equilibrio a 200 ºC, la presión total de la mezcla gaseosa es de 2,5 atm. Calcule:
+    i.  El grado de disociación del PCl5 a 200 ºC.
+    i.  El valor de $K_P$ para el equilibrio a 200 ºC.
+
+    Dato. $R = \SI{0,082}{\atm\L\per\K\per\mol}$
+
+    {S}
+    i.  $\alpha = 0,515$ (51,5%)
+    i.  $K_P = 0,90$
