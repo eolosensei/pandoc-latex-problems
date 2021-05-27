@@ -7,10 +7,11 @@ function create_latex_env(type, blk_list)
   end
 
   -- Begin latex environment
-  if blk_list[1].t ~= "Para" then
+  if blk_list[1].t ~= "Para" and blk_list[1].t ~= "Plain" then
     blk_list:insert(1, pandoc.RawBlock('latex', '\\begin{' .. type .. '}'))
   else
     --print(blk_list[1].content[1].text)
+    print("Im here")
     local env_options = parse_env_options(blk_list[1])
     blk_list[1].content:insert(1, pandoc.RawInline('latex', '\\begin{' .. type .. '}' .. env_options))
   end
@@ -57,8 +58,15 @@ if FORMAT:match 'latex' then
 
         -- run over all blocks in each item from the ordered list
         for j,blk in ipairs(ex) do
+          print("First: ", blk.content[1].t)
+          print("Content:", blk.content[1].text)
+          print("Condition 1:", blk.t)
+          print("Condition 2:", blk.content[1].t)
+          print("Condition 3:", blk.content[1].text)
           -- check if the block starts the solution block and removes signal
-          if blk.t == "Para" and blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
+          -- removed condition blk.t == "Para" causing problems when "Plain"
+          if blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
+            print("Is working?")
             type = 'solution'
             blk.content:remove(1)
             if blk.content[1] and blk.content[1].t == 'Space' then
@@ -67,6 +75,7 @@ if FORMAT:match 'latex' then
           end
           -- adds the block to the proper list
           final[type]:insert(blk)
+          print("---------------")
         end
 
         -- creates the final list and wraps it with proper latex environment
