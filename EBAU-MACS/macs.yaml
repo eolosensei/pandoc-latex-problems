@@ -4,10 +4,17 @@ to: pdf
 # writer: may be used instead of to:
 
 # leave blank for output to stdout:
-output-file: programacion-lineal.pdf
+output-file: test.pdf
 # leave blank for input from stdin, use [] for no input:
-input-file: ./tipos/programacion-lineal.plus.md
-
+input-file:
+- ./tipos/probabilidad.md
+- ./tipos/distribuciones.md
+# - ./exámenes/MAD2020MACS-O.plus.md
+# - ./exámenes/CYL2020MACS-O.plus.md
+# - ./exámenes/CAN2020MACS-O.plus.md
+# - ./exámenes/GAL2020MACS-O.plus.md
+# - ./exámenes/EXT2020MACS-O.plus.md
+# - ./exámenes/CV2020MACS-O.plus.md
 
 template: ../LaTeX-config/ged.pandoc.tex
 standalone: true
@@ -29,10 +36,12 @@ variables:
       print: 'false'
       template: gedsolution
       name: 'Solución: '
+    endsolution: true
 
 metadata:
-  title: Matrices y sistemas de ecuaciones
-  subtitle: Ejercicios EBAU
+  title: Ejercicios EBAU (2010-2020)
+  subtitle: Probabilidad y distribuciones de probabilidad
+  lang: es-ES
 
 # Filters will be assumed to be Lua filters if they have
 # the .lua extension, and json filters otherwise.  But
