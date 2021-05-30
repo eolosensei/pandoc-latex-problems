@@ -242,7 +242,7 @@
         producto habría vendido.
 
 1.  [tags=EBAU15Xs] En un restaurante han estudiado el dinero que los
-    clientes gastan en cenas en funcióon de la edad. El gasto estimado
+    clientes gastan en cenas en función de la edad. El gasto estimado
     en euros viene dado por la siguiente función:
     $$f(x) = -\frac{x^2}{30} + 3x - 5, \qquad 18 \leq x \leq 65$$ donde x
     representa la edad, en años, del cliente.
