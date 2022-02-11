@@ -1,0 +1,1 @@
+{"pandoc-api-version":[1,22],"meta":{"author":{"t":"MetaList","c":[{"t":"MetaInlines","c":[{"t":"Str","c":"EBAU"},{"t":"Space"},{"t":"Str","c":"2010-20"}]}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Física"},{"t":"Space"},{"t":"Str","c":"Térmica"}]}},"blocks":[{"t":"RawBlock","c":["latex","\\input{./tex/EBAU-2018-X-B.tex}"]}]}

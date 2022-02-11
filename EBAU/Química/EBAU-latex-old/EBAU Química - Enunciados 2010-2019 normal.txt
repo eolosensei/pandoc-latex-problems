@@ -1,0 +1,1969 @@
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+QUÍMICA. OPCIÓN A 
+1. (2,5 puntos) 
+La combusti completa de 40 g de acetona, C3H6O(l), libera 1234,5 kJ. Si las entalpías estándar de formaci del CO2(g) y del H2O(l) son -393,5 y -285,8 kJ mol-1 , respectivamente, calcule la entalpía estándar de formaci de la acetona líquida. Datos: Masas aticas C = 12 u; H = 1 u; O = 16 u 
+2. (2,5 puntos) 
+Para la reacci: PCl5(g) ) image002
+PCl3(g) + Cl2(g) Kc = 3,8 x 10-2 a 250 ºC. Un recipiente de 2,5 L contiene una mezcla de 0,20 moles de PCl5(g), 0,10 moles de PCl3(g) y 0,10 moles de Cl2(g) a la temperatura de 250 ºC. 
+i. Justifique si la mezcla se encuentra inicialmente en equilibrio. (0,75 puntos) 
+ii. Calcule el nero de moles de cada gas en la mezcla una vez alcanzado el equilibrio. 
+(1,75 puntos) 3. (1,0 punto) 
+i. En un tubo de ensayo se colocan unos cristales de I2(s) y se aden 5 mL de agua ¿Qué observará? Justifique la observaci realizada. (0,5 puntos) 
+ii. A continuaci se aden, en el mismo tubo, 5 mL de tolueno, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. (0,5 puntos) 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 13) e Y (Z = 49) e indique el grupo y período de la tabla peridica al que pertenece cada uno de los elementos. A partir de esas configuraciones electricas, indique, de forma razonada, el elemento que presenta el valor más alto de la primera energía de ionizaci. (1,0 punto) 
+B. Indique, justificando la respuesta, el carácter ácido, básico o neutro de una disoluci acuosa de NaClO. Dato: Ka(HClO) = 2,9 x 10-8 (1,0 punto) 
+5. (2,0 puntos) 
+A. Una disoluci contiene las siguientes concentraciones: [Cl -] = 1 M; [MnO4-] = 1 M. Indique las semirreacciones de oxidaci y de reducci que tienen lugar en la disoluci, y escriba las ecuaciones ajustadas  correspondientes.   (1,0 punto) Datos: Eº(MnO4-/Mn2+) = +1,51 V Eº(ClO3-/Cl -) = +1,45 V 
+B. Escriba la fmula semidesarrollada y nombre los ismeros geométricos del 3-hexeno. 
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+QUÍMICA. OPCIÓN B 
+1. (2,5 puntos) 
+Se mezclan 50 mL de una disoluci acuosa de HCl 0,0155 M con 75 mL de una disoluci acuosa de NaOH 0,0106 M. Calcule el pH de la disoluci resultante. Suponer que los volmenes son aditivos. 
+2. (2,5 puntos) 
+Se dispone del siguiente material: una tira de plata, una tira de hierro, disoluci 1 M de AgNO3, disoluci 1M de FeCl2, puente salino, voltímetro y conexiones eléctricas. 
+i. Escriba las semirreacciones de oxidaci y reducci y la reacci global que tienen lugar en la pila. Calcule el potencial estándar de la misma. (1,0 punto) 
+ii. Dibuje un esquema de la pila que puede construirse con el material disponible, indicando el 
+ánodo, el cátodo y el sentido de flujo de los electrones. (1,5 puntos) Datos: Eº(Ag+/Ag) = + 0,80 V Eº(Fe2+/Fe) = -0,44 V 
+3. (1,0 punto) 
+En el laboratorio se desea determinar el calor de la reaccin ácido-base del hidrido de sodio con el ácido clorhídrico. Dibuje un esquema del dispositivo experimental e indique el material utilizado. 
+4. (2,0 puntos) 
+A. Indique un valor aceptable para el nero cuántico cuyo valor falta en el conjunto: n = 3, l = ¿?, ml = 
+2. Justifique la respuesta. A partir de los valores de los neros cuánticos n y l del conjunto anterior, indique el tipo de orbital que representan. (1,0 punto) 
+B. En estado sido los compuestos KF y CaO presentan el mismo tipo de estructura cristalina y distancias interiicas similares. Sin embargo, los valores de las energías de red son: 
+-1 -1 
+.Hred(KF) = - 826 kJ mol y .Hred(CaO) = - 3461 kJ mol . Indique, de forma razonada, el factor, o factores, que justifican la diferencia existente entre los dos valores de energía de red. (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la reacci: 3 Fe(s) +  4 H2O(g) image002
+Fe3O4(s) + 4 H2(g) .Hº = -150 kJ, explique el efecto de cada uno de los siguientes factores en la cantidad de H2(g) presente en la mezcla en equilibrio: i) elevar la temperatura de la mezcla; ii) duplicar el volumen del recipiente que contiene la mezcla, sin modificar la temperatura. (1,0 punto) 
+B. Complete la siguiente reacci y escriba las frmulas semidesarrolladas de los reactivos y el nombre y las fmulas semidesarrolladas de los productos: 
+Ácido acético  + etanol 
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+
+QUÍMICA. OPCIÓN A 1. (2,5 puntos) 
+Calcule la energía de red (.Hred) del KCl(s) a partir de los siguientes datos: Entalpía de formaci del 
+KCl(s) [.Hf(KCl)] = -437 kJ mol-1. Entalpía de sublimaci del K(s) [.HSK(s)] = 89,24 kJ mol-1. 
+Entalpía de disociaci del Cl2(g) [.HDCl2(g)] = 244 kJ mol-1. Primera energía de ionizaci del K(g) 
+[.HionizacinK(g)]1 = 418,9 kJ mol-1. Afinidad electrica del Cl(g) [.HafinidadCl(g)] = -349 kJ mol-1 
+2. (2,5 puntos) 
+El magnesio metálico puede obtenerse por la electrolisis de MgCl2 fundido. 
+i. Indique las reacciones que tienen lugar en el ánodo y en cátodo de la célula electrolítica. 
+(1,0 punto) 
+ii. Si se hace pasar una corriente de 2,5 A a través de MgCl2 fundido durante 550 minutos ¿Cuántos gramos de Mg(s) se depositarán?¿Cuántos litros de Cl2(g), medidos en condiciones normales, se obtendrán? (1,5 puntos) Datos: Masa atmica del Mg = 24,3 u; 1 Faraday = 96485 C 
+
+3. (1,0 punto) 
+
+En el laboratorio se dispone del dispositivo experimental de la figura y del material de laboratorio y reactivos que se relaciona: pipeta aforada de 10 mL, disoluci acuosa titulada de NaOH, muestra de vinagre comercial e indicador 
+Indique el procedimiento experimental a seguir para realizar la determinaci del contenido de ácido acético en un vinagre comercial. 
+
+4. (2,0 puntos) 
+A. Ordene las siguientes especies de acuerdo con el valor creciente de los radios iicos: O2-, F-, N3-. Justifique la respuesta. (1,0 punto) Datos: N (Z = 7); O (Z = 8) y F (Z = 9) 
+B. Escriba la estructura de Lewis del catin NH4+. Deduzca y dibuje su forma geométrica e indique los ángulos de enlace aproximados de la molécula. (1,0 punto) Datos: N (Z = 7); H (Z = 1) 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, si se formará precipitado en una disoluci que contenga las siguientes concentraciones: [Ca2+] = 0,0037 M; [CO32-] = 0,0068 M Datos: KPS(CaCO3) = 2,8 x 10- 9 (1,0 punto) 
+B. Explique la diferencia entre una reaccin de adici y una reaccin de sustituci. Indique cuál de las dos se observa, en general, en los alquenos y cuál en los hidrocarburos aromáticos. 
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15  Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+QUÍMICA. OPCIÓN B 
+1. (2,5 puntos) 
+Realizando los cálculos adecuados, determine si se formará un precipitado cuando se mezclen 3,3 mL de disoluci acuosa de HCl 1,0 M, con 4,9 mL de disoluci acuosa de AgNO3 0,003 M y suficiente agua para diluir la disoluci resultante hasta un volumen total de 50 mL. Dato: KPS(AgCl) = 1,6 x 10-10 
+2. (2,5 puntos) 
+Calcule la concentraci inicial de ácido cianhídrico, HCN, en una disoluci acuosa cuyo pH = 5,3. Dato: Ka(HCN) = 4,9 x 10-10 
+3. (1,0 punto) 
+Dibuje un esquema de la pila Daniell e indique el material de laboratorio y los reactivos utilizados para su construcci. 
+
+4. (2,0 puntos) 
+A. Indique de forma razonada la notaci del orbital que corresponde a cada una de las siguientes combinaciones de nmeros cuánticos: i) n = 1, l = 0; ii) n = 3, l = -3; iii) n = 3, l = 2; iv) n = 2, l = 1. Si la combinaci de neros cuánticos no está permitida escriba “no permitido”. (1,0 punto) 
+B. A partir de los siguientes datos: 
+Propiedad física  H2O  H2S  
+Punto de ebullici normal (ºC)  100  -60,7  
+Punto de fusi normal (ºC)  0,00  -85,5  
+
+i. Indique, de forma razonada, la sustancia que presenta fuerzas intermoleculares más intensas. 
+(0,5 puntos) 
+ii. Indique el tipo de fuerzas intermoleculares que presenta cada una de las sustancias. 
+(0,5 puntos) 
+
+5. (2,0 puntos) 
+A. Las entalpías estándar de combusti del grafito y del diamante son: -393,51 y -395,41 kJ mol-1, 
+respectivamente. Calcule la entalpía estándar de la reacci: Cgrafito(s) 
+Cdiamante(s) (1,0 punto) 
+B. Escriba la fmula semidesarrollada de los siguientes compuestos: 
+i. 2,5,6-trimetilnonano ii. Difenilcetona 
+iii. 2-pentanol iv) Acetato de etilo (1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15  Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+QUÍMICA. OPCIÓN A 1. (2,5 puntos) 
+Las entalpías estándar de combusti del C(s), H2(g) y propano gas, C3H8(g), son -394, -286 y -2220 kJ/mol, respectivamente: 
+i. Calcule la entalpía estándar de formaci del propano. (2,0 puntos) 
+ii. Calcule la variaci de entalpía asociada a la formaci de 100 g de propano gas en 
+condiciones estándar. (0,5 puntos) Datos: Masas aticas C = 12 u; H = 1 u 
+2. (2,5 puntos) 
+Una disoluci acuosa de NH3 tiene un pH = 10,6. 
+i. Calcule la concentraci inicial de NH3, en moles/L. (2,0 puntos) 
+ii. Calcule el volumen, en litros, de una disolucin acuosa de NH3 0,1 M necesario para preparar, 
+por diluci, 500 mL de la disoluci del apartado anterior. (0,5 puntos) Datos: Kb(NH3) = 1,8 x 10-5 
+3. (1,0 punto) 
+En el laboratorio se desea realizar la deposici electrolítica de cobre a partir de una disoluci acuosa de sulfato de cobre(II). Dibuje un esquema completo de la cuba electrolítica, indicando el material de laboratorio utilizado. 
+4. (2,0 puntos) 
+A. Defina la afinidad electrica de un átomo. Para los elementos X (Z = 4) e Y (Z = 8), escriba las configuraciones electrnicas respectivas e indique, de forma razonada, el que presenta el valor más negativo de la afinidad electrica. (1,0 punto) 
+B. Para la molécula BF3: i) dibuje la estructura de Lewis; ii) deduzca y dibuje su forma geométrica e indique los ángulos de enlace aproximados de la molécula. (1,0 punto) Datos: B(Z = 5), F (Z = 9) 
+5. (2,0 puntos) 
+A. Para la reaccin en equilibrio: 4 HCl(g) + O2(g) image002
+2 H2O(g) + 2 Cl2(g) .Hº = -114 kJ. Explique el efecto que sobre la cantidad de Cl2(g) en el equilibrio tendrá: 
+i. La adici a la mezcla en equilibrio de una masa adicional de O2(g) a volumen constante. 
+(0,5 puntos) 
+ii. 
+Transferir la mezcla en equilibrio a un recipiente con un volumen doble, a la misma temperatura. (0,5 puntos) 
+
+B. 
+Complete la siguiente reacci. Nombre y escriba la fmula semidesarrollada de los posibles productos de la reaccin: 
+
+
+H2SO4 CH2 CH CH3 + H2O 
+
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+QUÍMICA. OPCIÓN B 1. (2,5 puntos) 
+En un recipiente de 1,4 L se introduce 1,0 g de CO, 1,0 g de H2O y 1,0 g de H2, elevando la temperatura a 600 K y dejando que se alcance el equilibrio: 
+CO(g) + H2O(g) 
+CO2(g) + H2(g) KC = 23,2 a 600 K Calcule los gramos de CO2(g) que habrá en la mezcla en equilibrio. Datos: Masas aticas C = 12 u; H = 1 u; O = 16 u 
+2. (2,5 puntos) 
+La celda voltáica que utiliza la reacci: Fe(s) + 2 Fe3+(ac) 
+3 Fe2+(ac), tiene un potencial estándar de celda igual a 1,21 V : 
+i. Escriba las dos semirreacciones que tienen lugar en el ánodo y en el cátodo de la celda. Calcule Eº(Fe3+/Fe2+). (1,25 puntos) 
+ii. Dibuje un esquema de la celda voltáica, indicando el ánodo, el cátodo y el sentido de flujo de los electrones. Nota: utilice como electrodos láminas metálicas de hierro. 
+(1,25 puntos) Datos: Eº(Fe2+/Fe) = -0,44 V 
+3. (1,0 punto) 
+En el laboratorio se dispone del dispositivo experimental necesario para determinar calores de reacci a presi constante. Describa el procedimiento a seguir para determinar el calor de la reaccin ácido-base entre el hidrido de sodio y el ácido clorhídrico. 
+4. (2,0 puntos) 
+A. Indique, justificando la respuesta, el nero de electrones desapareados que presentan en estado fundamental los átomos de P (Z = 15) y Mn (Z = 25). (1,0 punto) 
+B. Los valores de los puntos de ebullici normales de los compuestos HF y HCl son 292,6 y 188,1 K, respectivamente. Explique la diferencia observada en estos valores de los puntos de ebullicin normales. (1,0 punto) 
+5. (2,0 puntos) 
+A. Dispone de disoluciones acuosas de las siguientes sustancias: NH3, HCl, NaOH, KCN, NH4Cl y CH3COOH. 
+i. Indique, de forma razonada, las disoluciones que utilizaría para preparar una disoluci reguladora. (0,5 puntos) 
+ii. 
+Escriba y justifique la ecuaci química que muestre co reacciona la disoluci reguladora preparada cuando se le aade una pequea cantidad de ácido fuerte. (0,5 puntos) 
+
+B. 
+Escriba la fmula semidesarrollada de los siguientes compuestos: 
+
+
+i) 3,3,5-trimetilheptano ii) cis-3-hexeno 
+iii) 4,4-dimetil-1-hexino iv) 3-pentanona 
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+
+
+
+QUÍMICA. OPCIÓN A 
+1. (2,5 puntos) 
+La hidracina (N2H4) es un líquido aceitoso e incoloro que reacciona con el perido de hidreno (H2O2) de acuerdo con la ecuaci: a) N2H4(l) + 2 H2O2(l) ... N2(g) + 4 H2O(l) 
+i. Calcule la variaci de entalpía estándar, a 25ºC, para esta reacci, sabiendo que las entalpías estándar de formaci a 25ºC, del H2O(l) y del H2O2(l) valen -285,8 y -187,8 kJ/mol, respectivamente, y que la variaci de entalpía estándar de la reacci a 25ºC: 
+b) N2H4(l) + O2(g) ... N2(g) + 2 H2O(l) vale .Ho = - 622,2 kJ (1,5 puntos) 
+ii. Prediga justificadamente si la reacci a) será espontánea a 25ºC, en condiciones estándar. 
+(1,0 punto) 2. (2,5 puntos) 
+En un recipiente vacío de 5L se introducen 0,145 moles de Cl2 y 1,8 moles de PCl5, se calienta a 200ºC y, una vez alcanzado el equilibrio, PCl5(g) 
+PCl3(g) + Cl2(g), en la mezcla hay 0,218 moles de PCl3. 
+i. Indique el sentido en que evoluciona el sistema inicial para alcanzar el estado de equilibrio y las concentraciones de cada una de las especies una vez alcanzado el equilibrio.    (1,25 puntos) 
+ii. Calcule el valor de las constantes KC y KP a esa temperatura. (1,0 punto) 
+iii. Explique, de forma cualitativa, en qué sentido se desplazará el equilibrio alcanzado si se introducen en el recipiente 0,30 moles de PCl3 manteniendo constante la temperatura y el volumen.  (0,25 puntos) 
+Dato: R = 0,082 atm L mol-1 K-1. 
+
+3. (1,0 punto) 
+En el laboratorio se han realizado los siguientes experimentos: 
+
+Experimento  Reactivos  
+Tubo 1  Lámina de cobre + Disoluci de sulfato de cinc  
+Tubo 2  Lámina de cinc + Disoluci de sulfato de cobre(II)  
+
+Prediga, utilizando los potenciales estándar de reducci, los resultados que se observarán en cada uno de los tubos. Datos: E0(Cu2+/Cu) = 0,34 V; E0(Zn2+/Zn) = -0,76 V 
+
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 12) e Y (Z = 38) e indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. A partir de estas configuraciones electricas, indique, de forma razonada, el elemento con el valor del radio atmico más alto. (1,0 punto) 
+B. Indique de forma razonada el carácter ácido, básico o neutro de una disoluci acuosa de KCN. Dato: Ka(HCN) = 6,2 x 10-10. (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la molécula NH3, deduzca su estructura de Lewis, geometría electrica,  geometría molecular y los ángulos de enlace aproximados. Datos: N (Z = 7), H (Z = 1) (1,0 punto) 
+B. Escriba la fmula semidesarrollada correspondiente a cada uno de los nombres siguientes: 
+i. Éter etil propílico     ii) Butanona iii) 2-metil-3-hexino iv) Dietilmetilamina 
+(1,0 punto) 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2009-2010 
+QUÍMICA. OPCIÓN B 
+1. (2,5 puntos) 
+Un vinagre contiene un 5,7% en masa de ácido acético, CH3COOH. ¿Qué masa, en gramos, de este vinagre debe diluirse en agua para obtener 0,75 L de una disoluci con pH = 4,0? Datos: Ka(CH3COOH) = 1,8 x 10-5. Masas atmicas: C: 12 u; H: 1 u; O: 16 u. 
+2. (2,5 puntos) 
+Cuando se mezclan disoluciones acuosas de dicromato de potasio y de sulfato de hierro(II), en presencia de ácido sulfico, se forma sulfato de hierro(III), sulfato de cromo(III), sulfato de potasio y agua. 
+i. Escriba y ajuste la reacci en forma iica y molecular por el método del i-electrn e indique el agente oxidante y el agente reductor. (2,0 puntos) 
+ii. Si 50 mL de una disoluci 0,2 M de sulfato de hierro(II) necesitan 28 mL de disoluci de dicromato de potasio para su total oxidaci, calcule la concentraci molar de la disoluci de dicromato de potasio. (0,5 puntos) 
+3. (1,0 punto) 
+Se pretende estudiar la conductividad de una disoluci acuosa de permanganato de potasio. 
+i. Dibuje un esquema del dispositivo experimental que permita realizar el estudio, indicando los materiales a usar. (0,5 puntos) 
+ii. Explique el procedimiento a seguir y las observaciones realizadas. (0,5 puntos) 
+
+4. (2,0 puntos) 
+A. De las configuraciones electricas que se dan a continuaci, indique las que corresponden a átomos en su estado fundamental, en estado excitado y cuáles son imposibles. Justifique su respuesta. 
+(1,0 punto) 
+i. 1s2,2s22p2 ii. 1s2,2s23p1 iii. 1s2,2s22d2,3s1 iv. 1s2,2s22p6,3s23p6,4s24p5,5s1 
+B. Para la reacci: H2(g) 
+2 H(g) .H = +436 kJ Indique, de forma cualitativa, las condiciones de temperatura en que la reacci anterior será espontánea. (1,0 punto) 
+
+5. (2,0 puntos) 
+A. Para la reacci: 3 Fe(s) + 4 H2O(g) 
+Fe3O4(s) + 4 H2(g) .Hº = -150 kJ Justifique, de forma razonada, el efecto de cada uno de los siguientes factores en la cantidad de H2(g) presente en la mezcla en equilibrio: 
+i. Elevar la temperatura de la mezcla. 
+ii. Introducir una masa adicional de H2O(g). 
+iii. Duplicar el volumen del recipiente que contienen la mezcla. 
+iv. 
+Adir un catalizador adecuado. (1,0 punto) 
+
+B. 
+Complete la siguiente reacci y nombre el producto, o productos, que se obtienen: H2SO4 
+
+
+CH3-CH=CH2 + H2O diluído 
+
+(1,0 punto) 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2010-2011 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+La nitroglicerina, C3H5N3O9(l), descompone a 1 atm y 25 ºC para formar N2(g), CO2(g), H2O(l) y O2(g), desprendiendo 1541,4 kJ/mol de nitroglicerina: 
+i. Escriba la ecuaci química ajustada para la descomposici de la nitroglicerina y calcule la entalpía de formaci estándar de la nitroglicerina. (2,0 puntos) 
+ii. Calcule la energía liberada en la descomposici de 1 g de nitroglicerina. (0,5 puntos) 
+Datos: Masas aticas. H= 1u; C = 12u; N = 14u;O = 16u. .Hºf[CO2(g)] = -393,5 kJ/mol .Hºf[H2O(l)] = -285,8 kJ/mol 
+2. (2,5 puntos) 
+A 1,2 g de un mineral de hierro se le aade H2SO4 diluído hasta que todo el hierro que contiene el mineral 
+2+ 2+3+ 
+se disuelve como Fe (ac). Para oxidar este Fe (ac) a Fe (ac), en presencia de H2SO4, se consumen 20 mL de disoluci acuosa de KMnO4 0,1 M : 
+i. Escriba y ajuste por el método del i-electr, en forma iica y molecular, la reacci química que tiene lugar, sabiendo que el permanganato se reduce a Mn2+(ac).(1,25 puntos) 
+ii. Calcule el porcentaje de hierro en el mineral. (1,25 puntos) Datos: Masa atmica Fe = 55,85 u 
+3. (1,0 punto) 
+En un tubo de ensayo se vierten 5 mL de disolucin acuosa de cloruro de sodio, NaCl, a la que se aaden gotas de disoluci acuosa de nitrato de plata, AgNO3, hasta la formaci de un precipitado claramente visible. Escriba la frmula química del compuesto que precipita. Se aade a continuaci gota a gota disoluci acuosa de amoniaco. Indique y explique el cambio que se observa. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 7) e Y (Z = 33). Indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. A partir de esas configuraciones electricas, indique, de forma razonada, el elemento que presenta el valor más bajo de la primera energía de ionizaci. (1,0 punto) 
+B. Deduzca el carácter polar, o no polar, de las siguientes moléculas: 
+Cl O 
+C 
+
+
+
+H Cl (1,0 punto) 
+
+H 
+Cl Cl 
+Ángulo de enlace Cl – C-Cl = 109,5 º Ángulo de enlace H – O – H = 104,5 º 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de una disoluci acuosa de NH4Cl. Datos: Kb(NH3) = 1,8 x 10-5 (1,0 punto) 
+. 
+B. Complete la siguiente ecuaci química: CH3 – CH2OH H2SO4 
+
+Indique el tipo de reacci química que tiene lugar, nombre el reactivo, nombre y escriba la frmula semidesarrollada del producto orgánico de la reacci. (1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2010-2011 
+OPCIÓN B 1. (2,5 puntos) 
+En un recipiente de 2,0 L, en el que previamente se ha realizado el vacío, se introducen 0,20 moles de CO2, 0,10 moles de H2 y 0,16 moles de H2O. A continuaci se establece el siguiente equilibrio a 500 K : 
+CO2(g) + H2(g) 
+CO(g) + H2O(g) 
+i. Si en el equilibrio [p(H2O)]eq = 3,51 atm, calcule las presiones parciales en el equilibrio de CO2, H2 yCO. (1,5 puntos) 
+ii. Calcule Kp y Kc para el equilibrio a 500 K. (1,0 punto) 
+-1 -1 
+Datos: R = 0,082 atm L K mol 2. (2,5 puntos) 
+Se mezclan 100 mL de disoluci acuosa de HCl(ac) con pH = 2,5 y 100 mL de disoluci acuosa de NaOH(ac) con pH = 11,0. Calcule el pH de la disoluci resultante. Suponga que los volmenes son aditivos. 
+3. (1,0 punto) 
+En un tubo de ensayo se colocan unos cristales de KMnO4(s) y se aaden 5 mL de un disolvente orgánico no polar. Indique y justifique la observaci realizada. A continuaci se aaden en el mismo tubo 5 mL de agua, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el nmero máximo de electrones en un átomo que pueden tener los nmeros cuánticos: n = 2 y ms = -½. (1,0 punto) 
+B. Para la reacci: H2O(g) + ½ O2(g) 
+H2O2(g) .Hº = + 105,5 kJ. Indique y justifique si existen condiciones de temperatura en las que la reacci anterior será espontánea. (1,0 punto) 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, si la reacci: Sn(s) + Pb2+(ac) 
+Sn2+(ac) + Pb(s), transcurrirá de manera espontánea en el sentido en que está escrita. Suponga que reactivos y productos se encuentran en estados estándar. (1,0 punto) Datos: Eº(Sn2+/Sn) = -0,137 V; Eº(Pb2+/Pb) = -0,125 V 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i) éter metil propílico; 
+ii) 2-propanol; iii) 2-penteno; iv) 1,1,1-clorodifluoroetano. (1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2010-2011 
+QUÍMICA 
+
+OPCIÓN A 
+1. (2,5 puntos) 
+Calcule la entalpía estándar de formaci del metanol líquido a partir de los siguientes datos: .Hºf[H2O(l)] = -285,5 kJ/mol; .Hºf[CO2(g)] = -393,5 kJ/mol; .Hºcombustión[CH3OH(l)] = -714,4 kJ/mol. 
+2. (2,5 puntos) 
+A 873 K la constante de equilibrio para la reacci: COCl2(g) 
+CO(g) + Cl2(g) tiene el valor Kc = 3,8 x 10-2 . En un recipiente de 2,0 L, en el que inicialmente se ha realizado el vacío, se introducen 0,033 moles de COCl2(g), 0,066 moles de CO(g) y 0,066 moles de Cl2(g). La mezcla se calienta a la temperatura de 873 K. 
+i. Justifique si la mezcla se encuentra inicialmente en equilibrio. (0,75 puntos) 
+ii. Calcule la concentraci de cada gas en la mezcla una vez alcanzado el equilibrio. 
+(1,75 puntos) 3. (1,0 punto) 
+i. En un tubo de ensayo se colocan unos cristales de I2(s) y se aaden 5 mL de agua ¿Qué observará? Justifique la observaci realizada. (0,5 puntos) 
+ii. A continuaci se aaden, en el mismo tubo, 5 mL de un disolvente orgánico no polar, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. (0,5 puntos) 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electrnicas de los elementos X (Z = 9) e Y (Z = 4) e indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. A partir de esas configuraciones electricas, indique, de forma razonada, el elemento que presenta el valor más bajo del radio atico. (1,0 punto) 
+B. Indique, justificando la respuesta, el carácter ácido, básico o neutro de una disoluci acuosa de NH4Cl. Dato: Kb(NH3) = 1,8 x 10-5 (1,0 punto) 
+5. (2,0 puntos) 
+A. Una disoluci contiene las siguientes concentraciones: [Br -] = 1 M; [Cl2] = 1 M. Escriba las semirreacciones ajustadas de oxidacin y de reducci que tienen lugar en la disolucin. (1,0 punto) Datos: Eº(Br2/Br -) = +1,065 V Eº(Cl2/Cl -) = +1,358 V 
+B. Escriba la frmula semidesarrollada y nombre los iseros geométricos del 2,3-dicloro-2-penteno. 
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2010-2011 
+
+OPCIÓN B 
+1. (2,5 puntos) 
+Se mezclan 300 mL de una disoluci acuosa de HCl 0,25 M con 150 mL de una disoluci acuosa de HBr 0,15 M y con 250 mL de agua. Calcule el pH de la disoluci resultante. Suponga que los volmenes son aditivos. 
+2. (2,5 puntos) 
+La pila que se basa en la reacci química: Cr(s) + Zn2+(ac) 
+Cr2+(ac) + Zn(s) tiene un potencial de pila estándar Eº(pila) = + 0,137 V. 
+i. Escriba las semirreacciones de oxidaci y reducci y calcule el valor del potencial estándar de reducci del par Cr2+/Cr. (1,0 punto) 
+ii. Dibuje un esquema de la pila, indicando el ánodo, el cátodo y el sentido de flujo de los 
+electrones. (1,5 puntos) Datos: Eº(Zn2+/Zn) = -0,763 V. 
+3. (1,0 punto) 
+En el laboratorio se dispone del dispositivo experimental necesario para determinar calores de reacci a presi constante. Describa el procedimiento a seguir para determinar el calor de la reacci ácido-base entre el hidrxido de sodio y el ácido clorhídrico. 
+4. (2,0 puntos) 
+A. Deduzca el nmero de orbitales que hay en el nivel n = 3. Especifique el tipo de cada uno de esos 
+orbitales en la forma ns, np, nd… (1,0 punto) 
+B. Dados los siguientes compuestos: KF(s) y CaO(s) indique el que presenta el valor más negativo de la entalpía de red. Justifique su respuesta. Suponga que los dos compuestos presentan la misma estructura cristalina y que las distancias entre los iones en cada compuesto son: d(Ca-O) = 240 pm d(K-F) = 271 pm. (1,0 punto) 
+5. (2,0 puntos) 
+A. Considere la reacci en equilibrio: CO(g) + H2O(g) 
+CO2(g) + H2(g): 
+i) 
+Si disminuye la concentraci de CO(g) en el equilibrio ¿Qué sucede con la concentraci de H2(g) en el equilibrio? ii) Si disminuye la concentraci de H2O(g) en el equilibrio ¿Qué sucede con la constante de equilibrio de la reacci? (1,0 punto) 
+
+B. 
+En la siguiente reacci química, indique los nombres de los reactivos A y B y escriba las frmulas semidesarrolladas de los reactivos y de los productos: 
+
+
+A + B 
+Acetato de etilo + agua (1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15 Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2010-2011 
+
+
+
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Las entalpías estándar de combusti del C2H2(g), C2H6(g) y del H2(g), son -1300, -1560 y -286 kJ/mol, respectivamente: 
+i. Calcule la entalpía estándar para la reacci de hidrogenaci del etino a etano: 
+C2H2(g) + 2 H2(g) 
+C2H6(g) (2,0 puntos) 
+ii. Calcule la variaci de entalpía asociada a la hidrogenaci de 500 g de etino gas en 
+condiciones estándar. (0,5 puntos) Datos: Masas aticas C = 12 u; H = 1 u 
+
+2. (2,5 puntos) 
+Una disoluci acuosa de ácido acético (CH3COOH) tiene un pH = 3. 
+i. Calcule la concentraci inicial de ácido acético en la disoluci. (1,75 puntos) 
+ii. Calcule el volumen de disoluci acuosa de NaOH 0,1 M necesario para neutralizar, 
+exactamente, 30 mL de la disoluci acuosa de ácido acético. (0,75 puntos) Datos: Ka(CH3COOH) = 1,8 x 10-5 
+
+3. (1,0 punto) 
+Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentraci de perido de hidreno en un agua oxigenada comercial, mediante la valoraci denominada permanganimetría. 
+
+4. (2,0 puntos) 
+A. Para los elementos X (Z = 4) e Y (Z = 8), escriba las configuraciones electricas respectivas e indique, de forma razonada,  el que presenta el valor más negativo de la afinidad electrica. 
+(1,0 punto) 
+B. Para la molécula CO2: i) dibuje la estructura de Lewis; ii) deduzca y dibuje su forma geométrica e indique los ángulos de enlace aproximados de la molécula. (1,0 punto)
+ Datos: C (Z = 6), O (Z = 8) 
+
+5. (2,0 puntos) 
+A. Para la reacci en equilibrio: 4 NH3(g) + 5 O2(g)
+  4 NO(g) + 6 H2O(g) .Hº = -904,4 kJ. Explique el efecto que sobre la cantidad de NO(g) en el equilibrio tendrá: 
+i. Una disminuci de la [O2] manteniendo constante el volumen del recipiente. 
+(0,5 puntos) 
+ii. 
+Transferir la mezcla en equilibrio a un recipiente cuyo volumen es la mitad del volumen del recipiente original, a la misma temperatura. (0,5 puntos) 
+
+B. 
+Escriba la ecuaci química ajustada que representa la obtenci de etanol por adici de agua a eteno en medio sulfico. Nombre y escriba la fmula semidesarrollada de los reactivos y productos que intervienen en la citada reacci. (1,0 punto) 
+
+
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15  Fax: 985 10 39 33 
+
+PRUEBAS DE ACCESO A LA UNIVERSIDAD 
+Curso 2010-2011 
+OPCIÓN B 
+1. (2,5 puntos) 
+En un recipiente de 2 L, en el que inicialmente se ha realizado el vacío, se introducen 2,0 g de CO2(g) y carbono sido en exceso. El conjunto se calienta a 1173 K, estableciéndose el equilibrio químico representado por la ecuaci: C(s) + CO2(g) 
+2 CO(g). 
+i. Si en el equilibrio hay 2,1 g de CO(g), calcule las presiones parciales de CO2(g) y de CO(g) en el equilibrio. (1,50 puntos) 
+ii. Calcule los valores de Kp y Kc para el equilibrio a 1123 K. (1,0 punto) Dato: R = 0,082 atm L K-1 mol-1. Masas atmicas: C = 12 u; O = 16 u. 
+2. (2,5 puntos) 
+A partir de los siguientes valores de potenciales estándar de reducci: Eº(Ag+/Ag) = + 0,80 V; Eº(Ni2+/Ni) = - 0,23 V y Eº(Cr3+/Cr) = - 0,74 V. 
+i. De todas las combinaciones posibles tomando dos potenciales estándar de reducci, indique aquella que utilizaría para construir la pila voltaica que presente el valor de potencial estándar de pila más elevado. Justifique su respuesta. (1,0 punto) 
+ii. Escriba las semirreacciones de oxidaci y reducci, así como la reacci global que ocurren en la pila construida en el apartado i). Indique el ánodo, el cátodo y calcule el potencial estándar de la pila. 
+(1,50 puntos) 
+
+3. (1,0 punto) 
+En el laboratorio se desea determinar el calor de la reacci ácido-base del hidrido de sodio con el ácido clorhídrico. Dibuje un esquema del dispositivo experimental e indique el material utilizado. 
+
+4. (2,0 puntos) 
+A. Indique, justificando la respuesta, el nero de electrones desapareados que presentan en estado fundamental los átomos de Cr (Z = 24) y As (Z = 33). (1,0 punto) 
+B. Los valores de los puntos de ebullici normales del Cl2 y del I2 son 239 y 457 K, respectivamente. Explique la diferencia observada en estos valores de los puntos de ebullici normales. (1,0 punto) 
+
+
+5. (2,0 puntos) 
+A. Dispone de una disoluci reguladora de ácido acético (CH3COOH) y acetato de sodio (NaCH3COO) Escriba y justifique la ecuaci química que muestre cmo reacciona la disoluci reguladora preparada cuando: i) se le ade una peque cantidad de ácido fuerte. (0,5 puntos); ii) se le ade una peque cantidad de base fuerte. (0,50 puntos) 
+B. Escriba la fmula semidesarrollada de los siguientes compuestos: 
+i) Ácido propanoico ii) trans-2-penteno iii) 3-etil-4-metil-1-hexino iv) 3-pentanol 
+(1,0 punto) 
+Calle González Besada 13, Planta Baja. 33007 Oviedo. Tel: 985 10 41 15  Fax: 985 10 39 33 
+
+ORDINARIA, 2012 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) Dibuje el ciclo de Born-Haber y calcule la energía de red (.Hred) del NaF(s) a partir de los siguientes datos: Entalpía estándar de formación del NaF(s) [.Hf(NaF)] = -573,6 kJ mol-1 . Entalpía de sublimacin 
+-1 -1 
+del Na(s) [.HSNa(s)] = 107,3 kJ mol . Entalpía de disociaci del F2(g) [.HDF2(g)] = 159 kJ mol . Primera energía de ionización del Na(g) [.HionizacinNa(g)]1 = 495,8 kJ mol-1 . Afinidad electrica del F(g) [.HafinidadF(g)] = -328 kJ mol-1 . 
+2. (2,5 puntos) 
+El cloro gaseoso puede obtenerse por la electrolisis de NaCl fundido. 
+i. Dibuje un diagrama que represente el dispositivo que se emplea para la electrolisis del NaCl fundido. Represente el flujo de los electrones por el circuito externo e indique el signo del ánodo, el signo del cátodo, las reacciones que tienen lugar en cada uno de los electrodos y la reaccin global. (1,75 puntos) 
+ii. Si la electrolisis se realiza en celdas que operan a 4,0 x 104 amperios, calcule las masas de sodio metal y de cloro gaseoso que se obtendrán en un día de trabajo de una celda de este tipo. 
+(0,75puntos) Datos: Masas aticas: Na = 23 u; Cl = 35,45 u. 1F = 96485 C 
+3. (1,0 punto) Describa el procedimiento experimental que hay que seguir en el laboratorio para realizar la determinacin del contenido de ácido acético en un vinagre comercial. 
+4. (2,0 puntos) 
+A. Indique si es correcta la afirmación: “El radio del catión Na+ es menor que el radio del cati K+”. 
+Justifique su respuesta. (1,0 punto) Datos: Na (Z = 11);K (Z = 19) 
+B. Escriba la estructura de Lewis del cati H3O+. Deduzca y dibuje su forma geométrica e indique los 
+ángulos de enlace aproximados del in. (1,0 punto) Datos: O (Z = 8); H (Z = 1) 
+5. (2,0 puntos) 
+A. La solubilidad del cloruro de plata en agua es de 1,92 x 10-4 g de compuesto por 100 mL de 
+disoluci. Calcule la constante del producto de solubilidad del cloruro de plata. Datos: Masas aticas: Ag = 107,8 u; Cl = 35,45 u (1,0 punto) 
+B. Indique y describa el tipo de reacci química que representa cada una de las siguientes ecuaciones: 
+. 
+i.  CH3  CHOH        CH3  H2SO4  CH3  CH       CH2  +  H2O  (0,5 puntos)  
+
+ 
+ Cl  + HCl  
+
+ 
+ (0,5 puntos)  
+
+
+
+ORDINARIA, 2012 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+OPCIÓN B 1. (2,5 puntos) 
+Si mezclamos 10,0 mL de una disoluci acuosa de BaCl2 0,10 M con 40,0 mL de una disoluci acuosa de Na2SO4 0,025 M: 
+i. Determine si se formará precipitado de BaSO4. (1,5 puntos) 
+ii. Calcule las concentraciones de Ba2+(ac) y SO42-(ac) en la disoluci después de producirse la 
+precipitaci. (1,0 punto) Dato: KPS(BaSO4) = 1,1 x 10-10 
+2. (2,5 puntos) 
+Se prepara una disoluci acuosa por mezcla de 30 mL de disolucin acuosa de HCl, que contiene un 1,5% en masa de HCl y una densidad de 1,1 g cm -3 , con 50 mL de una disolucin acuosa de HNO3 con pH = 1,5 y con 100 mL de agua. Calcule el pH de la disoluci resultante. Suponga que los volenes son aditivos. Datos: Masas aticas: Cl = 35,45 u; H = 1 u. 
+3. (1,0 punto) 
+En una pila Daniell, indique el metal y la composici de la disoluci acuosa que forman cada uno de los electrodos de la pila. 
+4. (2,0 puntos) 
+A. A continuaci se enumeran cuatro combinaciones de neros cuánticos escritos siguiendo el orden {n, l, ml, ms}. Indique las combinaciones que están permitidas y las que no lo están, justificando su respuesta: i) {1, 1, 1, 1/2}; ii) {2, 1, 0, 1/2}; iii) {3, 2, 1, 0}; iv) {2, 1, -2, 1/2}. (1,0 punto) 
+B. A partir de los siguientes datos: 
+Propiedad física  NH3  PH3  
+Punto de ebullici normal (K)  240  185  
+Punto de fusi normal (K)  195  139  
+
+y de los valores de electronegatividad: . (N) = 3,0;. (P) = 2,1; . (H) = 2,1. 
+i. Indique, de forma razonada, la sustancia que presenta fuerzas intermoleculares más intensas. (0,5 puntos) 
+ii. Indique, de forma razonada, el tipo de fuerzas intermoleculares presentes en cada una de las sustancias. (0,5 puntos) 
+5. (2,0 puntos) 
+A. Las entalpías estándar de combusti del C(grafito) y del CO(g) son: -393,51 y -283,0 kJ mol-1 , respectivamente. En ambos casos se obtiene CO2(g). Calcule la entalpía estándar de formacin del CO(g). (1,0 punto) 
+B. Escriba la fmula semidesarrollada de los siguientes compuestos: 
+i. 2-cloro-3-metilpentano ii. 2-pentanona 
+iii. 2-penteno iv) Acetato de etilo (1,0 punto) 
+
+ORDINARIA, 2012 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+La combusti de amoniaco, NH3(g), genera NO(g) y H2O(g), liberándose 226 kJ/mol de amoniaco en condiciones estándar. 
+i. Escriba la ecuaci química ajustada para la combusti del amoniaco y calcule la entalpía estándar de formaci del amoniaco gaseoso. (2,0 puntos) 
+ii. Calcule la energía liberada en la obtenci de 50 g de NO(g) . (0,5 puntos) 
+Datos: .Hºf[NO(g)] = 90,25 kJ/mol; .Hºf[H2O(g)] = -241,82 kJ/mol. Masas aticas: N = 14 u, O = 16 u 
+2. (2,5 puntos) 
+El permanganato de potasio, KMnO4, reacciona con el cloro, Cl2, en presencia de ácido sulfrico, H2SO4, obteniéndose como productos de la reaccin ácido clico, HClO3, y diido de manganeso, MnO2. 
+i. Escriba y ajuste por el método del i-electr, en forma iica y molecular, la reaccin química que tiene lugar. (1,25 puntos) 
+ii. Calcule el volumen de disoluci acuosa 2,0 M de permanganato de potasio necesario para obtener, por reacci con cloro, 10 g de ácido clrico, si el rendimiento de la reacci es del 65% en ácido clrico. (1,25 puntos) 
+Datos: Masas aticas: Cl = 35,45 u; O = 16 u; H = 1u. 
+3. (1,0 punto) 
+En un tubo de ensayo se vierten 5 mL de disolucin acuosa de cloruro de sodio, NaCl, a la que se aden gotas de disolucin acuosa de nitrato de plata, AgNO3, hasta la formaci de un precipitado claramente visible. Escriba la frmula química del compuesto que precipita. Se ade a continuacin gota a gota disoluci acuosa de amoniaco. Indique y explique el cambio que se observa. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 12) e Y (Z = 17) e indique el grupo y período de la tabla periica a los que pertenecen los elementos. A partir de esas configuraciones electrnicas, indique, de forma razonada, el elemento que presenta el valor más elevado de la primera energía de ionizacin. (1,0 punto) 
+B. Deduzca el carácter polar, o no polar, de la molécula de amoniaco. Datos: N(Z = 7); H (Z = 1). 
+(1,0 punto) 5. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de una disoluci acuosa de NaClO. Dato: Ka(HClO) = 2,9 x 10-8 . (1,0 punto) 
+. 
+B. Complete la siguiente ecuaci química: CH3 – CH2OH 
+
+H2SO4 Indique el tipo de reaccin química que tiene lugar, nombre el reactivo, nombre y escriba la fmula semidesarrollada del producto orgánico de la reacci. (1,0 punto) 
+
+ORDINARIA, 2012 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+OPCIÓN B 
+1. (2,5 puntos) 
+En un matraz de 1,75 L, en el que previamente se ha realizado el vacío, se introducen 0,1 moles de CO(g) y 1 mol de COCl2(g). A continuacin, se establece el equilibrio a 668 K: CO(g) + Cl2(g) 
+COCl2(g) Si en el equilibrio la presin parcial del Cl2(g) es 10 atm, calcule: 
+i. Las presiones parciales de CO(g) y de COCl2(g) en el equilibrio. (1,5 puntos) 
+ii. Los valores de KP y KC para la reacci a 668 K. (1,0 punto) 
+-1 -1 
+Dato: R = 0,082 atm L K mol . 
+2. (2,5 puntos) 
+Se mezclan 180 mL de disoluci de HCl(ac) 1,5 M con 200 mL de disoluci de NH3(ac) 1,2 M. Calcule el pH de la disoluci resultante. Suponga que los volenes son aditivos. 
+3. (1 punto) 
+En un tubo de ensayo se colocan unos cristales de KMnO4(s) y se aden 5 mL de un disolvente orgánico no polar. Indique y justifique la observaci realizada. A continuaci se aden en el mismo tubo 5 mL de agua, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. 
+4. (2,0 puntos) 
+A. Deduzca el nero máximo de electrones en un átomo que pueden tener los siguientes neros cuánticos: 
+i. n = 2; ml = 0 (0,5 puntos) 
+ii. 
+l = 2; ms= - 1/2 (0,5 puntos) 
+
+B. 
+Para una determinada reacci química .Hº = + 23,5 kJ y.Sº = + 68,5 JK-1 . De forma razonada, indique si: 
+
+i. 
+La reacci da lugar a un aumento o a una disminucin del desorden del sistema. 
+
+
+(0,25 puntos) 
+ii. La reacci será espontánea a 25 ºC y condiciones estándar. (0,75 puntos) 
+5. (2,0 puntos) 
+2+2+ 
+3+
+A. Indique, de forma razonada, si la reacci: Cu (ac) + 2 Fe (ac) Cu(s) + 2 Fe (ac), transcurrirá de manera espontánea en el sentido en que está escrita. Suponga que los reactivos y los productos se encuentran en condiciones estándar. 
+2+ 3+2+
+Datos: Eº(Cu /Cu) = + 0,34 V; Eº(Fe /Fe ) = + 0,771 V. (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i. 1,1,2,2-tetracloroetano ii. 3,4-dimetil-1-penteno 
+iii. Ácido propanoico iv. Butanona 
+(1,0 punto) 
+
+EXTRAORDINARIA, 2012 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+QUÍMICA 
+OPCIÓN A 1. (2,5 puntos) A partir de los siguientes datos de energías de ruptura de enlaces (ED): 
+Molécula  Enlaces  ED (kJ mol -1)  
+H2  H H  436  
+N2  N N  946  
+NH3  N-H  389  
+
+Estime la entalpía estándar de formacin de la molécula de amoníaco. Todos los datos se refieren a condiciones estándar. 
+2. (2,5 puntos) 
+i. Calcule la molaridad inicial de una disoluci acuosa de NH3 cuyo pH es 11,5. (1,75 puntos) 
+ii. Calcule el volumen de disoluci acuosa 2 M de HCl(ac) que se necesita para neutralizar exactamente 1L de la disoluci de amoníaco del apartado anterior. (0,75 puntos) Dato: Kb(NH3) = 1,8 x 10-5 
+3. (1,0 punto) 
+Para estudiar experimentalmente el equilibrio en disoluci: Fe3+(ac) + 6 SCN -(ac) 
+[Fe(SCN)6]3­(ac), se prepara una disolucin mezclando, en un vaso de precipitados, 1 mL de disolucin acuosa 0,1 M de FeCl3, 1 mL de disolucin acuosa 0,1 M de KSCN y 50 mL de agua. Indique y explique los cambios de color que se observan en la disoluci resultante cuando: i) Se ade gota a gota disoluci acuosa 0,1 M de KSCN (0,5 puntos); ii) Se ade gota a gota disoluci acuosa 0,1 M de NaOH.(0,5 puntos) 
+4. (2,0 puntos) 
+A. Utilizando la correspondiente configuracin electrica, indique, de forma razonada, el período y grupo de la tabla periica a los que pertenece el elemento X (Z = 50).  Escriba la configuraci electrica de la especie X2+. (1,0 punto) 
+B. Deduzca el carácter polar, o no polar, de las siguientes moléculas: 
+F 
+H 
+Ángulo de enlace 
+Ángulo de enlace B 
+F – B – F = 120º H – C – H = 109,5º C
+
+FF 
+
+(1,0 punto) 
+H H 
+H 
+5. (2,0 puntos) 
+A. ¿Se producirá reaccin química al aadir una disoluci acuosa de K2Cr2O7 sobre una lámina metálica de cobre? Justifique la respuesta. En caso afirmativo, escriba y ajuste las semirreacciones y la reacci global que se producen. Todas las disoluciones se encuentran en condiciones estándar. 
+2-3+ 2+
+Datos: Eº(Cr2O7 /Cr ) > Eº(Cu /Cu) > 0 (1,0 punto) 
+B. Escriba la ecuaci química correspondiente a la reacci de etanol con Cr2O72-, en medio ácido. Indique el tipo de reacci química que se produce. Nombre y escriba la fmula semidesarrollada del producto orgánico. (1,0 punto) 
+
+EXTRAORDINARIA, 2012 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+OPCIÓN B 1. (2,5 puntos) 
+En un matraz de 1,41 L, en el que previamente se ha realizado el vacío, se introducen 1,00 g de CO(g), 1,00 g de H2O(g) y 1,00 g de H2(g). La mezcla se calienta a 600 ºC, alcanzándose el equilibrio: 
+CO(g) + H2O(g) 
+CO2(g) + H2(g) KC = 23,2 Calcule la presi total de la mezcla en el equilibrio. 
+-1 -1 
+Datos: Masas aticas  C= 12 u; O = 16 u; H = 1 u. R = 0,082 atm L mol K 
+2. (2,5 puntos) Se desea realizar la electrolisis de 255 mL de una disoluci acuosa 0,196 M de AgNO3(ac). Para ello se dispone de electrodos de Pt(s), así como del resto de material necesario para realizar la electrolisis. 
+i. Dibuje un esquema de la célula electrolítica utilizada en la electrolisis. Indique el signo del ánodo, el signo del cátodo y el flujo de electrones durante la electrolisis. (1,0 punto) 
+ii. Si la electrolisis se realiza utilizando una corriente eléctrica de 1,84 A durante 10 minutos, calcule la [Ag+] en la disoluci final. (1,5 puntos) Dato: Constante de Faraday F = 96485 C mol-1 
+3. (1 punto) 
+Dibuje un esquema del dispositivo experimental necesario para determinar la concentracin de ácido acético en un vinagre comercial. Indique el nombre del material de laboratorio y los reactivos utilizados en la determinaci. 
+4. (2,0 puntos) 
+A. Escriba el valor de los nmeros cuánticos n, l y ml para los orbitales del subnivel 5d. Indique, de forma razonada, el nero máximo de electrones que pueden ocupar el citado subnivel.(1,0 punto) 
+B. Explique la diferencia en los valores de la energía de red del LiF(s) (1030 kJ mol-1) y del KF(s) (808 kJ mol-1), si ambos presentan el mismo tipo de estructura cristalina. Indique, de forma razonada, el compuesto que presentará un valor mayor del punto de fusi normal . (1,0 punto) 
+5. (2,0 puntos) 
+A. Calcule la entalpía estándar de la reacci: 
+3 H2(g) + O3(g) ... 3 H2O(g) A partir de las entalpías de reaccin: 
+(1) 
+2 H2(g) + O2(g) ... 2 H2O(g) .H1 = - 483,6 kJ 
+
+(2) 
+3 O2(g) ... 2 O3(g) .H2 = + 284,6 kJ 
+
+
+(1,0 punto) 
+B. Escriba las fmulas semidesarrolladas y nombre los iseros geométricos del compuesto 2-hexeno. 
+(1,0 punto) 
+
+ORDINARIA, 2012 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+Se aden 10 mg de carbonato de estroncio sido, SrCO3(s), a 2 L de agua pura. Calcule la cantidad de SrCO3(s) que queda sin disolver. Suponga que no hay variaci de volumen al adir el slido al agua. Datos: Masas aticas: Sr = 87,6 u; C = 12 u; O = 16 u. KPS(SrCO3) = 5,6 x 10-10 
+2. (2,5 puntos) 
+El aluminio metal se obtiene industrialmente por electrolisis de ido de aluminio (Al2O3) fundido, utilizando electrodos de carbono. 
+i. Dibuje un esquema de la célula electrolítica utilizada en la electrolisis del Al2O3 fundido. Indique el signo del ánodo, el signo del cátodo y el flujo de electrones durante la electrolisis. 
+(1,0 punto) 
+ii. Si la célula electrolítica se carga con 2 Kg de Al2O3 y se hace pasar una corriente de 3,5 x 102 amperios durante 3 horas, calcule los gramos de aluminio que quedan en la célula después de la electrolisis. (1,5 puntos) 
+Datos: Masas aticas: Al = 27 u; O = 16 u; 1F = 96485 C. 
+3. (1,0 punto) 
+En el laboratorio se desea determinar el calor de la reacci ácido-base del hidrxido de sodio con el ácido clorhídrico. Dibuje un esquema del dispositivo experimental e indique el material utilizado. 
+4. (2,0 puntos) 
+A. Escriba la configuraci electrica e indique el nero de electrones desapareados para cada una de las siguientes especies: Ge (Z = 32); Cl (Z = 17); Cr3+ (Z = 24); Br -(Z = 35). (1,0 punto) 
+B. Los puntos de ebullici normales del HF y HCl son 293 K y 188 K, respectivamente. Los valores de la electronegatividad de los elementos son: . (F) = 4,0; . (Cl) = 3,0; . (H) = 2,1. A partir de estos datos: 
+i. Indique, de forma razonada, la sustancia que presenta las fuerzas intermoleculares más intensas. (0,5 puntos) 
+ii. Indique, de forma razonada, el tipo de fuerzas intermoleculares presentes en cada una de las sustancias. (0,5 puntos) 
+5. (2,0 puntos) 
+A. Dispone de una disolucin reguladora de amoniaco (NH3) y cloruro de amonio (NH4Cl). Escriba y justifique la ecuaci química que muestre co reacciona la disolucin reguladora preparada cuando: i) se le ade una peque cantidad de ácido fuerte (0,5 puntos); ii) se le ade una pequea cantidad de base fuerte. (0,5 puntos) 
+B. Escriba la fmula semidesarrollada de los siguientes compuestos: 
+i) Ácido propanoico ii) trans-2-penteno iii)3-etil-4-metil-1-hexino iv) 3-pentanol (1,0 punto) 
+
+ORDINARIA, 2012 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2011-2012 
+OPCIÓN B 
+1. (2,5 puntos) 
+En una disoluci acuosa de amoniaco (NH3) se observa que:  pH = 5 x pOH. Calcule: 
+i. El valor de [H3O+] en la disoluci. (1,0 punto) 
+ii. El valor de la concentracin inicial de amoniaco en la disoluci. (1,5 puntos) 
+Dato: Kb(NH3) = 1,8 x 10-5 
+2. (2,5 puntos) 
+Dibuje el ciclo de Born-Haber para la formacin del LiCl(s) y calcule la energía de red (.Hred) del compuesto, a partir de los siguientes datos: Entalpía estándar de formación del LiCl(s) [.Hf(LiCl)] = -408,3 kJ mol-1 . Entalpía de sublimaci del 
+-1 -1 
+Li(s) [.HSLi(s)] = 159,3 kJ mol . Entalpía de disociaci del Cl2(g) [.HDCl2(g)] = 244 kJ mol . Primera energía de ionización del Li(g) [.HionizacinLi(g)]1 = 520,2 kJ mol-1 . Afinidad electrica del Cl(g) [.HafinidadCl(g)] = - 349 kJ mol-1 . 
+3. (1,0 punto) 
+Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentraci de perido de hidreno en un agua oxigenada comercial, mediante la valoraci denominada permanganimetría. 
+4. (2,0 puntos) 
+A. Para los elementos X (Z = 5) e Y (Z = 9), escriba las configuraciones electrnicas respectivas. Indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. A partir de su posici en la tabla peridica, indique, de forma razonada,  el que presenta el valor más alto de la primera energía de ionizaci. (1,0 punto) 
+B. Para la molécula H2O: i) dibuje la estructura de Lewis; ii) deduzca y dibuje su geometría electrica y molecular, e indique los ángulos de enlace aproximados de la molécula. Datos: H (Z = 1), O (Z = 8) (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la reacci: I2(g) + C5H8(g) 
+C5H6(g) + 2 HI(g) .Hº = + 92,5 kJ mol-1 Explique el efecto de cada uno de los siguientes factores en la cantidad de HI(g) presente en la mezcla en equilibrio: i) elevar la temperatura de la mezcla (0,5 puntos); ii) introducir más C5H6(g) en el recipiente que contiene la mezcla. (0,5 puntos) 
+B. En la siguiente reacci química, indique los nombres de los productos A y B y escriba las fmulas semidesarrolladas de los reactivos y de los productos: 
+Ácido acético  + Etanol 
+A + B (1,0 punto) 
+
+ORDINARIA, 2013 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+-1 -1 
+Las entalpías estándar de formaci del CO2(g) y del H2O(l) son -393,5 kJ mol y -285,8 kJ mol , respectivamente. La entalpía estándar de combustin del ácido acético, C2H4O2(l), es -875,4 kJ mol-1 . Calcule la entalpía estándar de formacin del ácido acético. 
+2. (2,5 puntos) Una muestra de 5 gramos de un objeto metálico que contiene un 68% en masa de hierro se trata con H2SO4 diluído hasta que todo el hierro contenido en la muestra se disuelve como Fe2+(ac). Para oxidar este Fe2+(ac) a Fe3+(ac), en presencia de H2SO4, se consumen 24 mL de una disoluci acuosa de dicromato de potasio, K2Cr2O7, de concentraci desconocida: 
+i. Escriba y ajuste por el método del i-electr, en forma iica y molecular, la reaccin química que tiene lugar, sabiendo que el dicromato se reduce a Cr3+(ac). Indique la especie que act como reductor. (1,5 puntos) 
+ii. Calcule la molaridad de la disoluci acuosa de dicromato de potasio. (1,0 punto) Dato: Masa atica Fe = 55,85 u 
+3. (1,0 punto) En un tubo de ensayo se vierten 5 mL de disolucin acuosa de cloruro de sodio, NaCl, a la que se aden gotas de disolucin acuosa de nitrato de plata, AgNO3, hasta la formaci de un precipitado claramente visible. Escriba la frmula química del compuesto que precipita. Se ade a continuacin gota a gota disoluci acuosa de amoniaco. Indique y explique el cambio que se observa. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 8) e Y (Z = 34) e indique el grupo y período de la tabla peridica al que pertenece cada uno de los elementos. A partir de esas configuraciones electricas, indique, de forma razonada, el elemento que presenta el valor más bajo del radio atico. (1,0 punto) 
+B. Deduzca el carácter polar, o no polar, de las siguientes moléculas: 
+Cl O 
+
+C 
+
+
+
+HH 
+Cl (1,0 punto) 
+Cl Cl 
+Ángulo de enlace Cl – C- Cl = 109,5 º Ángulo de enlace H – O – H = 104,5 º 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de una disolucin acuosa de KCN. Dato: Ka(HCN) = 6,2 x 10-10 (1,0 punto) 
+. 
+B. Complete la siguiente ecuaci química: CH3 – CH2OH H2SO4 
+
+Indique el tipo de reaccin química que tiene lugar, nombre el reactivo, nombre y escriba la fmula semidesarrollada del producto orgánico de la reaccin. (1,0 punto) 
+
+ORDINARIA, 2013 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+QUÍMICA. 
+OPCIÓN B 1. (2,5 puntos) 
+En un recipiente de 2,0 L, en el que inicialmente se ha realizado el vacío, se introducen 1,5 moles de PCl5, 0,5 moles de PCl3 y 1 mol de Cl2. La mezcla se calienta a 200 ºC, alcanzándose el equilibrio: PCl3(g) + Cl2(g) 
+PCl5(g) Si en el equilibrio el nero total de moles gaseosos es 2,57, calcule los valores de Kp y Kc a 200 ºC. 
+-1 -1 
+Dato: R = 0,082 atm L K mol 2. (2,5 puntos) 
+La neutralizaci exacta de 25,0 mL de una disoluci acuosa de hidrido de sodio, NaOH, necesita 34,0 mL de disoluci acuosa de ácido clorhídrico, HCl, de pH = 1,3. Calcule el pH de la disoluci inicial de NaOH. 
+3. (1,0 punto) 
+En un tubo de ensayo se colocan unos cristales de KMnO4(s) y se aden 5 mL de un disolvente orgánico no polar. Indique y justifique la observaci realizada. A continuaci se aden en el mismo tubo 5 mL de agua, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el nero máximo de electrones en un átomo que pueden tener los neros cuánticos: n = 3 y ml = -1. (1,0 punto) 
+B. Para la reaccin: N2F4(g)
+            2 NF2(g) .Hº = + 85,0 kJ. Indique y justifique si existen condiciones de temperatura en las que la reacci anterior será espontánea. (1,0 punto) 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, si la reaccin: Fe(s) + Zn2+(ac) 
+Fe2+(ac) + Zn(s), transcurrirá de manera espontánea en el sentido en que está escrita. Suponga que reactivos y productos se encuentran en estados estándar. (1,0 punto) Datos: Eº(Fe2+/Fe) = -0,44 V; Eº(Zn2+/Zn) = -0,763 V 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i) éter metil propílico; 
+ii) 2-propanol; iii) 2-penteno; iv) 1,1,1-clorodifluoroetano. (1,0 punto) 
+
+ORDINARIA, 2013 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Las entalpías estándar de formaci del NH3(g) y del H2O(l) son -46,11 y -285,8 kJ mol-1 , respectivamente. La variaci de la entalpía estándar para la reacci: NH3(g) + 5/4 O2(g)
+      NO(g) + 3/2 H2O(l) es .Hº = -292,3 kJ A partir de los datos anteriores, calcule: 
+i. La variaci de entalpía estándar para la reacci: N2(g) + O2(g) 
+2 NO(g) (1,5 puntos) 
+ii. Justifique si la reacci del apartado i) será, o no será, espontánea. (1,0 punto) 
+2. (2,5 puntos) 
+En un recipiente de 2 L, en el que previamente se ha realizado el vacío, se introducen 0,30 moles de H2(g), 0,20 moles de NH3(g) y 0,10 moles de N2(g). La mezcla gaseosa se calienta a 400ºC estableciéndose el equilibrio: N2(g) + 3 H2(g) 
+2 NH3(g) . La presin total de la mezcla gaseosa en equilibrio es de 20 atmferas. 
+i. Indique el sentido en que evoluciona el sistema inicial para alcanzar el estado de equilibrio. Justifique su respuesta. (0,75 puntos) 
+ii. Calcule el valor de la constante KC para el equilibrio a 400ºC. (1,75 puntos) 
+-1 -1 
+Datos: R = 0,082 atm L mol K . 
+3. (1,0 punto) 
+Indique el material de laboratorio necesario para realizar la determinaci de la concentraci de H2O2 en el agua oxigenada comercial, utilizando una disoluci de permanganato de potasio. 
+4. (2,0 puntos) 
+2+ 2­
+A. Escriba las configuraciones electricas de los iones X (Z = 20) e Y (Z = 34) e indique el grupo y período de la tabla periica al que pertenecen los elementos de los que derivan estos iones. 
+(1,0 punto) 
+B. Indique, de forma razonada, el carácter ácido, básico o neutro de una disoluci acuosa de acetato de sodio. Dato: Ka(CH3COOH) = 1,8 x 10-5 . (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la molécula C2H4, deduzca la estructura de Lewis, nombre y dibuje la geometría molecular e indique los ángulos de enlace aproximados. Datos: C (Z = 6), H (Z = 1). (1,0 punto) 
+B. Escriba la fmula semidesarrollada correspondiente a cada uno de los siguientes compuestos: 
+i) 3-metil-5,6-dietildecano ii) Dietilmetilamina 
+iii) 3-pentanol iv) 3,4-dimetil-2-hepteno 
+(1,0 punto) 
+
+ORDINARIA, 2013 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+OPCIÓN B 1. (2,5 puntos) 
+Calcule el pH de una disoluci acuosa que contiene un 35% en masa de ácido cianhídrico, HCN, si su densidad es de 0,91 g cm-3 . Datos: Ka(HCN) = 6,2 x 10-10. Masas aticas: C: 12 u; H: 1 u; N: 14 u. 
+2. (2,5 puntos) 
+Cuando se mezclan disoluciones acuosas de permanganato de potasio, KMnO4, y de ácido clorhídrico, HCl, se forma cloro gaseoso, Cl2, cloruro de manganeso(II), MnCl2, cloruro de potasio, KCl, y agua. 
+i. Escriba y ajuste la reaccin en forma iica y molecular por el método del i-electr e indique el agente oxidante y el agente reductor. (1,75 puntos) 
+ii. Calcule el volumen de Cl2(g), medido en condiciones normales, que se obtiene a partir de 100 mL de una disolucin acuosa 0,2 M de permanganato de potasio, si reacciona todo el ani permanganato presente en la disoluci. 
+-1 -1 
+Dato: R = 0,082 atm L mol K . (0,75 puntos) 3. (1 punto) 
+Dibuje un esquema del dispositivo experimental que permite medir la conductividad del I2(s) e indique el material de laboratorio que se utiliza. 
+4. (2,0 puntos) 
+A. Indique el nero máximo de electrones en un átomo que pueden tener los siguientes neros cuánticos: 
+i. n = 2; ms= -1/2 (0,5 puntos) 
+ii. 
+n = 4;l = 2 (0,5 puntos) Justifique su respuesta. 
+
+B. 
+Para una determinada reacci química .Hº = -35,4 kJ y .Sº = -85,5 J K-1 . Indique, justificando la respuesta, si: 
+
+i. 
+La reacci da lugar a un aumento o a una disminucin del desorden del sistema. 
+
+
+(0,25 puntos) 
+ii. 
+La reacci será espontánea a 298 K y condiciones estándar. (0,75 puntos) 5. (2,0 puntos) 
+
+A. El metanol se puede obtener mediante la reacci: CO(g) + 2 H2(g) 
+CH3OH(g)  con .Hº < 0. Se desea incrementar al máximo el rendimiento en la produccin de metanol en el equilibrio. Para ello ¿Qué utilizaría?: i) una temperatura alta o baja (0,5 puntos); ii) una presin alta o baja. (0,5 puntos) Justifique su respuesta. 
+B. 
+Complete la siguiente reacci y nombre el producto, o productos, que se obtienen: 
+
+
+H2SO4 CH3-CH=CH2 + H2O 
+(1,0 punto) 
+diluído 
+
+EXTRAORDINARIA, 2013 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+Dispone de los pares redox (Cr2O72-/Cr3+) y (Ag+/Ag), cuyos potenciales estándar de reducci en medio ácido son, respectivamente, + 1,33 y + 0,80 V. Con ellos construye una pila voltaica: 
+i. Escriba las ecuaciones químicas ajustadas para las semirreacciones de reduccin, de oxidaci y para la reaccin global que tiene lugar en la pila voltaica. (1,25 puntos) 
+ii. Indique la semirreaccin que ocurre en el ánodo y la que ocurre en el cátodo, así como el sentido en el que fluyen los electrones en la pila. Calcule el potencial estándar de la pila . 
+(1,25 puntos) 2. (2,5 puntos) 
+En el proceso metalgico de obtenci de hierro en el alto horno, se produce la reacci de Fe2O3(s) con CO(g) para formar Fe3O4(s) y CO2(g). 
+i. Calcule la entalpía estándar de la reacci. Indique si es un proceso endotérmico o exotérmico. (1,5 puntos) 
+ii. Calcule la cantidad de energía involucrada en la formaci de 500 kg de Fe3O4(s) y los moles de CO2(g) que se forman. (1,0 punto) 
+Datos: .Hºf[Fe2O3(s)] = -824,2 kJ/mol; .Hºf[Fe3O4(s)] = -1118 kJ/mol; .Hºf[CO(g)] = -110,5 kJ/mol; .Hºf[CO2(g)] = - 393,5 kJ/mol. Masas aticas: Fe = 55,85 u; O = 16 u. 
+3. (1,0 punto) 
+En un tubo de ensayo se vierten 5 mL de disoluci acuosa de cloruro de bario (BaCl2) y, a continuacin, gotas de disoluci acuosa de carbonato de sodio (Na2CO3) hasta la formaci de un precipitado claramente visible. Escriba la fmula química del compuesto que precipita. Una vez formado el precipitado, se ade gota a gota una disoluci acuosa de ácido clorhídrico (HCl). Indique y explique el cambio que se observa en el tubo de ensayo. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los siguientes átomos e iones: X (Z = 35), X-, Y (Z = 38), Y2+. Indique el grupo y período de la tabla periica a los que pertenece cada uno de los elementos. (1,0 punto) 
+B. Las moléculas de NH3 y BF3 presentan las geometrías de pirámide trigonal y triangular plana, respectivamente. Indique, de forma razonada, cuál de los dos compuestos será más soluble en agua. 
+(1,0 punto) 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de una disoluci acuosa de NH4Cl. Dato: Kb(NH3) = 1,8 x 10-5 . (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas y nombre los iseros geométricos del compuesto 2,3­dicloro-2-buteno. (1,0 punto) 
+
+EXTRAORDINARIA, 2013 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+OPCIÓN B 
+1. (2,5 puntos) 
+i. Calcule la molaridad inicial de una disoluci acuosa de ácido acético, CH3COOH, cuyo pH es 2,5. 
+(1,5 puntos) 
+ii. Calcule el volumen de disoluci acuosa 1,5 M de NaOH que se necesita para neutralizar, exactamente, 250 mL de la disoluci acuosa de ácido acético del apartado anterior. 
+(1,0 punto) Dato: Ka(CH3COOH) = 1,8 x 10-5 . 
+2. (2,5 puntos) 
+La reaccin: H2(g) + I2(g) 
+2 HI(g) tiene una KC = 50,2, a 445 ºC. En un recipiente de 3,5 L, en el que previamente se ha realizado el vacío, se introducen 0,30 g de H2(g), 38,07 g de I2(g) y 19,18 g de HI(g) a 445 ºC. Calcule las concentraciones de H2(g), I2(g) y HI(g) en el equilibrio. Datos: Masas aticas  H = 1 u; I = 126,9 u. 
+3. (1 punto) 
+En un tubo de ensayo se colocan unos cristales de KMnO4(s) y se aden 5 mL de un disolvente orgánico no polar. Indique y justifique la observaci realizada. A continuaci se aden en el mismo tubo 5 mL de agua, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. 
+4. (2,0 puntos) 
+A. Indique el valor, o valores, posibles para cada uno de los neros cuánticos que faltan. Justifique la respuesta. 
+i. n = 3, l = ?, ml= 2 ii. n = ?, l = 2, ml= 1 
+iii. 
+n = 4, l = 2, ml= ? iv. n = ?, l = 0, ml= ? (1,0 punto) 
+
+B. Para la reacci PCl3(g) + Cl2(g) 
+PCl5(g) .HºR = -87,9 kJ/mol. Indique, de forma razonada, las condiciones de temperatura (alta o baja) en las que es posible realizar la reacci. 
+
+(1,0 punto) 
+5. (2,0 puntos) 
+3+ -2+ 2­
+A. Indique si el Cr (ac) reducirá al MnO4 (ac) a Mn (ac), con formacin de Cr2O7 (ac) en medio ácido. Justifique la respuesta. Suponga que los reactivos y los productos se encuentran en condiciones estándar. 
+2-3+ -2+
+Datos: Eº(Cr2O7 /Cr ) = + 1,33 V; Eº(MnO4 /Mn ) = + 1,51 V. (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i. 1-butino ii. trans-2-buteno 
+iii. 3-pentanona iv. 1,1-difluoro-2,2-dicloropropano 
+(1,0 punto) 
+
+EXTRAORDINARIA, 2013 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+Construya el ciclo de Born-Haber y calcule la energía de red (.Hred) del KCl(s) a partir de los siguientes datos: Entalpía estándar de formación del KCl(s) [.Hf(KCl)] = -437 kJ mol-1 . Entalpía de sublimaci 
+-1 -1 
+del K(s) [.HSK(s)] = 89,24 kJ mol . Entalpía de disociaci del Cl2(g) [.HDCl2(g)] = 244 kJ mol . Primera energía de ionización del K(g) [.HionizacinK(g)]1 = 418,9 kJ mol-1 . Afinidad electrica del 
+Cl(g) [.HafinidadCl(g)] = -349 kJ mol-1 
+2. (2,5 puntos) 
+El calcio metálico puede obtenerse por electrolisis del CaCl2 fundido. 
+Datos: Masa atica del Ca = 40,0 u; 1 Faraday = 96485 C. R = 0,082 atm L mol K 
+i.  Escriba las reacciones que tienen lugar en el ánodo y en cátodo de la célula electrolítica.  
+(0,5 puntos)  
+ii.  Si el rendimiento de la célula electrolítica es del 68%, calcule la masa, en gramos, de Ca(s) y el  
+volumen, en litros, de Cl2(g), medido en condiciones normales, que se obtendrán en el proceso  
+cuando se aplique una corriente de 7,5 x 103 A durante 48 horas.   (2,0 puntos)  
+-1  -1  
+
+. 
+3. (1,0 punto) 
+
+En el laboratorio se dispone del dispositivo experimental de la figura y del material de laboratorio y reactivos que se relaciona: pipeta aforada de 10 mL, disoluci acuosa titulada de NaOH, muestra de vinagre comercial e indicador. 
+Indique el procedimiento experimental a seguir para realizar la determinaci del contenido de ácido acético en un vinagre comercial. 
+4. (2,0 puntos) 
+A. Ordene las siguientes especies de acuerdo con el valor creciente de los radios iicos: S2-, Cl -, P3-. Justifique la respuesta. (1,0 punto) Datos: S (Z = 16); Cl(Z = 17) y P (Z = 15) 
+B. Para el cati NH4+, deduzca la estructura de Lewis, nombre y dibuje la geometría molecular e indique los ángulos de enlace aproximados. (1,0 punto) Datos: N (Z = 7); H (Z = 1) 
+5. (2,0 puntos) 
+A. La solubilidad del sulfato de calcio, CaSO4, en agua a 25 ºC es de 0,20 g de CaSO4 en 100 mL de disoluci. Calcule el valor de la constante del producto de solubilidad del CaSO4 a 25 ºC. Datos: Masas aticas: Ca = 40 u; S = 32 u; O = 16 u. (1,0 punto) 
+B. Para las siguientes reacciones: i) alqueno + agua (en medio ácido); ii) benceno + cloro (gas) (en presencia de catalizador), indique el tipo de reaccin orgánica a que pertenece cada una (0,5 puntos) y el tipo de producto orgánico que se obtiene en cada caso (0,5 puntos) 
+
+EXTRAORDINARIA, 2013 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2012-2013 
+QUÍMICA. OPCIÓN B 1. (2,5 puntos) 
+Determine si se formará precipitado cuando se aaden 3 gotas de una disoluci acuosa de KI 0,20 M a 100 mL de una disoluci acuosa de nitrato de plomo(II), Pb(NO3)2, 0,01 M. Suponga que una gota de disoluci equivale a 0,05 mL y que los volenes son aditivos. Dato: KPS(PbI2) = 7,1 x 10-9 
+2. (2,5 puntos) 
+Calcule los gramos de ácido cianhídrico, HCN, necesarios para preparar 300 mL de una disoluci acuosa del ácido cuyo pH = 4,8. Dato: Ka(HCN) = 4,9 x 10-10 . Masas aticas: C = 12 u; N = 14 u; H = 1u. 
+3. (1,0 punto) 
+Dibuje un esquema de la pila Daniell e indique el material de laboratorio y los reactivos utilizados para su construcci. 
+4. (2,0 puntos) 
+A. Indique de forma razonada la notaci del orbital que corresponde a cada una de las siguientes combinaciones de neros cuánticos: i) n = 1, l = 0; ii) n = 3, l = -3;iii) n= 3, l=2;iv) n = 2, l=1. Si la combinaci de neros cuánticos no está permitida escriba “no permitido”.(1,0 punto) 
+B. A partir de los siguientes datos: 
+Propiedad física  Sustancias  
+H2O  H2S  
+Punto de ebullici normal (ºC)  100  -60,7  
+Punto de fusi normal (ºC)  0,00  -85,5  
+
+i.  Indique,  de  forma  razonada,  la  sustancia  que  presenta  fuerzas  intermoleculares más  
+intensas.  (0,5 puntos)  
+ii.  Indique el tip o de fu erzas inter mol eculares qu e pre senta cad a una de  las sustancias.  
+(0,5 puntos)  
+
+5. (2,0 puntos) 
+A. Las entalpías estándar de combusti del grafito y del diamante son: -393,51 y -395,41 kJ mol-1 , 
+respectivamente. Calcule la entalpía estándar de la reacci: Cgrafito(s) Cdiamante(s) (1,0 punto) 
+B. Escriba la fmula semidesarrollada de los siguientes compuestos: 
+i. 2,5,6-trimetilnonano ii. Difenilcetona 
+iii. 2-pentanol iv) Acetato de etilo (1,0 punto) 
+
+ORDINARIA, 2014 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA OPCIÓN A 1. (2,5 puntos) 
+A partir de los siguientes datos: 
+Molécula  Enlaces  .Henlace(kJ mol -1)  
+H2  H H  -436  
+O2  O O  -496  
+H2O  O-H  -463  
+
+Estime la entalpía estándar de formaci de la molécula de agua. 
+2. (2,5 puntos) 
+Para la neutralizaci exacta de 5 mL de una disoluci acuosa de amoniaco, NH3(ac), de uso doméstico (d = 0,97 g/mL) se necesitan 8 mL de una disoluci acuosa de ácido clorhídrico, HCl(ac), 1,5 M. Calcule el % en masa de amoniaco en la disoluci acuosa de uso doméstico y el pH de la citada disoluci. Datos: Masas aticas: N = 14 u; H = 1 u. Kb(NH3) = 1,8 x 10-5 
+3. (1,0 punto) 
+La reacci de disociaci del N2O4(g) (incoloro) para dar NO2(g) (marrn-amarillento) es endotérmica. En un erlenmeyer provisto de un cierre hermético tenemos una mezcla en equilibrio, a 25 ºC, de los dos idos de nitreno, NO2(g) y N2O4(g). 
+i. Escriba la ecuaci química que representa el equilibrio entre los dos idos de nitreno. 
+(0,25 puntos) 
+ii. Indique y explique los cambios de color que se observan cuando el erlenmeyer se sumerge en agua a 0 ºC. (0,75 puntos) 
+4. (2,0 puntos) 
+A. Utilizando la correspondiente configuracin electrica, indique, de forma razonada, el período y grupo de la tabla periica a los que pertenece el elemento X (Z = 34). Escriba la configuracin electrica de la especie X2-. (1,0 punto) 
+B. Deduzca el carácter polar, o no polar, de las siguientes moléculas: 
+
+
+F .. 
+
+Ángulo de enlace 
+N 
+Ángulo de enlace B
+F – B – F = 120º H – N – H = 107º 
+HH 
+FF H 
+(1,0 punto) 5. (2,0 puntos) 
+A. ¿Se producirá reacci química al adir una disoluci acuosa de Br2 a una disoluci acuosa de KI? Justifique la respuesta. En caso afirmativo, indique y escriba las semirreacciones y la reacci global que se producen. Todas las disoluciones se encuentran en condiciones estándar. Datos: Eº(Br2/Br -) = +1,065 V; Eº(I2/I-)= +0,535 V (1,0 punto) 
+B. Para la reacci química que se produce entre 2-propanol y Cr2O72-, en medio ácido, escriba la fmula semidesarrollada del reactivo orgánico y nombre y escriba la fmula semidesarrollada del producto orgánico. Indique el tipo de reaccin química que se produce. (1,0 punto) 
+
+ORDINARIA, 2014 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+En un recipiente cerrado de 100 L, en el que previamente se ha realizado el vacío, se introducen 0,2 moles de H2(g) y 0,2 mol de Cl2(g). Se eleva la temperatura de la mezcla hasta 2400 K, alcanzándose el equilibrio: 
+H2(g) + Cl2(g) 
+2 HCl(g) a 2400 K, Kc = 100 Calcule: 
+i. La presi total de la mezcla gaseosa en el equilibrio y el tanto por ciento de Cl2(g) que se convertirá en HCl(g). (2,0 puntos) 
+ii. El valor de KP para el equilibrio a 2400 K. (0,5 puntos) 
+-1 -1 
+Dato: R = 0,082 atm L mol K 
+2. (2,5 puntos) 
+Se desea realizar la electrolisis de 500 mL de una disoluci acuosa 0,4 M de CuSO4. Para ello se dispone de un electrodo de Cu(s) (cátodo) y otro de Pt(s) (ánodo), así como del resto de material necesario para realizar la electrolisis. 
+i. Dibuje un esquema de la célula electrolítica utilizada en la electrolisis. Indique el polo negativo, el polo positivo del dispositivo y el flujo de electrones durante la electrolisis. Indique la reaccin que tiene lugar en el electrodo de Cu(s). (1,25 puntos) 
+ii. Calcule los gramos de Cu2+(ac) que quedan en los 500 mL de disoluci después de pasar una 
+corriente de 2,68 A durante 50 minutos. (1,25 puntos) Dato: Constante de Faraday  F = 96485 C. Masa atica del Cu = 63,5 u. 
+3. (1 punto) 
+Dibuje un esquema del dispositivo experimental necesario para realizar una valoraci ácido-base, indicando el nombre del material de laboratorio utilizado. 
+4. (2,0 puntos) 
+A. Escriba el valor de los nmeros cuánticos n, l y ml para los orbitales de la subcapa 3d. Indique, de forma razonada, el nero máximo de electrones que pueden ocupar la citada subcapa. 
+(1,0 punto) 
+B. Las energías de red del LiF y del KF son -1046 y -826 kJ mol-1 , respectivamente. Justifique la diferencia entre estos valores de las energías de red, si ambos compuestos presentan el mismo tipo de estructura cristalina. Indique, de forma razonada, el compuesto que presentará el valor más elevado del punto de fusi normal. (1,0 punto) 
+5. (2,0 puntos) 
+A. Calcule la entalpía estándar de la reacci: 
+2 CH4(g) + 3 O2(g) ... 2 CO(g) + 4 H2O(l) 
+A partir de los siguientes datos: .Hº[combustión CH4(g)] = -890,0 kJ mol-1 y .Hº[combustión CO(g)]= -283,0 kJ mol-1 . (1,0 punto) 
+B. Escriba las fmulas semidesarrolladas y nombre los iseros geométricos del compuesto 2,3­dicloro-2-buteno. (1,0 punto) 
+
+ORDINARIA, 2014 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+-1 -1 
+Las entalpías estándar de formaci del NO(g) y del N2O(g) son 90,37 kJ mol y 81,6 kJ mol , respectivamente. La combustin en condiciones estándar del NO(g) para formar NO2(g) desprende 56,55 kJ/mol de NO(g). A partir de estos datos, calcule la variacin de entalpía, en condiciones estándar, de la reaccin: N2O(g) + NO2(g) . 3 NO(g). 
+2. (2,5 puntos) 
+Para su utilizacin como material, el aluminio se protege de la corrosi mediante pasivado. Este proceso consiste en la oxidacin del metal hasta ido de aluminio, Al2O3, con disoluci acuosa de dicromato de potasio, K2Cr2O7, en medio ácido sulfrico, H2SO4, reaccin en la que se forma Cr3+(ac): 
+i. Escriba y ajuste por el método del i-electr, en forma iica y molecular, la reaccin química que tiene lugar. Indique la especie que act como oxidante. (1,5 puntos) 
+ii. Calcule el volumen de disoluci acuosa de agente oxidante del 15% en masa y densidad 
+1,124 g cm-3, que se necesita para oxidar 0,5 kg de aluminio.  (1,0 punto) Datos: Masas aticas: Al= 27 u; Cr = 52 u; K= 39,1 u; O = 16 u. 
+3. (1,0 punto) 
+En un tubo de ensayo se vierten 5 mL de disolucin acuosa de cloruro de sodio, NaCl, a la que se aden gotas de disolucin acuosa de nitrato de plata, AgNO3, hasta la formaci de un precipitado claramente visible. Escriba la frmula química del compuesto que precipita. Se ade a continuacin gota a gota disoluci acuosa de amoniaco. Indique y explique el cambio que se observa. 
+4. (2,0 puntos) 
+A. A partir de las siguientes configuraciones electricas: 
+2+ 22626 2-226261026
+X = 1s ,2s2p,3s 3p Y = 1s,2s2p,3s3p3d ,4s 4p escriba las configuraciones electricas de los átomos neutros de los que proceden estos iones. Indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. Indique, de forma razonada, el elemento que presenta el valor más bajo de la primera energía de ionizaci. 
+(1,0 punto) 
+B. Los valores de electronegatividad en la escala de Pauling de los átomos C, H y N son 2,5; 2,1 y 3,0, respectivamente. A partir de estos datos, deduzca el carácter polar, o no polar, de la molécula HCN, que presenta una geometría molecular lineal. (1,0 punto) 
+5. (2,0 puntos) 
+A. Para preparar una disolucin acuosa ácida utilizaría como soluto: i) NaCH3COO(s); ii) KNO3(s) iii) 
+NH4Cl(s). Justifique la respuesta. Datos: Ka(CH3COOH) = 1,8 x 10-5; Kb(NH3) = 1,8 x 10-5 . (1,0 punto) 
+B. Nombre y escriba las fmulas semidesarrolladas de los reactivos utilizados en la obtenci de acetato de etilo. (1,0 punto) 
+
+ORDINARIA, 2014 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+En un recipiente de 1,0 L, en el que inicialmente se ha realizado el vacío, se introduce carbono sido y 0,1 moles de agua. Se eleva la temperatura del recipiente hasta 800 ºC, alcanzándose el equilibrio: 
+C(s) + H2O(g) 
+CO(g) + H2(g) que tiene KP = 14,1 a 800 ºC 
+i. Calcule los valores de las presiones parciales de H2O(g), CO(g) e H2(g) en el equilibrio a 800 ºC. 
+(2,0 puntos) 
+ii. Calcule la cantidad mínima, en gramos, de carbono sido que hay que introducir en el recipiente para que se alcance el equilibrio en esas condiciones. (0,5 puntos) 
+-1 -1 
+Datos:  Masa atica C = 12 u; R = 0,082 atm L K mol 
+2. (2,5 puntos) 
+i. Calcule el volumen de disoluci acuosa de amoniaco, NH3, 0,15 M que tiene el mismo nero de moles de OH-(ac) que 500 mL de disoluci acuosa de NaOH 0,2 M. (2,0 puntos) 
+ii. Calcule el pH de la disoluci de NH3(ac). (0,5 puntos) Dato: Kb(NH3) = 1,8 x 10-5 
+3. (1,0 punto) 
+En un tubo de ensayo se colocan unos cristales de KMnO4(s) y se aden 5 mL de un disolvente orgánico no polar. Indique y justifique la observaci realizada. A continuaci se aden en el mismo tubo 5 mL de agua, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el nero máximo de electrones desapareados que presentan los siguientes átomos: i) Fe (Z = 26); ii) Sb (Z = 51). (1,0 punto) 
+B. Para una reacci química .H = - 32,0 kJ y .S = - 98 J K-1 . Calcule la temperatura a partir de la cual la reacci no será espontánea. (1,0 punto) 
+5. (2,0 puntos) 
+A. La pila voltaica representada por el esquema: Pt(s)|H2(g, 1 atm)|H+(ac, 1M)||Cu2+(ac, 1M)|Cu(s), tiene un potencial estándar de pila de 0,337 V. Escriba la reaccin química que tiene lugar en el 
+cátodo, indicando si se trata de una reacci de oxidacin o de reducci, y calcule el potencial estándar de reducci asociado a esa reacci. (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i) Éter dimetílico ii) Acetona 
+iii) Etilamina iv) 4,4-dimetil-1-hexino 
+(1,0 punto) 
+
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Se analiza una muestra de 10 mL de una disoluci acuosa que contiene i cloruro, Cl -, mediante la adici de una gota (0,2 mL) de disoluci acuosa de nitrato de plata, AgNO3, 0,1 M. Calcule el nero mínimo de gramos de i cloruro que debe estar presente en la disolucin para que se forme precipitado slido de cloruro de plata, AgCl. Suponga que los volenes son aditivos. Datos: Masas aticas: Cl = 35,45 u. KPS(AgCl) = 1,8 x 10-10 
+2. (2,5 puntos) 
+Se deposita cromo metálico sobre el parachoques de un automil mediante electrolisis de 600 mL de una disoluci acuosa ácida de cromato de potasio, K2CrO4, 0,6 M. 
+i. Escriba la ecuaci química ajustada que representa la reacci de formacin de cromo metálico. Indique el electrodo, ánodo o cátodo, de la célula electroquímica en que tiene lugar esta reacci y su signo. (0,75 puntos) 
+ii. Si la electrolisis se realiza utilizando una corriente eléctrica de 20 A durante 1 hora, calcule el tanto por ciento en masa del cromo inicialmente presente en la disoluci que se ha depositado como cromo metálico. (1,75 puntos) 
+Datos: Masa atica: Cr = 52 u; 1F = 96485 C. 
+3. (1,0 punto) 
+En el laboratorio se desea determinar el calor de la reacci ácido-base del hidrxido de sodio con el ácido clorhídrico. Dibuje un esquema del dispositivo experimental e indique el material utilizado. 
+4. (2,0 puntos) 
+A. Escriba la configuraci electrica e indique el nero de electrones desapareados para cada una de las siguientes especies: i) V (Z = 23); ii) Cd (Z = 48). (1,0 punto) 
+B. Los puntos de ebullici normales del CH3OCH3 y del CH3CH2OH son 248 K y 351 K, respectivamente. A partir de estos datos: 
+i. Indique, de forma razonada, el tipo de fuerzas intermoleculares presentes en cada una de las sustancias. (0,5 puntos) 
+ii. Indique, de forma razonada, la sustancia que presenta las fuerzas intermoleculares más intensas. (0,5 puntos) 
+5. (2,0 puntos) 
+A. Dispone de disoluciones acuosas de las siguientes sustancias: HCl, NH4Cl, NaCl, NaOH, CH3COOH y NH3. Indique, de forma razonada, las disoluciones que utilizaría para preparar una disolucin reguladora. (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i) 3,3,5-trimetilheptano ii) Cis-3-hexeno iii) 4,4-dimetil-1-hexino iv) 3-pentanona (1,0 punto) 
+
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+La disoluci acuosa preparada disolviendo 1,5 g de ácido acético, CH3COOH, en 250 mL de disoluci, tiene un pH = 2,9. A partir de esta informaci, calcule el valor de la constante de acidez, Ka, para el ácido acético. Datos: Masas aticas: C = 12 u; H = 1 u; O = 16 u. 
+2. (2,5 puntos) 
+Construya el ciclo de Born-Haber para la formaci del KBr(s), a partir de potasio metálico y bromo líquido, y calcule la energía de red (.Hred) del compuesto, a partir de los siguientes datos: Entalpía estándar de formación del KBr(s) [.HfKBr(s)] = -393,8 kJ mol-1 . Entalpía de sublimacin del K(s) [.HSK(s)] = 90 kJ mol-1 . Entalpía de vaporización del bromo líquido [.HvapBr2(l)] =30,7 
+-1 -1 
+kJmol . Entalpía de disociaci del Br2(g) [.HDBr2(g)] = 193 kJ mol . Primera energía de ionizacin del K(g) [.HionizacinK(g)]1 = 418,9 kJ mol-1 . Afinidad electrónica del Br(g) [.HafinidadBr (g)] = -324,6 kJ mol-1 . 
+3. (1,0 punto) 
+Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentraci de perido de hidreno en un agua oxigenada comercial, mediante la valoraci denominada permanganimetría. 
+4. (2,0 puntos) 
+A. Para los elementos X (Z = 6) e Y (Z = 9), escriba las correspondientes configuraciones electricas. Indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. A partir de su posicin en la tabla periica, indique, de forma razonada, el que presenta el valor más negativo de la primera afinidad electrica. (1,0 punto) 
+B. Para la molécula CH2O, deduzca la estructura de Lewis. Nombre y dibuje la geometría molecular e indique los ángulos de enlace aproximados. (1,0 punto) Datos: H (Z = 1), O (Z = 8), C (Z = 6). 
+5. (2,0 puntos) 
+A. Para la reacci: 3 Fe(s) + 4 H2O(g) 
+Fe3O4(s) + 4 H2(g) .Hº = -150 kJ Explique el efecto de cada uno de los siguientes factores en la cantidad de H2(g) presente en la mezcla en equilibrio: i) elevar la temperatura de la mezcla (0,5 puntos): ii) duplicar el volumen del recipiente que contiene la mezcla manteniendo la temperatura constante (0,5 puntos). 
+B. Complete la siguiente reacci y nombre el producto, o productos, que se obtienen: 
+CH3-CH=CH2 + H2O 
+diluido (1,0 punto) 
+
+
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Se construye una pila voltaica con los siguientes electrodos: 
+. 
+Electrodo estándar MnO4-/Mn2+ en medio ácido sulfrico. Las disoluciones del electrodo son de permanganato de potasio, KMnO4, y de sulfato de manganeso(II), MnSO4. 
+
+. 
+Electrodo formado por una lámina de cinc metálico sumergida en una disoluci 1M de sulfato de cinc, ZnSO4. 
+
+i. 
+Escriba las semirreacciones, indicando cual es de oxidaci y cual de reducci, y la ecuaci química ajustada, en forma molecular, de la reacci química que tiene lugar durante el funcionamiento de la pila. (1,5 puntos) 
+
+
+ii. Indique el electrodo que actuará como ánodo y el que actuará como cátodo y calcule el potencial estándar de la pila. (1,0 punto) 
+-2+ 2+
+Datos: Eº(MnO4 /Mn ) = + 1,51 V. Eº(Zn /Zn) = - 0,763 V. 
+2. (2,5 puntos) 
+A partir de los datos de energías de enlace: 
+Molécula  Enlaces  .Henlace(kJ mol -1)  
+CH4  C H  -413  
+O2  O O  -496  
+H2O  O-H  -463  
+CO2  C O  -799  
+
+Calcule la variaci de entalpía de la reacci de combusti del metano, CH4(g). 
+3. (1,0 punto) En un tubo de ensayo se vierten 5 mL de disoluci acuosa de cloruro de bario (BaCl2) y, a continuacin, gotas de disoluci acuosa de carbonato de sodio (Na2CO3) hasta la formaci de un precipitado claramente visible. Escriba la fmula química del compuesto que precipita. Una vez formado el precipitado, se ade gota a gota una disoluci acuosa de ácido clorhídrico (HCl). Indique y explique el cambio que se observa en el tubo de ensayo. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electrnicas de los átomos e iones: X, X2-, Y e Y+, que ocupan las posiciones de la tabla periica que se indican a continuaci: X : período = 3 , grupo = 16; Y: período = 4, grupo = 2. (1,0 punto) 
+B. El NH3 es 3000 veces más soluble en agua que el fosfano, PH3. Explique la diferencia en las solubilidades de las dos sustancias en agua si ambas presentan una geometría molecular de pirámide trigonal. 
+Datos de electronegatividades: . (N) = 3; . (P) = 2,1; .(H)= 2,1 (1,0 punto) 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de la disoluci acuosa resultante de la neutralizaci exacta de una disoluci acuosa de hidrido de sodio, NaOH, con una disolucin acuosa de ácido clorhídrico, HCl. (1,0 punto) 
+B. Nombre el grupo funcional presente en cada uno de los siguientes compuestos: i) C6H5CH2CHO ii) (CH3)2CHCH2OCH3 iii) CH3CH2NHCH2CH3 iv) CH3CH2COOCH3 (1,0 punto) 
+
+Pruebas de Acceso a la Universidad Curso 2013-2014 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+Se aden 0,5 g de hidrido de sodio slido, NaOH, a 400 mL de una disoluci acuosa de ácido clorhídrico, HCl(ac), cuyo pH = 2. Calcule el pH de la disoluci resultante. Suponga que no se produce variaci de volumen al aadir el sido a la disolucin acuosa. Datos: Masas aticas: Na = 23 u; O = 16 u; H = 1u. 
+2. (2,5 puntos) 
+En un recipiente, en el que previamente se ha realizado el vacío, se introducen 2,0 moles de pentacloruro de fforo, PCl5, y se calienta hasta 450 K, alcanzándose el equilibrio: 
+PCl5(g) 
+PCl3(g) + Cl2(g) En el equilibrio, la presin total de la mezcla gaseosa es 1 atm y el PCl5 se encuentra disociado en un 36%. Calcule los valores de KP y KC para el equilibrio a 450 K. Datos: R = 0,082 atm L mol-1K-1 . 
+3. (1 punto) 
+En un tubo de ensayo se colocan unos cristales de KMnO4(s) y se aden 5 mL de un disolvente orgánico no polar. Indique y justifique la observaci realizada. A continuaci se aden en el mismo tubo 5 mL de agua, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. 
+4. (2,0 puntos) 
+A. Para la subcapa electrica que presenta los valores de los neros cuánticos n = 5 y l = 1, indique: 
+i) la notacin de la subcapa; ii) los valores posibles de ml; iii) el nero de orbitales en la subcapa; 
+iv) el nero máximo de electrones en la subcapa. Justifique todas las respuestas. 
+(1,0 punto) 
+B. Calcule la variaci de energía libre estándar para la formaci de NO(g) a partir de N2(g) y O2(g) a 25 ºC, si .HºR = 180,7 kJ y .SºR= 24,7 J K-1 . Indique si la reacci es espontánea es esas condiciones. Justifique la respuesta. (1,0 punto) 
+5. (2,0 puntos) 
+A. Complete y ajuste, por el método del i-electrn, la siguiente ecuacin química: 
+-2-3+ ­
+NO2 (ac) + Cr2O7 (ac) . Cr (ac) +  NO3 (ac) en medio ácido 
+(1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i. Pentanal ii. Cis-2-buteno 
+iii. Propanoato de etilo iv. Trietilamina 
+(1,0 punto) 
+
+ORDINARIA, 2015 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+El denominado “gas de agua” tiene una composición en volumen de 55% de CO(g), 33% de H2(g) y 12% de CO2(g). Este gas puede utilizarse como combustible, produciéndose simultáneamente las reacciones: 
+CO(g) + 1/2 O2(g) .  CO2(g) y H2(g) + 1/2 O2(g) . H2O(l) 
+El CO2 no es combustible. Calcule el calor liberado en la combusti, a presi constante, de 1 L de gas de agua medido en condiciones normales de presi y temperatura. Suponga comportamiento ideal. Datos. .Hºformacin[CO(g)] = -110,5 kJ/mol; .Hºformacin[CO2(g)] = -393,5 kJ/mol; 
+-1 -1 
+.Hºformacin[H2O(l)] = -285,8 kJ/mol. R = 0,082 atm L mol K . 
+2. (2,5 puntos) 
+Calcule la masa, en gramos, de cianuro de hidreno gaseoso, HCN(g), que se necesita para preparar 300 mL de una disolucin acuosa de ácido cianhídrico, HCN(ac), de pH = 4,5. Datos: Masas aticas: C = 12 u; N = 14 u; H = 1 u. Ka(HCN) = 6,2 x 10-10 
+3. (1,0 punto) 
+Un erlenmeyer provisto de un cierre hermético contiene una mezcla en equilibrio a 25 ºC de NO2 (gas marr-amarillento) y de N2O4 (gas incoloro). Se observa que al calentar el erlenmeyer a 80 ºC el color de la mezcla cambia a marr intenso, mientras que cuando se enfría a -10 ºC, la mezcla se vuelve casi incolora. 
+i. Escriba la ecuaci química que representa el equilibrio entre los dos idos de nitreno. 
+(0,25 puntos) 
+ii. Indique y justifique el carácter endotérmico exotérmico de la reacci de descomposici del N2O4(g) para dar NO2(g). (0,75 puntos) 
+4. (2,0 puntos) 
+3+ 22626102
+A. A partir de la configuraci electrica del cati X : 1s 2s 2p 3s 3p 3d 4s , indique la configuraci electrica del elemento X, su nero atico y el grupo y período de la tabla periica a los que pertenece. (1,0 punto) 
+B. Deduzca el carácter polar, o no polar, de las siguientes moléculas: i) SO2 (geometría molecular angular); ii) CCl4 (geometría molecular tetraédrica). (1,0 punto) 
+5. (2,0 puntos) 
+A. En medio acuoso ácido, el i sulfito, SO32-(ac), reacciona con el i permanganato, MnO4-(ac), para formar i sulfato, SO42-(ac), y catin Mn2+(ac). Ajuste en forma iica, mediante el método del i­electr, la ecuaci química que representa la reaccin indicada. (1,0 punto) 
+B. Nombre y escriba las frmulas semidesarrolladas de los compuestos químicos orgánicos que se forman en las oxidaciones sucesivas del etanol hasta la obtenci del ácido correspondiente. 
+(1,0 punto) 
+
+ORDINARIA, 2015 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) 
+En un recipiente cerrado de 0,5 L, en el que previamente se ha realizado el vacío, se introducen 1,0 g de H2(g) y 1,06 g de H2S(g). Se eleva la temperatura de la mezcla hasta 1670 K, alcanzándose el equilibrio: 
+2 H2S(g)
+ 2 H2(g) + S2(g) En el equilibrio, la fraccin molar de S2(g) en la mezcla gaseosa es 0,015. Calcule el valor de Kp para el equilibrio a 1670K. 
+-1 -1 
+Datos: Masas aticas: H= 1 u; S = 32 u. R = 0,082 atm L mol K 
+2. (2,5 puntos) 
+Cuando se realiza la electrolisis de una disoluci acuosa de un cloruro de rutenio, mediante el paso de una corriente de 0,12 A durante 500 segundos, se depositaron 31,0 mg de rutenio metálico en el cátodo. 
+i. Dibuje el esquema de la célula electrolítica utilizada en la electrolisis con electrodos inertes de platino. Indique el polo negativo, el polo positivo del dispositivo y el flujo de electrones durante la electrolisis. (1,0 punto) 
+ii. Determine el nero de oxidaci del rutenio en el cloruro de rutenio de la disoluci y escriba 
+la reacci que tiene lugar en el cátodo. (1,5 puntos) Datos: Constante de Faraday  F = 96485 C/mol de electrones. Masa atica del Ru = 101,0 u. 
+3. (1 punto) 
+Dibuje un esquema del dispositivo experimental necesario para realizar una valoraci ácido-base, indicando el nombre del material de laboratorio utilizado. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el nero y tipo de orbitales en un átomo que presentan el valor del nero cuántico principal n = 3. (1,0 punto) 
+B. Las energías de red del NaF y del NaBr son -929 y -751 kJ mol-1 , respectivamente. Justifique la diferencia entre estos valores de las energías de red, si ambos compuestos presentan el mismo tipo de estructura cristalina. Indique, de forma razonada, el compuesto que, previsiblemente, será más soluble en agua. (1,0 punto) 
+5. (2,0 puntos) 
+A. A partir de las entalpías de reaccin estándar: 
+a) 
+S(s)+ O2(g) . SO2(g) .HR0 = -296,83 kJ 
+
+b) 
+2 S(s) + 3 O2(g) . 2 SO3(g) .HR0 = - 791,44 kJ 
+
+
+Calcule la entalpía, en condiciones estándar, de la reacci: 2 SO2(g) + O2(g) . 2 SO3(g) 
+(1,0 punto) 
+B. Escriba las fmulas semidesarrolladas y nombre los iseros geométricos del compuesto 1,2­dicloro-propeno. (1,0 punto) 
+
+ORDINARIA, 2015 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+Construya el ciclo de Born-Haber para la formaci del NaI(s), a partir de yodo slido y sodio metálico, y calcule la energía de red (.Hred) del compuesto, a partir de los siguientes datos: Entalpía estándar de formaci del NaI(s) [.Hf(NaI)] = -287,8 kJ mol-1 . Entalpía de sublimacin del sodio metálico 
+-1 -1 
+[.HSNa(s)] = 107,3 kJ mol . Entalpía de sublimación del yodo sólido [.HSI2(s)] = 62,44 kJmol . Entalpía de disociacin del I2(g) [.HDI2(g)] = 151 kJ mol-1 . Primera energía de ionizaci del Na(g) [.HionizacinNa(g)]1 = 495,8 kJ mol-1. Afinidad electrónica del I(g) [.HafinidadI (g)] = - 295,2 kJ mol-1 . 
+2. (2,5 puntos) 
+El oro se suele depositar sobre otros metales menos caros mediante electrolisis, dando lugar a la joyería de objetos baados en oro. La reacci electrolítica en la superficie donde se deposita el oro es: 
+Au3+(ac) + 3 e-. Au(s) En la celda electrolítica, el objeto que se ba con oro es uno de los electrodos y el otro es una lámina 
+de oro.  
+i.  Indique el electrodo que act como ánodo y el que act como cátodo en la celda. Escriba  
+las reacciones que tienen lugar  en  el ánodo y  en  el cátodo de la célula electrolítica.  
+Justifique las respuestas.  (1,5 puntos)  
+ii.  Cuando se hace pasar una corriente de 2,5 A durante 7,5 minutos, se depositan 0,65 g de  
+oro. Calcule el rendimiento del proceso electrolítico.  (1,0 punto)  
+
+Datos: Masa atica del Au = 197,0 u; 1 Faraday = 96485 C/mol de electrones. 3. (1,0 punto) 
+
+En el laboratorio se dispone del dispositivo experimental de la figura y del material de laboratorio y reactivos que se relaciona: pipeta aforada de 10 mL, disolucin acuosa titulada de NaOH, muestra de vinagre comercial e indicador. 
+Indique el procedimiento experimental a seguir para realizar la determinaci del contenido de ácido acético en un vinagre comercial. 
+4. (2,0 puntos) 
+A. Ordene las siguientes especies de acuerdo con el valor creciente de su radio: I+, I, I-. Justifique la respuesta. (1,0 punto) 
+B. Para el ani NO3-, deduzca la estructura de Lewis. Nombre y dibuje la geometría molecular e indique los ángulos de enlace aproximados. Datos: N (Z = 7); O (Z = 8) (1,0 punto) 
+5. (2,0 puntos) 
+A. Calcule los moles de carbonato de calcio sido, CaCO3(s), que se obtienen al evaporar a sequedad 100 mL de una disolucin acuosa saturada de carbonato de calcio. Datos: KPS(CaCO3) = 4,5 x 10-9 . (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas y nombre los iseros geométricos del 2-penteno. 
+(1,0 punto) 
+
+ORDINARIA, 2015 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+Determine si se formará precipitado cuando se mezclan 250 mL de agua destilada con 30 mL de disoluci acuosa 0,1 M de nitrato de bario, Ba(NO3)2, y con 20 mL de disolucin acuosa de carbonato de sodio, Na2CO3, 0,015 M. Suponga que los volenes son aditivos. Dato: KPS(BaCO3) = 5,0 x 10-9 . 
+2. (2,5 puntos) 
+La neutralizaci exacta de 25 mL de una disoluci acuosa de ácido cianhídrico, HCN, consumi15 mL de disolucin acuosa de hidrido de sodio, NaOH, 0,01 M. Calcule el pH de la disolucin acuosa de ácido cianhídrico. Dato: Ka(HCN) = 4,9 x 10-10 . 
+3. (1,0 punto) 
+Dibuje un esquema de la pila Daniell e indique el material de laboratorio y los reactivos utilizados para su construcci. 
+4. (2,0 puntos) 
+A. Las siguientes configuraciones electrnicas: 
+2221 10132
+i)1s 2s3p4s; ii) [Ar]3d 4s4p5s. representan estados excitados de los átomos. Para cada caso escriba la configuraci electrica del estado fundamental e indique el grupo de la tabla peridica al que pertenece cada elemento. 
+(1,0 punto) 
+B. Para las sustancias: Br2 y HCl, indique, de forma razonada, las fuerzas intermoleculares presentes en cada una de ellas y la sustancia que presentará el punto de ebullici más bajo. (1,0 punto) 
+5. (2,0 puntos) 
+A. Las entalpías estándar de formaci de los idos P4O6(s) y P4O10(s), a partir de P4(s) y oxígeno gaseoso, son – 1640,1 y – 2940,1 kJ/mol, respectivamente. A partir de estos datos, calcule la entalpía estándar de la reacci: 
+P4O6(s) + 2 O2(g) . P4O10(s) (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i. 2,4,9-trimetildecano ii. Butanal 
+iii. 3-pentanona iv. Acetato de metilo (1,0 punto) 
+
+EXTRAORDINARIA, 2015 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+Las entalpías estándar de combustin del C(grafito) y del CO(g) son -393,5 y -283 kJ/mol, 
+respectivamente. La entalpía estándar de la reacci: CO(g) + Cl2(g) . COCl2(g) es .HºR = -108 kJ/mol de COCl2. 
+i. Calcule la entalpía estándar de formaci del COCl2(g). (1,75 puntos) 
+ii. Si desea favorecer la formaci de COCl2(g), a partir de CO(g) y Cl2(g), utilizaría temperaturas ¿altas o bajas? Justifique la respuesta. (0,75 puntos) 
+2. (2,5 puntos) 
+A 523 K la constante de equilibrio para la reacci: PCl5(g) 
+PCl3(g) + Cl2(g) tiene el valor KC = 3,8 x 10-2 . En un recipiente de 2,5 L, en el que previamente se ha realizado el vacío, se introducen 0,50 moles de PCl5(g), 0,25 moles de PCl3(g) y 0,25 moles de Cl2(g). La mezcla gaseosa se calienta a la temperatura de 523 K. 
+i. Indique el sentido en que debe evolucionar el sistema para alcanzar el equilibrio. 
+(1,0 punto) 
+ii. Calcule el nero de moles de cada gas en la mezcla una vez alcanzado el equilibrio a 523 K. 
+(1,5 puntos) 
+3. (1,0 punto) 
+En un tubo de ensayo se colocan unos cristales de I2(s) y se aden 5 mL de agua ¿Qué observará? Justifique la observacin realizada. (0,5 puntos) A continuacin se aden, en el mismo tubo, 5 mL de un disolvente orgánico no polar, se agita la mezcla y se deja reposar hasta que se separen dos fases. Indique y justifique la coloraci que presenta cada una de las fases. (0,5 puntos) 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 17) e Y (Z = 35). Indique el grupo y período de la tabla periica al que pertenece cada uno de los elementos. A partir de su posicin en la tabla peridica, indique, de forma razonada, el elemento que presentará el valor más elevado de la primera energía de ionizaci. (1,0 punto) 
+B. Indique, justificando la respuesta, el carácter ácido, básico o neutro de una disoluci acuosa de nitrato de potasio (KNO3). (1,0 punto) 
+5. (2,0 puntos) 
+A. Una disoluci acuosa ácida contiene las siguientes concentraciones: [MnO4-] = 1 M; [Cl -] = 1 M. Escriba las semirreacciones ajustadas de oxidaci y de reducci que tienen lugar en la disoluci. Datos: Eº(MnO4-/Mn2+) = +1,51 V Eº(Cl2/Cl -) = +1,358 V (1,0 punto) 
+B. Escriba las fmulas semidesarrolladas y nombre los iseros geométricos del 2,3-dicloro-2­penteno. (1,0 punto) 
+
+EXTRAORDINARIA, 2015 
+fase general 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) 
+Se prepara una disolucin acuosa por mezcla de 500 mL de disoluci acuosa de HNO3, que contiene un 0,3% en masa de HNO3 y una densidad de 1,1 g cm -3 , con 150 mL de una disoluci acuosa de HI 0,01 M y con 150 mL de agua. Calcule el pH de la disoluci resultante. Suponga que los volenes son aditivos. Datos: Masas aticas: N= 14 u; O = 16 u; H = 1 u. 
+2. (2,5 puntos) 
+La pila que se basa en la reacci química: Fe(s) + 2 Ag+(ac) .Fe2+(ac) + 2 Ag(s) tiene un potencial estándar Eº(pila) = + 1,24 V. 
+i. Escriba las semirreacciones de oxidacin y de reducci que se producen en la pila y calcule el valor del potencial estándar de reducci del par (Ag+/Ag). (1,0 punto) 
+ii. Dibuje un esquema de la pila, indicando el ánodo, el cátodo y el sentido en el que fluyen los 
+electrones. (1,5 puntos) Dato: Eº(Fe2+/Fe) = -0,44 V. 
+3. (1 punto) 
+En el laboratorio se dispone del dispositivo experimental necesario para determinar calores de reaccin a presin constante. Describa el procedimiento a seguir para determinar el calor de la reacci ácido-base entre el hidrxido de sodio y el ácido clorhídrico. 
+4. (2,0 puntos) 
+A. De las configuraciones electricas que se dan a continuaci, indique las que corresponden a átomos en su estado fundamental, en estado excitado y las que son imposibles. Justifique su respuesta. 
+222 221 2221 22626251
+i.1s2s2p ii. 1s 2s3p iii. 1s2s2d3s iv. 1s2s2p3s3p4s4p5s 
+(1,0 punto) 
+B. Los valores de las energías de red para los compuestos KF(s) y CaO(s) son – 826 y – 3414 kJ/mol, respectivamente. Suponiendo que ambos compuestos presentan el mismo tipo de estructura cristalina, explique las diferencias observadas entre los valores de las energías de red de los dos compuestos. 
+Datos: d(Ca–O) = 240 pm; d(K–F) = 271 pm (1,0 punto) 
+5. (2,0 puntos) 
+A. Considere la reacci en equilibrio: 4 NH3(g) + 5 O2(g) 
+4 NO(g) + 6 H2O(g). Explique cmo afecta al rendimiento de NO(g) en el equilibrio una disminucin del volumen del recipiente en el que ocurre la reaccin a temperatura constante. (1,0 punto) 
+B. Complete la siguiente reacci y nombre el producto, o productos, que se obtienen: 
+H2SO4 CH3-CH=CH2 + H2O 
+(1,0 punto) 
+diluido 
+
+EXTRAORDINARIA, 2015 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+Se construye una pila voltaica con los siguientes electrodos: 
+. 
+Electrodo estándar MnO4-/Mn2+ en medio ácido clorhídrico. Las disoluciones del electrodo son de permanganato de potasio, KMnO4, y de cloruro de manganeso(II), MnCl2. 
+
+. 
+Electrodo estándar de Cl2/Cl -. La disoluci del electrodo es de cloruro de potasio, KCl. 
+
+i. 
+Escriba la ecuaci química ajustada, en forma molecular, de la reacci química que tiene lugar durante el funcionamiento de la pila. (1,5 puntos) 
+
+
+ii. Indique el electrodo que actuará como ánodo y el que actuará como cátodo. Calcule el 
+potencial estándar de la pila. Justifique la respuesta. (1,0 punto) Datos: Eº(MnO4-/Mn2+) = + 1,51 V. Eº(Cl2/Cl -) = + 1,359 V. 
+2. (2,5 puntos) 
+A partir de los valores de las entalpías de reacci: 
+a) 
+H2(g) + F2(g) . 2 HF(g) .Ha = - 537 kJ 
+
+b) 
+C(s)+ 2 F2(g) . CF4(g) .Hb = - 680 kJ 
+
+c) 
+2 C(s)+ 2 H2(g) . C2H4(g) .Hc = + 52,3 kJ 
+
+i. 
+Calcule la entalpía de la reacci de etileno, C2H4(g), con flr, F2(g), para formar tetrafluoruro de carbono, CF4(g), y fluoruro de hidreno, HF(g). (1,5 puntos) 
+
+
+ii. Calcule el calor desprendido en la reacci de 2 g de C2H4(g) con 12 g de F2(g), a presin 
+constante. (1,0 punto) Datos. Masas aticas: C= 12 u; H = 1 u; F = 19 u. 
+3. (1,0 punto) En un tubo de ensayo se vierten 5 mL de una disoluci acuosa de carbonato de sodio (Na2CO3) y a continuacin se ade, gota a gota, una disoluci acuosa de cloruro de bario, (BaCl2), hasta la formaci de un precipitado claramente visible. Escriba la frmula química del compuesto que precipita. Indique el reactivo que utilizaría para disolver el precipitado formado. Justifique la respuesta. 
+4. (2,0 puntos) 
+A. Los elementos X e Y ocupan las posiciones de la tabla periica que se indican a continuaci: X período = 4 , grupo = 17; Y período = 4, grupo = 1. 
+i. Escriba las configuraciones electricas de los átomos de los dos elementos en estado fundamental. (0,5 puntos) 
+ii. 
+Indique el carácter, inico o covalente, del enlace presente en el compuesto formado por los dos elementos. Justifique la respuesta. (0,5 puntos) 
+
+B. 
+El H2O y el H2S son dos compuestos moleculares que presentan geometría molecular angular. Indique el compuesto que presenta el valor más elevado del punto normal de ebullici. Justifique la respuesta. 
+
+
+Valores de electronegatividades: . (O) = 3,5; . (S) = 2,5; .(H) = 2,1 (1,0 punto) 
+5. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de la disoluci acuosa resultante de la neutralizaci exacta de una disoluci acuosa de hidrxido de potasio, KOH, con una disoluci acuosa de ácido acético, CH3COOH. Ka(CH3COOH) = 1,8 x 10-5 (1,0 punto) 
+B. Nombre el grupo funcional presente en cada uno de los siguientes compuestos orgánicos: i) CH3CH2CH2COCH2CH3 ii) CH3C=CCH2CH2CH3 iii) CH3CH2CH2COOH iv) CH3CH2NHCH3 (1,0 punto) 
+
+EXTRAORDINARIA, 2015 
+fase específica 
+Pruebas de Acceso a la Universidad Curso 2014-2015 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+Se aaden 50 mL de disoluci acuosa de hidrido de sodio, NaOH, de pH = 12, a 30 mL de disoluci acuosa de ácido clorhídrico, HCl(ac), de pH = 1,5. Calcule el pH de la disoluci resultante. Suponga que los volenes son aditivos. 
+2. (2,5 puntos) 
+En el proceso de fabricaci del ácido sulfico es importante el equilibrio que se establece en la reaccin del SO2(g) con el O2(g) para formar SO3(g). En un recipiente de 2 L, en el que previamente se ha realizado el vacío, se introducen 0,15 moles de SO2(g) y 0,15 moles de O2(g). La mezcla se calienta hasta 900 K. Cuando se alcanza el equilibrio, se han formado 0,092 moles de SO3(g). Calcule el valor de Kp para el equilibrio a 900 K. Dato. R = 0,082 atm L mol-1K-1 . 
+3. (1 punto) 
+En dos tubos de ensayo se colocan unos cristales de I2(s). En el tubo 1 se aden 5 mL de agua y en el tubo 2 se aden 5 mL de un disolvente orgánico no polar. Indique y justifique las observaciones realizadas en cada uno de los tubos de ensayo. 
+4. (2,0 puntos) 
+A. Para el subnivel electrico caracterizado por los valores de los neros cuánticos n = 4 y l = 2, indique: i) la notaci del subnivel; ii) los valores posibles de ml; iii) el nero de orbitales en el subnivel; iv) el nero máximo de electrones en el subnivel. Justifique todas las respuestas. 
+(1,0 punto) 
+B. Para la reaccin de síntesis del metanol a 25 ºC: 
+CO(g) + 2 H2(g) . CH3OH(g) .GºR = -24,8 kJ y .SºR = -219,3 J K-1 . Calcule el valor de .HºR e indique si la reacci es endotérmica o exotérmica. Justifique la respuesta. (1,0 punto) 
+5. (2,0 puntos) 
+A. Complete y ajuste, por el método del i-electr, la siguiente ecuaci química: KMnO4(ac) + KI(ac) + H2SO4(ac) . MnSO4(ac) + I2(s) (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i. 2-cloro-4-metil-octano ii. 2,6-dimetil-2-hepteno 
+iii. Dipropil éter iv. 3-pentanona 
+(1,0 punto) 
+
+ORDINARIA, 2016 
+fase general 
+Pruebas de Acceso a la Universidad (PAU) 
+Curso 2015-2016 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+La trinitroglicerina, C3H5N3O9, conocida commente como nitroglicerina, es un líquido que se utiliza como explosivo. La entalpía estándar de descomposici de la trinitroglicerina, para formar nitreno gas, diido de carbono gas, oxígeno gas y agua líquida, es -1541,4 kJ/mol de trinitroglicerina. 
+i. Escriba la ecuacin química ajustada para la descomposicin de la trinitroglicerina y calcule el volumen que ocuparán los gases resultantes de la descomposicin de 1 mol de trinitroglicerina líquida a 1 atm y 25 ºC. (1,25 puntos) 
+ii. Calcule la entalpía estándar de formacin de la trinitroglicerina. (1,25 puntos) Datos. .Hºformaci[CO2(g)] = -393,5kJ/mol;.Hºformaci[H2O(l)] = -285,8 kJ/mol. 
+-1 -1 
+R = 0,082 atm L K mol 
+2. (2,5 puntos) 
+En el laboratorio se obtienen peques cantidades de cloro gas adicionando gota a gota una disoluci acuosa de ácido clorhídrico, HCl(ac), sobre cristales de permanganato de potasio, KMnO4(s). En la reaccin también se obtiene Mn2+(ac): 
+i. Escriba y ajuste, por el método del i-electr, en forma iica y molecular, la reaccin química que tiene lugar. Indique la especie que act como reductor. (1,75 puntos) 
+ii. Calcule la mínima cantidad, en gramos, de permanganato de potasio necesaria para obtener 1 L de cloro gas a 25 ºC y 1 atm. Suponga que el rendimiento de la reaccin es del 100%. 
+(0,75 puntos) 
+-1 -1 
+Datos. Masas aticas: Mn = 54,94 u; O = 16 u; K = 39,1 u. R = 0,082 atm L K mol 
+3. (1,0 punto) 
+Un tubo de ensayo contiene 5 mL de una disoluci acuosa de nitrato de plata, AgNO3, a la que se ade, gota a gota, una disoluci acuosa de cloruro de sodio, NaCl, hasta la formaci de un precipitado claramente visible. Escriba la frmula química del compuesto que precipita. ¿Qué reactivo utilizaría para disolver el precipitado formado? Justifique la respuesta. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas de los elementos X (Z = 16) e Y (Z = 52). Indique el grupo y período al que pertenece cada uno de los elementos. Indique, de forma razonada, el elemento que presenta el valor más elevado del radio atico. (1,0 punto) 
+B. Deduzca, de forma razonada, el carácter polar, o no polar, de la molécula BeCl2. Datos. Be (Z = 4); Cl (Z = 17) (1,0 punto) 
+5. (2,0 puntos) 
+A. Para preparar una disoluci acuosa básica utilizaría como soluto: i) NaCH3COO(s); ii) NaCl(s) 
+iii) 
+NH4Cl(s). Justifique la respuesta. Datos. Ka(CH3COOH) = 1,8 x 10-5; Kb(NH3) = 1,8 x 10-5 . (1,0 punto) 
+
+B. 
+Nombre y escriba las frmulas semidesarrolladas de los compuestos orgánicos obtenidos en la adici de agua a 1-buteno (CH2=CH-CH2-CH3). (1,0 punto) 
+
+
+
+ORDINARIA, 2016 
+fase general 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+En un matraz de 5,0 L, en el que inicialmente se ha realizado el vacío, se introducen 0,1 moles de cada uno de los siguientes gases: CH4(g), H2O(g), CO2(g) e H2(g). Se eleva la temperatura del recipiente hasta 1000 K, alcanzándose el equilibrio: 
+CH4(g) + 2 H2O(g) . CO2(g) + 4 H2(g) con Kc = 7,4 x 10-3 a 1000 K 
+i. Justifique si la mezcla gaseosa inicial se encuentra en equilibrio, o no, a 1000 K, y el sentido en el que evolucionará el sistema para alcanzar el equilibrio. (1,0 punto) 
+ii. Si la presin total de la mezcla gaseosa en el equilibrio a 1000 K es de 7 atm, calcule su composicin, en moles de cada gas. (1,5 puntos) 
+-1 -1 
+Dato.R = 0,082 atm L K mol 
+2. (2,5 puntos) 
+Se mezclan 25,0 mL de una disoluci acuosa de ácido nítrico, HNO3(ac), de pH= 2,12, con 25,0 mL de una disoluci acuosa de hidrido de potasio, KOH(ac), de pH = 12,6. Calcule el pH de la disoluci acuosa resultante. Suponga que los volenes son aditivos. 
+3. (1,0 punto) 
+En dos tubos de ensayo se colocan unos cristales de permanganato de potasio, KMnO4(s). En el tubo 1 se aaden 5 mL de agua y en el tubo 2 se aaden 5 mL de un disolvente orgánico no polar. Indique y justifique las observaciones realizadas en cada uno de los tubos de ensayo. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el nero máximo de electrones desapareados que presentan los siguientes átomos: i) Co (Z = 27); ii) Zr (Z = 40). (1,0 punto) 
+B. Para una determinada reacci química .H = 17,8 kJ y .S = 123 J K-1 . Calcule la temperatura a partir de la cual la reacci será espontánea. (1,0 punto) 
+5. (2,0 puntos) 
+A. La pila voltaica representada por el esquema: Cd(s)|Cd2+(ac,1M)||Cu2+(ac,1M)|Cu(s), tiene un potencial estándar de pila de 0,743 V. Escriba la ecuaci química que representa la reacci que tiene lugar en el ánodo y calcule el potencial estándar de reducci del electrodo Cd2+/Cd. 
+Dato. Eº(Cu2+/Cu) = 0,34 V. (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i) 1,1,1-clorodifluoroetano ii) 2-cloro-3-metil-2-penteno 
+iii) Butanal iv) Dietilmetilamina 
+(1,0 punto) 
+
+ORDINARIA, 2016 
+fase específica 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Construya el ciclo de Born-Haber para la formaci del NaBr(s), a partir de bromo líquido y sodio metálico, y calcule la energía de red (.Hred) del compuesto, a partir de los siguientes datos: Entalpía estándar de formaci del NaBr(s) [.Hf(NaBr)] = -361,4 kJ mol-1 . Entalpía de sublimacin del sodio metálico [.HSNa(s)] = 107,3 kJ mol-1. Entalpía de vaporización del bromo líquido [.HvapBr2(l)] = 30,7 
+-1 -1 
+kJ mol . Entalpía de disociaci del Br2(g) [.HDBr2(g)] = 193 kJ mol . Primera energía de ionizaci del Na(g) [.HionizacinNa(g)]1 = 495,8 kJ mol-1. Afinidad electrónica del Br(g) [.HafinidadBr(g)] = -324,6 kJ mol-1 . 
+2. (2,5 puntos) 
+En el proceso de purificaci del Cu(s) mediante electrolisis, una lámina de Cu(s) impuro act como ánodo de la célula electrolítica y una lámina de Cu(s) de elevada pureza act como cátodo. Ambas están sumergidas en una disoluci ácida de CuSO4. 
+i. Dibuje un esquema de la célula electrolítica, indicando el polo positivo, el polo negativo y el flujo de electrones durante el proceso de electrolisis. Escriba las reacciones que se producen en el ánodo y en el cátodo. (1,5 puntos) 
+ii. Calcule el tiempo que tiene que estar funcionando la célula para que la masa del cátodo 
+aumente en 1,5 g al pasar una corriente de 5 A. (1,0 punto) Datos. Constante de Faraday F = 96485 C/mol de electrones. Masa atmica del cobre = 63,55 u. 
+3. (1,0 punto) 
+
+En el laboratorio se dispone del dispositivo experimental de la figura y del material de laboratorio y reactivos que se relacionan: pipeta aforada de 10 mL, disoluci acuosa titulada de NaOH, muestra de vinagre comercial e indicador. Indique el procedimiento experimental a seguir para realizar la determinacin del contenido de ácido acético en un vinagre comercial. 
+4. (2,0 puntos) 
+A. Justifique la siguiente relaci de radios: r(O2-) > r(O) > r(F). Datos. O (Z = 8); F (Z = 9) (1,0 punto) 
+B. Deduzca la estructura de Lewis para el metanal, CH2O. Nombre y dibuje su geometría molecular e indique los ángulos de enlace aproximados. Datos. C(Z = 6); O(Z = 8); H (Z = 1) (1,0 punto) 
+5. (2,0 puntos) 
+A. Calcule el nero de moles de CaSO4 disueltos en 100 mL de una disolucin acuosa saturada de la sala 25 ºC. Dato. KPS(CaSO4) = 9,1 x 10-6 (1,0 punto) 
+B. Escriba las fmulas semidesarrolladas y nombre los iseros geométricos del 1,2-dicloro-1­buteno. (1,0 punto) 
+
+ORDINARIA, 2016 
+fase específica 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA OPCIÓN B 1. (2,5 puntos) 
+Determine si se formará precipitado cuando a 100 mL de agua destilada se aden 100 mL de disoluci acuosa 0,01 M de sulfato de sodio, Na2SO4, y 10 mg de nitrato de plomo(II), Pb(NO3)2, sido. Suponga que los volenes son aditivos y que el volumen del Pb(NO3)2 sido puede despreciarse. Datos. KPS(PbSO4) = 1,6 x 10-8. Masas aticas: Pb = 207,2 u; N = 14 u; O = 16 u. 
+2. (2,5 puntos) 
+Calcule el pH de la disoluci que se obtiene al adir a 20 mL de agua destilada, 20 mL de disoluci acuosa 0,01 M de hidrido de bario, Ba(OH)2, y 20 mL de HCl(ac) 0,01 M. Suponga que los volenes son aditivos. 
+3. (1,0 punto) 
+Dibuje un esquema de la pila Daniell e indique el material de laboratorio y los reactivos utilizados para su construccin. 
+4. (2,0 puntos) 
+A. Las siguientes configuraciones electrnicas: 
+2262618114 2262621063
+i)1s 2s2p3s3p4s3d4p5s4d ii) 1s 2s2p3s3p4s3d 4p4d representan estados excitados de los átomos. Para cada caso, escriba la configuraci electrica del estado fundamental e indique el período de la tabla periica al que pertenece cada elemento. 
+(1,0 punto) 
+B. Justifique las variaciones observadas en los valores de las temperaturas de ebullici de las siguientes sustancias a 1 atm: 
+Compuesto  HCl  HBr  HI  
+Temperatura de ebullicin (ºC)  . 85  . 67  . 35  
+
+(1,0 punto) 5. (2,0 puntos) 
+A. Determine el intervalo de temperaturas (altas o bajas) en el que la reacci: NO(g) + ½ Cl2(g) . NOCl(g) .HR = . 38,54 kJ es espontánea. (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i. 1,3,5-tribromo-2-penteno ii. Dietilamina 
+iii. 2-butanol iv. Butanoato de metilo (1,0 punto) 
+
+EXTRAORDINARIA, 2016 
+fase general 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA OPCIÓN A 
+1. (2,5 puntos) 
+A partir de los siguientes valores de las entalpías estándar de formación: .Hºformacin[HF(g)] = -268,5 kJ/mol;.Hºformacin[CF4(g)] = -680,0 kJ/mol y .Hºformacin[C2H4(g)] = + 52,3 kJ/mol: 
+i. Calcule la variaci de entalpía estándar para la reacci de etileno, C2H4(g), con flr, F2(g), para formar tetrafluoruro de carbono, CF4(g), y fluoruro de hidreno, HF(g). 
+(1,5 puntos) 
+ii. Si desea evitar la formacin de tetrafluoruro de carbono, utilizaría temperaturas ¿altas o bajas? Justifique la respuesta. (1,0 punto) 
+2. (2,5 puntos) 
+Para la reacci química en equilibrio C(s) + CO2(g) .2 CO(g), el valor de KC a 1000 K es 1,9. En un recipiente de 3 L, en el que inicialmente se ha realizado el vacío, se introduce un exceso de carbono y 25,0 g de CO2(g). La temperatura del recipiente se eleva hasta 1000 K. 
+i. Calcule la masa, en gramos, de CO(g) que se produce en el recipiente y los gramos de carbono que se consumen a 1000 K. (1,75 puntos) 
+ii. Calcule el valor de la constante KP para la reaccin en equilibrio a 1000 K. (0,75 puntos) 
+-1 -1 
+Datos.Masas aticas: C= 12 u; O = 16 u. R = 0,082 atm L mol K . 
+3. (1,0 punto) 
+Indique el material de laboratorio necesario para realizar la determinaci de la concentraci de H2O2 en el agua oxigenada comercial, utilizando una disoluci de permanganato de potasio. 
+4. (2,0 puntos) 
+A. Indique el grupo de la tabla peridica al que pertenece cada uno de los elementos representados por las siguientes configuraciones electrnicas generales. Justifique la respuesta. 
+25 1
+i) [gas noble] ns np ii) [gas noble] ns 
+2101 22
+iii) 
+[gas noble] ns (n-1)d np iv) [gas noble]ns (n-1)d (1,0 punto) 
+
+B. 
+Se prepara una disolucin reguladora de ácido acético, CH3COOH, y de acetato de sodio, NaCH3COO. Explique, de forma cualitativa, el funcionamiento de esta disolucin en el control del pH cuando se aden unas gotas de ácido nítrico a la disoluci. Escriba la ecuacin iica de la reacci que se produce al aadir el ácido nítrico a la disoluci reguladora. (1,0 punto) 
+
+
+5. (2,0 puntos) 
+A. Para la molécula CH3OH, deduzca la estructura de Lewis. Nombre y dibuje la geometría molecular alrededor de los átomos de carbono y de oxígeno. Datos. C (Z = 6), H (Z = 1), O (Z = 8). (1,0 punto) 
+B. Escriba las frmulas semidesarrolladas correspondientes a cada uno de los siguientes compuestos: 
+i) 4-etil-2,3-dimetiloctano ii) Metilpropilamina 
+iii) 3-pentanona iv) 1,1-dicloro-1-buteno 
+(1,0 punto) 
+
+EXTRAORDINARIA, 2016 
+fase general 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) 
+La neutralizaci exacta de 20 mL de una disoluci acuosa de ácido acético, (CH3COOH), de concentraci desconocida, necesit10 mL de disoluci acuosa de NaOH 0,5 M. Calcule el volumen, en mL, de la disoluci inicial de ácido acético que se necesita para preparar, por diluci con agua, 500 mL de una disoluci acuosa de este ácido de pH = 3,7. Dato. Ka(CH3COOH) = 1,8 x 10-5 . 
+2. (2,5 puntos) 
+Las disoluciones acuosas ácidas de dicromato de potasio, K2Cr2O7, son de color naranja. Cuando se ade perido de hidreno, H2O2, a una disoluci de dicromato de potasio en medio ácido clorhídrico, HCl, se observa el desprendimiento gaseoso de oxígeno, un cambio de color en la disoluci y la formacin de Cr3+(ac). 
+i. Escriba la ecuaci química ajustada, en forma inica y molecular, que representa la reaccin química que se produce en la disoluci. Indique el agente oxidante y el agente reductor. (1,75 puntos) 
+ii. Calcule el volumen de disoluci acuosa 0,25 M de perido de hidreno necesario para que reaccione todo el dicromato de potasio contenido en 0,5 L de una disolucin acuosa 0,7 M de la sal. (0,75 puntos) 
+3. (1 punto) 
+Dibuje un esquema del dispositivo experimental que permite medir la conductividad del I2(s) e indique el material de laboratorio que se utiliza. 
+4. (2,0 puntos) 
+A. Escriba los valores numéricos de los neros cuánticos n y l que corresponden a los electrones que se encuentran en los siguientes orbitales: i) 3p; ii) 2s; iii) 4f; iv) 5d. (1,0 punto) 
+B. Indique el signo, positivo o negativo, de la variaci de entropía del sistema en los siguientes procesos: i) fusi de un sido; ii) licuaci de un gas; iii) evaporaci de un líquido; iv) sublimaci de un slido. Justifique la respuesta. (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la reaccin química en equilibrio: 2 SO2(g) + O2(g) .2 SO3(g) .H < 0, indique y justifique co afectan al valor de las concentraciones de las sustancias en el equilibrio los siguientes cambios: i) disminuci del volumen del recipiente a temperatura constante (0,50 puntos); ii) aumento de la temperatura manteniendo el volumen constante.(0,50 puntos) 
+B. Los puntos normales de ebullici del metanol (CH3OH, masa molecular = 32 g/mol) y del etano (C2H6, masa molecular = 30 g/mol) son 64,7ºC y -89ºC, respectivamente. Justifique la diferencia entre los dos valores de los puntos normales de ebullici. (1,0 punto) 
+
+EXTRAORDINARIA, 2016 
+fase específica 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+La reacci de metano, CH4(g), con cloro, Cl2(g), en condiciones estándar, produce cloruro de hidreno, HCl(g), y cloroformo, CHCl3(g). Calcule la variaci de entalpía para la reacci descrita a partir de los siguientes datos: .Hº(formación)[CHCl3(g)] = -103,1 kJ/mol; .Hº(formación)[HCl(g)] = - 92,3 kJ/mol; .Hº(formación)[H2O(l)] = - 285,8 kJ/mol; .Hº(formación)[CO2(g)] = - 393,5 kJ/mol; .Hº(combusti)[CH4(g)] = - 890,3 kJ/mol de metano. 
+2. (2,5 puntos) 
+Un vinagre comercial contiene un 6,0 % en masa de ácido acético, CH3COOH. Calcule la masa, en gramos, de ese vinagre que debe diluirse en agua para obtener 500 mL de una disoluci con pH = 3,5. Considere que el ácido acético es el ico ácido presente en el vinagre. Datos. Ka(CH3COOH) = 1,8 x 10-5. Masas aticas: C: 12 u; H: 1 u; O: 16 u. 
+3. (1,0 punto) 
+Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentraci de perido de hidreno en un agua oxigenada mediante la valoraci denominada permanganimetría. 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electrnicas de los elementos X (Z = 17) e Y (Z = 53). Indique el grupo y período de la tabla periica a los que pertenece cada uno de los elementos. A partir de su posicin en la tabla periica, indique, de forma razonada, el elemento que presentará el valor más negativo de la afinidad electrica. (1,0 punto) 
+B. Para la molécula CCl4, deduzca la estructura de Lewis. Nombre y dibuje la geometría molecular e indique los ángulos de enlace aproximados. Datos. C(Z = 6); Cl (Z = 17) (1,0 punto) 
+5. (2,0 puntos) 
+A. La reacci de descomposici: NH4HS(s) . NH3(g) + H2S(g) es un proceso endotérmico. Explique el efecto que sobre la concentracin de NH3(g) en el equilibrio tendrá: 
+i. Elevar la temperatura de la reaccin manteniendo el volumen constante. (0,5 puntos) 
+ii. 
+La adicin de NH4HS(s) al sistema en equilibrio. (0,5 puntos) 
+
+B. 
+Nombre y escriba las fmulas semidesarrolladas de los productos obtenidos en: i) la oxidaci de 2-propanol; (0,5 puntos) ii) la deshidrataci del etanol. (0,5 puntos) 
+
+
+
+EXTRAORDINARIA, 2016 
+fase específica 
+Pruebas de Acceso a la Universidad (PAU) 
+
+Curso 2015-2016 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) 
+En un recipiente de 5 L, en el que previamente se ha realizado el vacío, se introducen 10,6 g de Cl2(g) y 375,0 g de PCl5(g). El conjunto se calienta a 200 ºC, estableciéndose el equilibrio químico representado por la ecuacin:   PCl5(g) . PCl3(g) + Cl2(g). 
+i. Si en el equilibrio hay 30,0 g de PCl3(g), calcule las presiones parciales de PCl5(g), PCl3(g) y Cl2(g) en el equilibrio a 200 ºC. (1,5 puntos) 
+ii. Calcule  los valores de KP y KC para el equilibrio a 200 ºC. (1,0 punto) 
+-1 -1 
+Datos. R = 0,082 atm L K mol ; Masas aticas: P = 31 u, Cl = 35,45 u. 
+2. (2,5 puntos) 
+Se dispone del siguiente material: dos varillas de cobre, disoluci 1 M de Cu+(ac), disoluci 1 M de Cu2+(ac), puente salino, voltímetro y conexiones eléctricas. 
+i. Escriba las semirreacciones de oxidaci y de reducci, así como la reacci global que tiene lugar en la pila que se puede construir con el material disponible. Calcule el potencial estándar de la pila. (1,0 punto) 
+ii. Dibuje un esquema de la pila, indicando el ánodo, el cátodo y el sentido en el que fluyen los 
+electrones. (1,5 puntos) Datos. Eº(Cu2+/Cu) = + 0,34 V; Eº(Cu+/Cu) = + 0,52 V. 
+3. (1 punto) 
+En el laboratorio se desea determinar el calor de la reacci ácido-base del hidrxido de sodio con el ácido clorhídrico. Dibuje un esquema del dispositivo experimental e indique el material utilizado. 
+4. (2,0 puntos) 
+A. Indique, justificando la respuesta, el nero de electrones desapareados que presentan, en estado fundamental, los átomos de Mn (Z = 25) y Se (Z = 34). (1,0 punto) 
+B. Los valores de los puntos normales de ebullici del HF y del HCl son 292,5 y 188,1 K, respectivamente. Explique la diferencia observada en estos valores de los puntos normales de ebullici. (1,0 punto) 
+5. (2,0 puntos) 
+A. Dispone de una disoluci reguladora de ácido acético, CH3COOH, y acetato de sodio, NaCH3COO. Escriba y justifique la ecuaci química que muestre co reacciona la disoluci reguladora preparada cuando: i) se le ade una peque cantidad de ácido fuerte (0,5 puntos); ii) se le ade una peque cantidad de base fuerte. (0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i) Dietilamina ii) cis-2-penteno 
+iii) 2,2-dimetil-3-hexino iv) Butanona 
+(1,0 punto) 
+
+Pruebas de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+
+Curso 2016-2017 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Calcule el pH de la disoluci acuosa que se obtiene al adir a 35 mL de agua destilada 25 mL de disoluci acuosa de Ba(OH)2 (0,5 % en masa y d = 1,12 g/mL) y 40 mL de disoluci acuosa de NaOH 0,15 M. Datos. Masas aticas: Ba = 137,3 u; O = 16 u; H = 1 u. 
+
+2. (2,5 puntos) 
+En un recipiente cerrado de 2 L, en el que inicialmente se ha realizado el vacío, se introducen 0,1 moles de NOCl(g), 0,1 moles de NO(g) y 0,05 moles de Cl2(g). La mezcla gaseosa se calienta a 300 ºC, alcanzándose el equilibrio: 
+2 NOCl(g) .  2 NO(g)  + Cl2(g) En el equilibrio, el nero total de moles gaseosos ha disminuido un 7,2%. Calcule el valor de KC para la reacci en equilibrio a 300 ºC tal y como está escrita. 
+
+3. (1,0 punto) 
+La concentraci de perido de hidreno, H2O2, en un agua oxigenada puede determinarse mediante valoraci redox con permanganato de potasio, KMnO4, de acuerdo con la ecuaci química: 
+2 KMnO4(ac) + 5 H2O2(ac) + 3 H2SO4(ac) .  2 MnSO4(ac) + 5 O2(g) + 8 H2O + K2SO4(ac) En el laboratorio, 10 mL del agua oxigenada se diluyen con agua hasta 100 mL y se toma una alícuota de 10 mL. La valoraci de esta alícuota consume, en el punto de equivalencia, 20 mL de una disoluci de permanganato de potasio 0,02 M. i) calcule la concentracin de perido de hidreno en el agua oxigenada inicial (0,75 puntos); ii) indique el nombre del material de laboratorio en el que se coloca la disolucin acuosa de agua oxigenada durante la valoraci (0,25 puntos). 
+
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas en estado fundamental de los elementos X (Z = 19) e Y (Z = 36). Indique el grupo y periodo de la tabla periica a los que pertenece cada uno de los elementos. A partir de su posici en la tabla peridica, indique, de forma razonada, el elemento que previsiblemente presentará el valor más bajo de la primera energía de ionizaci. 
+(1,0 punto) 
+B. Para el ani carbonato, CO32-, deduzca la estructura de Lewis. Indique y dibuje la geometría 
+molecular del ani, seg la TRPECV, y los ángulos de enlace aproximados. Datos: C(Z = 6), O (Z = 8).  (1,0 punto) 
+
+5. (2,0 puntos) 
+A. Escriba el valor de los neros cuánticos n y l para los orbitales de la subcapa 3d. (0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i.  3,4-dicloro-1-pentino (3,4-dicloropent-1-ino)  ii. Dietilmetilamina  
+iii.  cis-2,3-dicloro-2-penteno (cis-2,3-dicloropent-2-eno) iv. Dietil éter  
+v.  Bromobenceno  vi. 3-hexanona (hexan-3-ona)  
+(1,5 puntos)  
+
+Universidad de Oviedo Pruebas de evaluación de Bachillerato para el acceso a la Universidad 2016-2017 
+
+Pruebas de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2016-2017 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) 
+En una disoluci acuosa saturada de carbonato de bario, BaCO3, la concentracin del ani carbonato es 8,3 x10-5 M. 
+i. Calcule la constante del producto de solubilidad del carbonato de bario. (1,0 punto) 
+ii. Determine si se formará un precipitado de carbonato de bario al aadir a 100 mL de agua 30 mL de una disolucin acuosa 10-3 M de nitrato de bario, Ba(NO3)2, y 20 mL de una disoluci acuosa 10-3 M de carbonato de sodio, Na2CO3. (1,5 puntos) 
+2. (2,5 puntos) 
+-
+En disoluci acuosa ácida, el ani permanganato, MnO4 , reacciona con el Cr3+ para formar Mn2+ y ani dicromato, Cr2O72-. 
+i. Indique, justificando la respuesta, la especie química que se oxida, la que se reduce, la que acta como oxidante y la que act como reductora. Ajuste la reaccin química global en forma iica mediante el método del i-electr. (1,25 puntos) 
+ii. Dibuje un esquema de la célula galvánica basada en la reacci química que se produce de forma espontánea, indicando las semirreacciones que se producen en el ánodo y en el cátodo de la célula y el sentido del flujo de electrones durante su funcionamiento. Calcule el potencial estándar de la célula. (1,25 puntos) 
+Datos. Eº(MnO4-/Mn2+) = +1,51 V; Eº(Cr2O72-/Cr3+) = +1,33 V. 
+3. (1,0 punto) 
+
+En el laboratorio se dispone del dispositivo experimental de la figura y del material de laboratorio y reactivos que se relacionan: pipeta aforada de 10 mL, disoluci acuosa titulada de NaOH, muestra de vinagre comercial e indicador. Indique el procedimiento experimental a seguir para realizar la determinacin del contenido de ácido acético en un vinagre comercial. 
+4. (2,0 puntos) 
+A. El elemento X en estado fundamental presenta la siguiente configuraci electrnica: 1s22s22p63s23p64s2. Indique: i) el grupo y período de la tabla periica a los que pertenece el elemento y su carácter metálico, o no metálico; ii) el tipo de i, ani o catin, que formará el elemento. Justifique las respuestas. (1,0 punto) 
+B. Los puntos de ebullicin normales del 1-propanol (propan-1-ol, C3H8O) y del metoxietano (etil metil éter, C3H8O) son 97,4ºC y 7ºC, respectivamente. Justifique la diferencia en los valores de los puntos de ebullici normales de los dos compuestos. (1,0 punto) 
+
+5. (2,0 puntos) 
+A. Indique el tipo de hibridaci que presenta el átomo de carbono en: i) la molécula de HCN (geometría lineal); ii) la molécula CCl4 (geometría tetraédrica). (0,5 puntos) 
+B. Para la reacci HC     CH + Br2 . 
+i. Nombre y escriba la fmula semidesarrollada del producto de la reacci. (0,5 puntos) 
+ii. Nombre y escriba la fmula semidesarrollada de los iseros geométricos del producto de la reaccin. (1,0 punto) 
+Universidad de Oviedo Pruebas de evaluación de Bachillerato para el acceso a la Universidad 2016-2017 
+
+Pruebas de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2016-2017 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) Para la reacci química general A + B . C + D, a una temperatura determinada, la velocidad inicial de desaparicin de A varía con las concentraciones iniciales de los reactivos en la forma que se indica en la tabla: 
+Experimento  [A]0 (M)  [B]0 (M)  Velocidad inicial (Ms-1)  
+1  0,2  0,2  2,32 x 10-4  
+2  0,8  0,2  9,28 x 10-4  
+3  1,2  1,2  8,35 x 10-3  
+
+i.  Determine la ecuaci de velocidad para la reacci, indicando el orden de reacci parcial  
+respecto del reactivo A y del reactivo B.  (2,0 puntos)  
+ii.  Calcule el valor de la constante de velocidad, k, e indique sus unidades.  (0,5 puntos)  
+
+2. (2,5 puntos) 
+Calcule el pH de la disoluci resultante de diluir 10 mL de una disoluci acuosa de amoníaco, NH3, al 10% en masa de amoníaco y densidad 0,98 g mL-1, con agua hasta un volumen final de la disoluci de 1 L. Datos. Kb(NH3) = 1,8x10-5 . Masas aticas: N = 14 u; H = 1 u. 
+3. (1,0 punto) 
+Indique el material de laboratorio necesario para realizar la determinaci de la concentraci de H2O2 en el agua oxigenada comercial, utilizando una disoluci de permanganato de potasio. 
+4. (2,0 puntos) 
+A. Para el elemento X, caracterizado por pertenecer al grupo 15 y al período 4 de la tabla periica: i) escriba la configuraci electrica en el estado fundamental; ii) indique su nmero atico; iii) indique el nero de electrones desapareados que presenta en el estado fundamental; iv) escriba la configuraci electrnica del ani X3- en estado fundamental. (1,0 punto) 
+B. Justifique la diferencia en los valores de las temperaturas normales de ebullicin del NH3 (239,8 
+K) y del NF3 (144,1 K), si las dos moléculas presentan la misma estructura molecular (pirámide trigonal) y las dos son polares. (1,0 punto) 
+5. (2,0 puntos) 
+A. Deduzca el carácter polar, o no polar, de la molécula BeCl2, que presenta una geometría molecular lineal. (0,5 puntos) 
+B. Nombre y escriba las fmulas semidesarrolladas de los compuestos orgánicos que intervienen en las siguientes reacciones químicas: 
+i. Oxidaci de 2-propanol (propan-2-ol) con dicromato, Cr2O72-, en medio ácido. 
+(0,75 puntos) 
+ii. Deshidrataci del etanol en presencia de ácidos fuertes. (0,75 puntos) 
+Universidad de Oviedo Pruebas de evaluación de Bachillerato para el acceso a la Universidad 2016-2017 
+
+Pruebas de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2016-2017 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) En un recipiente cerrado de 2 L, en el que inicialmente se ha realizado el vacío, se introducen 0,5 moles de SO2(g), 0,2 moles de O2(g) y 0,5 moles de SO3(g). La mezcla gaseosa se calienta a 1000 K, alcanzándose el equilibrio representado por la reacci: 2 SO2(g) + O2(g) . 2 SO3(g) En el equilibrio, la presi parcial de SO2(g) es de 10 atm. 
+i. Indique, de forma razonada, el sentido en el que evolucionará el sistema para alcanzar el equilibrio. (1,0 punto) 
+ii. Calcule el valor de Kc para la reacci en equilibrio a 1000 K, tal y como está escrita. 
+(1,5 puntos) Dato. R = 0,082 atm L K-1 mol-1 
+2. (2,5 puntos) Se construye una pila voltaica con los siguientes electrodos: a) una tira de cobre sumergida en una disoluci acuosa de Cu2+(ac) 1 M; b) una tira de plata sumergida en una disoluci acuosa de Ag+(ac) 1 M. 
+i. Escriba las semirreacciones de oxidaci y de reducci que se producen, de forma espontánea, durante el funcionamiento de la pila. Calcule el potencial estándar de la pila. 
+(1,0 punto) 
+ii. Dibuje un esquema de la pila indicando el ánodo, el cátodo y el sentido en el que fluyen los 
+electrones cuando funciona la pila. (1,5 puntos) Datos. Eº(Cu2+/Cu) = + 0,34 V Eº(Ag+/Ag) = + 0,80 V 
+3. (1 punto) En la realizaci de una volumetría ácido-base para determinar la concentraci de ácido acético, CH3COOH, en una disoluci acuosa, 10 mL de la disoluci acuosa del ácido se diluyen con 50 mL de agua. La neutralizacin exacta de esta disoluci consume 15 mL de disoluci acuosa de hidrxido de sodio, NaOH, 0,05 M. 
+i. Calcule la concentraci del ácido acético en la disoluci inicial. (0,75 puntos) 
+ii. Indique el nombre del material de laboratorio en el que se alojaría la disoluci acuosa de hidrxido de sodio. (0,25 puntos) 
+4. (2,0 puntos) 
+A. Indique el nero cuántico, y sus posibles valores, que representa seg la teoría mecanocuántica: 
+i) 
+la energía de un orbital; ii) la orientacin espacial de un orbital. (1,0 punto) 
+
+B. 
+Los elementos X e Y ocupan las posiciones de la tabla periica que se indican a continuaci: X periodo = 4, grupo = 13; Y periodo = 4, grupo = 17. Indique el elemento que presentará el valor más alto del radio atico. Justifique la respuesta. (1,0 punto) 
+
+
+5. (2,0 puntos) 
+A. Indique el tipo de hibridaci del átomo central en las siguientes moléculas: i) SiCl4 (geometría tetraédrica); ii) HCN (geometría lineal). (0,5 puntos) 
+B. Identifique y nombre los grupos funcionales presentes en los siguientes compuestos: 
+O OH i. 
+ii.
+HO C   CH2 CH2   CH CH3 H2N CH2 CH2 CH2   CHO 
+iii. 
+
+O 
+CH3   CH    CH   CH2CH2 C O    CH2 CH3 
+(1,5 puntos) 
+Universidad de Oviedo Pruebas de evaluación de Bachillerato para el acceso a la Universidad 2016-2017 
+
+Prueba de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2017-2018 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Calcule la masa, en gramos, de amoniaco, NH3, que es necesaria para preparar 2 L de una disoluci acuosa de la base cuyo pH = 11,0. Datos. Masas aticas: N = 14 u; H = 1 u. Kb(NH3) = 1,8 x 10-5 . 
+2. (2,5 puntos) 
+A 25 ºC la constante del producto de solubilidad del sulfato de plomo(II), PbSO4, es 1,6 x 10-8 . Calcule: i) la solubilidad del PbSO4 en agua a 25 ºC, expresada en g de soluto/100 mL de disolucin (2,0 puntos); ii) el volumen mínimo de disoluci acuosa en que se disuelven completamente 10 mg de PbSO4 a 25 ºC (0,5 puntos). Datos. Masas aticas: Pb = 207,2 u; S = 32 u; O = 16 u. 
+3. (1,0 punto) 
+La concentraci de perido de hidreno, H2O2, en un agua oxigenada puede determinarse mediante valoraci redox con permanganato de potasio, KMnO4, de acuerdo con la ecuaci química: 2 KMnO4(ac) + 5 H2O2(ac) + 3 H2SO4(ac) .  2 MnSO4(ac) + 5 O2(g) + 8 H2O + K2SO4(ac) En el laboratorio, 2 mL del agua oxigenada se diluyen con agua hasta un volumen final de 20 mL. La valoraci exacta de esta disoluci consume, en el punto de equivalencia, 20 mL de una disoluci acuosa de permanganato de potasio 0,01 M. i) calcule la concentraci de perido de hidreno en el agua oxigenada inicial (0,75 puntos); ii) indique el nombre del material de laboratorio en el que se coloca la disoluci acuosa de permanganato de potasio durante la valoraci (0,25 puntos). 
+4. (2,0 puntos) 
+A. Escriba las configuraciones electricas en estado fundamental de los elementos X (Z = 16) e Y (Z = 52). Indique el grupo y período de la tabla periica a los que pertenece cada uno de los elementos. A partir de su posici en la tabla peridica, indique, de forma razonada, el elemento que, previsiblemente, presentará el valor más bajo del radio atico. (1,0 punto) 
+B. Para la molécula de CO2, deduzca la estructura de Lewis. Indique y dibuje la geometría molecular 
+del compuesto, seg la TRPECV, y los ángulos de enlace aproximados. Datos. C(Z = 6); O(Z = 8). (1,0 punto) 
+5. (2,0 puntos) 
+A. Para el valor del nero cuántico l =1, indique, de forma razonada, el tipo de subcapa que representa y el nero máximo de electrones permitidos que puede alojar la subcapa. 
+(0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: 
+i. Fenol ii. Cis-4-metil-2-hexeno (cis-4-metilhex-2-eno) iii. 2-metil-3-pentanol (2-metilpentan-3-ol) iv. Ácido 2-metilpropanoico 
+v. Etil propil éter vi. 2-etil-2-metilpentanal (1,5 puntos) 
+Universidad de Oviedo Prueba de evaluación de Bachillerato para el acceso a la Universidad 2017-2018 
+
+Prueba de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2017-2018 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) 
+En un recipiente cerrado de 20 L, en el que inicialmente se ha realizado el vacío, se introducen 0,85 moles de pentacloruro de fforo, PCl5, y se calientan a 200 ºC. A esta temperatura se alcanza el equilíbrio: 
+PCl5(g) . PCl3(g) + Cl2(g) En el equilibrio a 200 ºC, la presi total de la mezcla gaseosa es de 2,5 atm. Calcule: 
+i. El grado de disociaci del PCl5 a 200 ºC. ii. El valor de KP para el equilíbrio a 200 ºC. Dato. R = 0,082 atm L K-1 mol-1  (1,5 puntos) (1,0 punto)  
+2. (2,5 puntos)  
+
+Se construye una pila galvánica utilizando las siguientes semicélulas: a) un hilo de Pt sumergido en una disoluci acuosa ácida que contiene MnO2(s) en suspensi y [MnO4-] = 1 M; b) un hilo de Pt sumergido en una disolucin acuosa ácida que contiene [ClO3-] = [Cl-] = 1 M. 
+i. Escriba las semirreacciones de oxidacin y de reducci y la reaccin global, ajustadas por el método del i-electr en forma iica. Indique la especie química que act como oxidante y la que act como reductora durante el funcionamiento espontáneo de la pila. (1,5 puntos) 
+ii. Dibuje un esquema de la pila en el que estén representadas la semicélula que acta como ánodo y la que act como cátodo, así como el sentido del flujo de electrones durante el funcionamiento de la pila. (1,0 punto) 
+Datos. Eº(MnO4-/MnO2) = + 1,70 V; Eº(ClO3-/Cl-) = +1,45 V. 
+3. (1 punto) 
+Para la valoraci de una base débil, NH3(ac), con un ácido fuerte, HCl(ac), proponga, de forma razonada, el indicador que utilizaría para identificar el punto de equivalencia y el cambio de color que observaría (0,75 puntos). Indique el material de laboratorio en el que colocaría el indicador utilizado (0,25 puntos). 
+Indicador  Color (medio ácido)  Intervalo de pH de cambio de color  Color (medio básico)  
+Rojo de metilo  Rojo  4,8 – 6,0  Amarillo  
+Tornasol  Rojo  5,0 – 8,0  Azul  
+Fenolftaleína  Incoloro  8,2 – 10,0  Rosa  
+
+4. (2,0 puntos) 
+A. El elemento X presenta la siguiente configuracin electrnica en estado fundamental: 1s22s22p63s23p64s23d104p4. Indique, de forma razonada: i) el grupo y período de la tabla peridica a los que pertenece el elemento; ii) el tipo de in, anin o catin, que formará con mayor facilidad el elemento y la configuracin electrnica del in formado. (1,0 punto) 
+B. Para los aniones O2-y F-indique, de forma razonada, el anin que posee el radio inico más pequeo. (1,0 punto) Datos: O (Z = 8); F (Z = 9) 
+5. (2,0 puntos) 
+A. Indique el valor aceptable para el nero cuántico que falta en el conjunto n = 3, l = ¿?, ml = -2. Justifique la respuesta. (0,5 puntos) 
+B. Escriba las fmulas semidesarrolladas y nombre los posibles iseros constitucionales/estructurales que tienen la fmula molecular C5H12. (1,5 puntos) 
+Universidad de Oviedo Prueba de evaluación de Bachillerato para el acceso a la Universidad 2017-2018 
+
+Prueba de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2017-2018 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Dibuje el ciclo de Born-Haber y calcule la energía de red (.Hred) del KF(s) a partir de los siguientes datos: Entalpía estándar de formacióndel KF(s) [.Hf(KF)] = -567,4 kJ mol-1 . Entalpía de sublimacin del K(s) [.HSK(s)] = 89,24 kJ mol-1 . Entalpía de disociaci del F2(g) [.HDF2(g)] = 159 kJ mol-1 . Primera energía de ionización del K(g) [.HionizacinK(g)]1 = 418,9 kJ mol-1 . Afinidad electrica del F(g) [.HafinidadF(g)] = -328 kJ mol-1 . 
+2. (2,5 puntos) 
+El valor de la constante del producto de solubilidad del bromuro de plata, AgBr, en agua a 25ºC es 2,8x10-9 . 
+i. Calcule la solubilidad del bromuro de plata en agua a 25ºC. (1,5 puntos) 
+ii. Si se aaden 5 mg de bromuro de plata a la cantidad de agua necesaria para completar 100 mL de disoluci a 25ºC ¿Se disolverá todo el bromuro de plata adido? Si la respuesta es negativa ¿Qué porcentaje del bromuro de plata adido quedará sin disolver? (1,0 punto) 
+Datos. Masas aticas: Ag = 107,9 u; Br = 79,9 u. 
+3. (1,0 punto) 
+Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentraci de perido de hidreno en un agua oxigenada, mediante la valoraci denominada permanganimetría. Indique el material de laboratorio utilizado. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de la disoluci acuosa resultante de la neutralizaci exacta de una disoluci acuosa de amoniaco, NH3, con una disoluci acuosa de ácido clorhídrico, HCl. Dato. Kb(NH3) = 1,8 x 10-5 (1,0 punto) 
+B. Ajuste, por el método del i-electrn, la siguiente ecuacin química: NH3(g) + O2(g)  . NO(g) + H2O(g) (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la reaccin química general A + B . C + D, la ley de velocidad está representada por la ecuaci v = k [A][B]2. Determine las unidades de la constante de velocidad para esta ley de velocidad. (0,5 puntos) 
+B. Identifique el tipo y complete las siguientes reacciones químicas. Nombre y formule los 
+compuestos orgánicos que se obtienen en ellas. FeBr3 
+i. Benceno + Br2(l) 
+(0,75 puntos) 
+ii. 2-propanol (propan-2-ol) + K2Cr2O7 + H+ . (0,75 puntos) 
+Universidad de Oviedo Prueba de evaluación de Bachillerato para el acceso a la Universidad 2017-2018 
+
+Prueba de evaluación de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2017-2018 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) En la disoluci preparada disolviendo 9 mg de ácido acético, CH3COOH, en agua hasta completar 300 mL de disoluci, se observa que en el equilibrio el 83% de la masa de ácido adida no se ha disociado, permaneciendo como CH3COOH en la disoluci. A partir de esta informaci, calcule el valor de la constante de disociaci del ácido acético en agua y el pH de la disoluci resultante. Datos. Masas aticas: C= 12 u; H = 1,0 u; O = 16 u. 
+2. (2,5 puntos) Cuando se ade dicromato de potasio, K2Cr2O7, a una disoluci acuosa de ácido sulfico que contiene sulfato de hierro(II), FeSO4, se produce una reacci química espontánea. A partir de los valores de los potenciales estándar de reducci: Eº(Cr2O72-/Cr3+) = +1,33 V; Eº(Fe3+/Fe2+) = +0,771 V; Eº(Fe2+/Fe) = -0,44 V. 
+i. Indique, de forma razonada, la especie química en disoluci que experimenta la reaccin de oxidaci y la que experimenta la reaccin de reducci. Escriba y ajuste por el método del i– electr, en forma iica y molecular, la ecuaci que representa la reacci química que se produce de forma espontánea. (2,0 puntos) 
+ii. Calcule el potencial estándar de la reacci global. (0,5 puntos) Nota. Todas las especies en disoluci están en condiciones estándar. 
+3. (1 punto) Para la valoraci de una base fuerte, NaOH(ac), con un ácido fuerte, HCl(ac), proponga, de forma razonada, el indicador que utilizaría para identificar el punto de equivalencia y el cambio de color que observaría. Indique el material de laboratorio en el que colocaría el indicador utilizado. 
+Indicador  Color (medio ácido)  Intervalo color  de pH de cambio de  Color (medio básico)  
+Rojo de metilo  Rojo  4,8 – 6,0  Amarillo  
+Tornasol  Rojo  5,0 – 8,0  Azul  
+Fenolftaleína  Incoloro  8,2 – 10,0  Rosa  
+
+4. (2,0 puntos) 
+A. Para los valores de los nmeros cuánticos que se indican n =4 y ml = . 3, indique: i) el valor del nero cuántico l; ii) la notaci del subnivel electrnico; iii) el nmero de orbitales en el subnivel; iv) el nero máximo de electrones en el subnivel. Justifique todas las respuestas. 
+(1,0 punto) 
+B. Escriba las configuraciones electrnicas, en estado fundamental, de los elementos X (Z = 17) e Y (Z = 53). Indique el grupo y periodo de la tabla periica a los que pertenece cada uno de los elementos. A partir de su posici en la tabla periica, indique, de forma razonada, el elemento que previsiblemente presentará el valor más negativo de la afinidad electrica. (1,0 punto) 
+5. (2,0 puntos) 
+A. Indique el tipo, o tipos, de fuerzas intermoleculares que contribuyen, de manera preferente, a mantener en estado líquido el Br2. (0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i. 1-bromohexano ii. 2-heptino (hept-2-ino) 
+iii. 
+Butanal iv. Etilbenceno 
+
+v. 
+Etilmetilpropilamina vi. Butanoato de butilo 
+
+
+(1,5 puntos) 
+Universidad de Oviedo Prueba de evaluación de Bachillerato para el acceso a la Universidad 2017-2018 
+
+Prueba de evaluaci de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2018-2019 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) Dibuje el ciclo de Born-Haber y calcule la energía de red (.Hred) del KI(s) a partir de los siguientes datos: Entalpía estándar de formaci del KI(s) [.Hf(KI)] = -327,9 kJ mol-1 . Entalpía de sublimaci 
+-1 -1 
+del K(s) [.HSK(s)] = 89,24 kJ mol . Entalpía de sublimaci del I2(s) [.HsublimI2(s)] = 62,44 kJ mol . Entalpía de disociaci del I2(g) [.HDI2(g)] = 151 kJ mol-1 . Primera energía de ionizaci del K(g) [.HionizacinK(g)]1 = 418,9 kJ mol-1. Afinidad electrica del I(g) [.HafinidadI(g)] = -295,2 kJ mol-1 . 
+2. (2,5 puntos) 
+Experimentalmente se determinque en 250 mL de una disoluci acuosa saturada de carbonato de cálcio, CaCO3, a 25 ºC, hay 1,3 mg de sal disueltos. 
+i. Calcule el valor de la constante del producto de solubilidad del CaCO3 en agua a 25ºC. 
+(2,0 puntos) 
+ii. Calcule la concentraci máxima de Ca2+ que puede estar disuelto en una disoluci acuosa que 
+presenta una [CO32-] = 1,5 x 10-4 M, a 25 ºC. (0,5 puntos) Datos. Masas aticas: Ca= 40 u; C = 12 u; O = 16 u. 
+3. (1,0 punto) 
+Describa el procedimiento experimental a seguir en el laboratorio para determinar la concentraci de perido de hidreno en un agua oxigenada, mediante la valoraci denominada permanganimetría. Indique el material de laboratorio utilizado. 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el carácter ácido, básico o neutro de la disoluci acuosa resultante de la neutralizaci exacta de una disolucin acuosa de hidrido de sodio, NaOH, con una disoluci acuosa de ácido nitroso, HNO2. Dato. Ka(HNO2) = 7,2 x 10-4 (1,0 punto) 
+B. Ajuste, por el método del ion-electrn en medio básico, la siguiente ecuaci química: S(s) + ClO -(ac) . SO32-(g) + Cl-(g) (1,0 punto) 
+5. (2,0 puntos) 
+A. Para la reacci química elemental A . B, dibuje: i) un perfil energético; ii) un perfil energético en presencia de un catalizador positivo. (0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i. Ácido 3-bromohexanoico ii. 2-butino (but-2-ino) 
+iii. 
+4-hidroxipentanal iv Butanodiona 
+
+v. 
+Fenilmetilamina vi. Acetato de propilo 
+
+
+(1,5 puntos) 
+Universidad de Oviedo Prueba de evaluacin de Bachillerato para el acceso a la Universidad 2018-2019 
+
+Prueba de evaluaci de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2018-2019 
+QUÍMICA 
+OPCIÓN B 
+1. (2,5 puntos) Se mezclan 7,5 mL de una disoluci acuosa de ácido nítrico, HNO3, de pH = 1,5, con 2,5 mL de una disoluci acuosa de ácido clorhídrico, HCl, del 0,8% en masa y densidad igual a 1,05 g mL-1 . La mezcla se diluye con agua hasta un volumen final de la disoluci de 2 L. Calcule el pH de la disoluci resultante. Datos. Masas aticas: Cl = 35,45 u; H = 1,01 u. 
+2. (2,5 puntos) Cuando se aade una disoluci acuosa de perido de hidreno, H2O2, a una disolucin acuosa ácida que contiene bromo disuelto, Br2(ac), se produce una reacci química espontánea. A partir de los valores de los potenciales estándar de reducci, Eº(H2O2/H2O) = +1,763 V; Eº(BrO3-/Br2) = +1,478 V: 
+i. Indique, de forma razonada, la especie química en disoluci que experimenta la reacci de oxidaci y la que experimenta la reacci de reducci. Escriba y ajuste por el método del ion–electr la ecuaci que representa la reaccin química que se produce de forma espontánea. Indique la especie química que act como reductor. (2,0 puntos). 
+ii. Calcule el potencial estándar de la reacci global. (0,5 puntos) Nota. Todas las especies en disoluci están en condiciones estándar. 
+3. (1,0 punto) Para la valoraci de una base fuerte, NaOH(ac), con un ácido fuerte, HCl(ac), proponga, de forma razonada, el indicador que utilizaría para identificar el punto de equivalencia y el cambio de color que observaría. Indique el material de laboratorio en el que colocaría el indicador utilizado. 
+Indicador  Color (medio ácido)  Intervalo color  de pH de  cambio de  Color (medio básico)  
+Rojo de metilo  Rojo  4,8 – 6,0  Amarillo  
+Tornasol  Rojo  5,0 – 8,0  Azul  
+Fenolftaleína  Incoloro  8,2 – 10,0  Rosa  
+
+4. (2,0 puntos) 
+A. Los siguientes diagramas de orbitales corresponden a especies químicas neutras. Indique los diagramas que son correctos, los que son incorrectos y los que corresponden a estados fundamentales o excitados del átomo neutro. Justifique todas las respuestas. (1,0 punto) 
+
+B. Escriba las configuraciones electricas, en estado fundamental, de los elementos X (Z=17) e Y (Z=35). Indique el grupo y periodo de la tabla periica a los que pertenece cada uno de los elementos. A partir de su posici en la tabla periica, indique, de forma razonada, el elemento que previsiblemente presentará el valor más elevado de la primera energía de ionizaci. 
+(1,0 punto) 5. (2,0 puntos) 
+A. Deduzca, a partir de su estructura molecular, el carácter polar, o no polar, de la molécula CH2O, 
+que presenta una geometría molecular triangular. Datos: Valores de las electronegatividades (escala de Pauling): H = 2,1; C = 2,5; O = 3,5. (0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas y nombre tres de los iseros posibles del ácido carboxílico con frmula molecular C5H10O2. (1,5 puntos) 
+Universidad de Oviedo Prueba de evaluacin de Bachillerato para el acceso a la Universidad 2018-2019 
+
+Prueba de evaluaci de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2018-2019 
+QUÍMICA 
+OPCIÓN A 
+1. (2,5 puntos) 
+Se prepara una disoluci acuosa de ácido cianhídrico, HCN, disolviendo 0,675 g del ácido en un volumen final de disolucin de 250 mL. El pH de la disoluci resultante es 5,07. Calcule el valor del grado de disociaci y de la constante de ionizaci del ácido en la disoluci acuosa a 25 ºC. Datos. Masas aticas: C= 12 u; N = 14 u; H = 1 u. 
+2. (2,5 puntos) 
+A 250 mL de agua se ade 1 mg de cloruro de plata, AgCl(s), a 25 ºC. Determine: 
+i) Si se disolverá todo el sido adido. (2,0 puntos) 
+ii) La [Ag+] en la disoluci. (0,5 puntos). Suponga que no se observa variaci de volumen al aadir el sido al agua. Datos. Masas aticas: Ag = 107,9 u; Cl = 35,45 u. KPS(AgCl) = 1,8 x 10-10 
+3. (1,0 punto) 
+La concentraci de perido de hidreno, H2O2, en un agua oxigenada puede determinarse mediante valoraci redox con permanganato de potasio, KMnO4, de acuerdo con la ecuaci química: 2 KMnO4(ac) + 5 H2O2(ac) + 3 H2SO4(ac) . 2 MnSO4(ac) + 5 O2(g) + 8 H2O + K2SO4(ac) En el laboratorio, 1 mL del agua oxigenada se diluye con agua hasta un volumen final de 20 mL. La valoraci exacta de esta disoluci consume, en el punto de equivalencia, 15 mL de una disoluci acuosa de permanganato de potasio 0,01 M. i) Calcule la concentraci de perido de hidreno en el agua oxigenada inicial (0,75 puntos); ii) indique el nombre del material de laboratorio que contiene la disoluci acuosa de perxido de hidreno durante la valoraci (0,25 puntos). 
+4. (2,0 puntos) 
+A. Para el elemento X (Z = 38), escriba la configuraci electrica en su estado fundamental e indique, de forma razonada: i) el bloque y el período de la tabla periica a los que pertenece el elemento; ii) el tipo de in, anin o catin, que formará con mayor facilidad el elemento. 
+(1,0 punto) 
+B. Las temperaturas de ebullicin a la presi de 1 atm de las sustancias Br2(l) y ICl(l) son, respectivamente, 58,8 ºC y 97,4 ºC. Teniendo en cuenta que las masas molares de las dos sustancias son muy semejantes [M(Br2) = 159,8 g mol-1, M(ICl) = 162,35 g mol-1], justifique la diferencia en los valores de las temperaturas de ebullici de estas dos sustancias. 
+Datos. Valores de electronegatividad: I = 2,66; Cl = 3,16. (1,0 punto) 
+5. (2,0 puntos) 
+A. Para el 
+, indique, de forma razonada, el nero de protones y de neutrones que hay en el nleo del átomo. (0,5 puntos) 
+B. Escriba las frmulas semidesarrolladas de los siguientes compuestos: i. Fenilamina. ii. Metil-2-propanol (Metilpropan-2-ol) 
+iii. 1,4-diclorobenceno (p-diclorobenceno) iv. Ácido trifluoroacético v. 2-bromo-2-penteno (2-bromopent-2-eno) vi. 2-hidroxi-3-metilpentanal (1,5 puntos) 
+Universidad de Oviedo Prueba de evaluacin de Bachillerato para el acceso a la Universidad 2018-2019 
+
+Prueba de evaluaci de Bachillerato para el acceso a la Universidad (EBAU) 
+Curso 2018-2019 
+QUÍMICA OPCIÓN B 
+1. (2,5 puntos) 
+Para la reaccin química a 425 ºC I2(g) + H2(g) .2 HI(g), Kc = 54,8 cuando las concentraciones se expresan el mol L-1. En un recipiente cerrado de 5 L, en el que inicialmente se ha realizado el vacío, se introducen 13 g de I2, 2,02 g de H2 y 20,04 g de HI. La mezcla se calienta a 425 ºC. 
+i. Indique, de forma razonada, el sentido en el que el sistema evolucionará de forma espontánea para alcanzar el estado de equilibrio. (1,25 puntos) 
+ii. Calcule el valor de la concentraci en el equilíbrio de cada una de las sustancias que intervienen 
+en la reacci. (1,25 puntos) Datos. Masas aticas: I = 126,91 u; H = 1,01 u. 
+2. (2,5 puntos) 
+A partir de la notaci de la pila galvánica Ag(s)|Ag+(ac, 1 M)||Cr2O72-(ac, 1 M)|Cr3+(ac, 1 M)|Pt: 
+i. Escriba las semirreacciones de oxidacin y de reducci y la reaccin global, ajustadas por el método del ion-electr en forma iica. Indique la especie química que act como oxidante y la que act como reductora durante el funcionamiento espontáneo de la pila. (1,5 puntos) 
+ii. Dibuje un esquema de la pila en el que estén representadas la semicelda que acta como ánodo y la que act como cátodo, así como el sentido del flujo de electrones durante el funcionamiento de la pila. (1,0 punto) 
+3. (1 punto) 
+Para la determinaci del contenido en ácido acético de un vinagre comercial, 10 mL de vinagre se diluyen con agua hasta un volumen final de 35 mL. La neutralizaci exacta de esta disoluci consume 30 mL de disoluci acuosa de hidrido de sodio, NaOH, 0,1 M. 
+i. Calcule la concentraci del ácido acético en el vinagre comercial. (0,75 puntos) 
+ii. Indique el nombre del material de laboratorio que contiene la disoluci acuosa de NaOH. 
+(0,25 puntos) 
+4. (2,0 puntos) 
+A. Indique, de forma razonada, el tipo de enlace que formarán los elementos X (grupo 1, período 3) e Y (grupo 16, período 3) cuando se combinen y la frmula empírica del compuesto formado. 
+(1,0 punto) 
+B. Los valores de electronegatividad en la escala de Pauling de los átomos de fsforo y de cloro son, respectivamente, 2,1 y 3,0. La molécula PCl3 presenta una geometría molecular de pirámide trigonal. Dibuje la estructura de la molécula y deduzca, a partir de esta estructura y de los datos suministrados, el carácter polar, o no polar, del PCl3. (1,0 punto) 
+5. (2,0 puntos) 
+A. De los dos conjuntos de neros cuánticos (n, l, ml y ms) que se indican, identifique, de forma justificada, el que representa correctamente un electr en un átomo: 
+i) 
+(3, -2, -1, -1/2); ii) (3, 2, -1, 1/2) (0,5 puntos) 
+
+B. 
+Escriba las fmulas semidesarrolladas y nombre tres de los posibles iseros constitucionales que tienen la frmula molecular C3H6Cl2. (1,5 puntos) 
+
+
+Universidad de Oviedo Prueba de evaluacin de Bachillerato para el acceso a la Universidad 2018-2019 
+
+
+

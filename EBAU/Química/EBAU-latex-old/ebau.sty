@@ -1,0 +1,162 @@
+\ProvidesPackage{ebau}[2020/04/14 EBAU Style Package]
+
+\usepackage{iftex}
+\usepackage{geometry}
+
+\ifPDFTeX
+  \usepackage[spanish,es-noquoting]{babel}
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{lmodern}
+  \geometry{top=3cm, bottom=2.5cm, inner=3cm, outer=3cm, headheight=100pt}
+\fi
+
+\ifLuaTeX
+  \usepackage{polyglossia}
+    \setdefaultlanguage{spanish}
+  \usepackage{fontspec}
+    \setmainfont[Ligatures={NoCommon}]{Fira Sans}
+  \geometry{top=3cm, bottom=2.5cm, inner=2.2cm, outer=3cm, headheight=100pt}
+\fi
+
+\usepackage{graphicx}
+  \graphicspath{ {./img/} }
+% wrapfig no funciona dentro de listas, y por lo tanto no funciona dentro de xsim
+% salvo dentro de minipages
+\usepackage{wrapfig}
+
+% permite alinear varias figuras en horizontal, una al lado de la otra
+%\usepackage{subcaption}
+
+\usepackage[inline]{enumitem}
+% Configuración general de enumitem
+% Establece la configuración por defecto en a), b), c)
+  \setlist[enumerate,1]{
+    label   = {\roman*.},
+    itemsep = 0.3\itemsep,
+  }
+
+% permite crear columnas en de ejercicios
+\usepackage{multicol}
+
+\usepackage{tabularx, multirow}
+
+% paquetes matemáticos
+\usepackage{amsmath, amsthm, amssymb, booktabs}
+
+\ifLuaTeX
+  \usepackage{unicode-math}
+    \unimathsetup{
+      math-style  = ISO,
+      bold-style  = ISO
+    }
+    \setmathfont{Fira Math}
+\fi
+
+% resuelve el problema de espaciado excesivo en la coma decimal
+% debe usarse después de unicode-math o da lugar a errores
+\usepackage{icomma}
+
+% añade el uso de colores, también en tablas (table)
+\usepackage[table,xcdraw,dvipsnames]{xcolor}
+
+% paquetes de química
+% * chemfig:      dibujo de figuras y estructuras
+% * chemformula:  escritura de reacciones y compuestos químicos
+\usepackage{chemfig, chemformula}
+  \setchemfig{atom sep=2em}
+
+% añade la opción de tachar partes de una fórmula matemática
+\usepackage{cancel}
+
+% paquetes de unidades
+% proporciona herramientas para escribir unidades del SI
+\usepackage{siunitx}
+  \sisetup{
+    per-mode                = reciprocal,
+    output-decimal-marker   = {,},
+    group-digits            = integer,
+    exponent-product        = \cdot,                     % \times for the typical cross
+    list-final-separator    = { y },
+    list-pair-separator     = { y },
+    list-units              = single,
+    range-units             = single,
+    range-phrase            = { \translate{to (numerical range)} },
+    qualifier-mode          = brackets,
+  }
+
+\ifLuaTeX
+  \sisetup{% soluciona problemas con el símbolo de grados
+    text-celsius            = ^^b0\kern -\scriptspace C,
+    math-celsius            = ^^b0\kern -\scriptspace C,
+  }
+\fi
+
+
+% paquete de gestión de ejercicios
+\usepackage[no-files]{xsim}
+  \loadxsimstyle{layouts,ged}
+  \xsimsetup{
+    path                  = {xsim},
+    exercise/template     = {gedmargin},
+    exercise/name         = {},
+    exercise/print        = {true},
+    solution/template     = {runin},
+    solution/name         = {S},
+    solution/print        = {false},
+    exercise/within       = section,
+    exercise/the-counter  = \thesection.\arabic{exercise},
+  }
+
+% configura encabezados y pies de página, con numeración
+\usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[L]{
+    \textbf{\textsc{Ejercicios EBAU}}}
+  \fancyfoot{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0.2pt}
+  \renewcommand{\footrulewidth}{0pt}
+
+
+% opciones para configurar la gestión de ejercicios
+\DeclareOption{exercises}{
+  \xsimsetup{exercise/print = {true}, solution/print = {false}}
+}
+
+\DeclareOption{solutions}{
+  \xsimsetup{exercise/print = {false}, solution/print = {true}}
+}
+
+\DeclareOption{debug}{
+  \xsimsetup{exercise/template = {gedmargin-debug},}
+}
+
+\ExecuteOptions{exercises}
+
+% completa el procesado de las opciones
+\ProcessOptions\relax
+
+
+
+% DECLARACIÓN DE COMANDOS PROPIOS
+
+\newcommand{\geconvertbigger}[5]{
+    \( \SI[unit-color=blue]{#1}{\cancel#2} \cdot
+    \frac{ \SI{1}{#4} }{
+           \SI[unit-color=blue]{#3}{\cancel#2} }
+    = \SI{#5}{#4} \)
+}
+
+\newcommand{\geconvertlesser}[5]{
+    \( \SI[unit-color=blue]{#1}{\cancel#2} \cdot
+    \frac{ \SI{#3}{#4} }{
+           \SI[unit-color=blue]{1}{\cancel#2} }
+    = \SI{#5}{#4} \)
+}
+
+
+% DECLARACIÓN DE TRADUCCIONES
+
+\DeclareExerciseTranslation{spanish}{point}{punto}
+\DeclareExerciseTranslation{spanish}{points}{puntos}

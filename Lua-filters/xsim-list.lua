@@ -57,6 +57,8 @@ if FORMAT:match 'latex' then
 
         -- run over all blocks in each item from the ordered list
         for j,blk in ipairs(ex) do
+          -- print("Block: ", blk)
+          -- print("Block.content: ", blk.content)
           -- print("First: ", blk.content[1].t)
           -- print("Content:", blk.content[1].text)
           -- print("Condition 1:", blk.t)
@@ -64,8 +66,8 @@ if FORMAT:match 'latex' then
           -- print("Condition 3:", blk.content[1].text)
           -- check if the block starts the solution block and removes signal
           -- removed condition blk.t == "Para" causing problems when "Plain"
-          if blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
-            print("Is working?")
+          if blk.content and blk.content[1].t == 'Str' and blk.content[1].text == '{S}' then
+            -- print("Is working?")
             type = 'solution'
             blk.content:remove(1)
             if blk.content[1] and blk.content[1].t == 'Space' then

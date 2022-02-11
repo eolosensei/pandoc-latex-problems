@@ -1,3 +1,16 @@
-*.tex
-*/tex
 LaTeX-config/pruebas.lua
+
+# Ignora pdfs
+*.pdf
+*/pdf
+
+# Ignora archivos tex y archivos auxiliares
+*/tex
+*/xsim
+*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.xsim

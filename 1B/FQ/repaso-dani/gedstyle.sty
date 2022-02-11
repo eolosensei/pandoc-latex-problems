@@ -1,0 +1,105 @@
+\ProvidesPackage{gedstyle}[2019/08/26 GedStyle Package]
+
+\usepackage{polyglossia}
+  \setdefaultlanguage{spanish}
+
+\usepackage{fontspec}
+  \setmainfont{Fira Sans}
+
+\usepackage[top=3cm, bottom=2.5cm, inner=2.2cm, outer=2.2cm]{geometry}
+
+\usepackage[inline]{enumitem}
+% Configuración general de enumitem
+% Establece la configuración por defecto en a), b), c)
+  \setlist[enumerate,1]{
+    label   = \alph*),
+    itemsep = 0.3\itemsep,
+  }
+
+\usepackage{amsmath, amsthm, amssymb, booktabs}
+
+\usepackage{unicode-math}
+  \unimathsetup{
+    math-style  = ISO,
+    bold-style  = ISO
+  }
+  \setmathfont{Fira Math}
+
+% resuelve el problema de espaciado excesivo en la coma decimal
+% debe usarse después de unicode-math o da lugar a errores
+\usepackage{icomma}
+
+% paquetes de química
+% * chemfig:      dibujo de figuras y estructuras
+% * chemformula:  escritura de reacciones y compuestos químicos
+\usepackage{chemfig, chemformula}
+  \setchemfig{atom sep=2em}
+
+% paquetes de unidades
+% proporciona herramientas para escribir unidades del SI
+\usepackage{siunitx}
+  \sisetup{
+    per-mode                = symbol, % fraction or text
+    output-decimal-marker   = {,},
+    group-digits            = decimal,
+    exponent-product        = \cdot, % \times for the typical cross
+    text-celsius            = ^^b0\kern -\scriptspace C, % soluciona problemas con el símbolo de grados
+    math-celsius            = ^^b0\kern -\scriptspace C,
+    list-final-separator    = { y },
+    list-pair-separator     = { y },
+    range-phrase            = { \translate{to (numerical range)} },
+    qualifier-mode          = brackets,
+  }
+
+% paquete de gestión de ejercicios
+\usepackage{xsim}
+  \loadxsimstyle{layouts}
+  \xsimsetup{
+    path                  = {xsim},
+    exercise/template     = {margin},
+    exercise/name         = {},
+    exercise/print        = {true},
+    solution/template     = {runin},
+    solution/name         = {S},
+    solution/print        = {false},
+    exercise/within       = section,
+    exercise/the-counter  = \thesection.\arabic{exercise}
+  }
+  \DeclareExerciseProperty{source}
+
+% configura encabezados y pies de página, con numeración
+\usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead{}
+  \fancyfoot{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0.2pt}
+  \renewcommand{\footrulewidth}{0pt}
+
+
+% opciones para configurar la gestión de ejercicios
+\DeclareOption{exercises}{
+  \xsimsetup{exercise/print = {true}, solution/print = {false}}
+}
+
+\DeclareOption{solutions}{
+  \xsimsetup{exercise/print = {false}, solution/print = {true}}
+}
+
+\ExecuteOptions{exercises}
+
+% completa el procesado de las opciones
+\ProcessOptions\relax
+
+
+
+% DECLARACIÓN DE COMANDOS PROPIOS
+
+
+
+% DECLARACIÓN DE ENTORNOS PROPIOS
+
+\newenvironment{gexdatos}{
+  \vspace{4pt}
+  \noindent\small\textit{Datos:}
+  }{\vspace{5pt}}

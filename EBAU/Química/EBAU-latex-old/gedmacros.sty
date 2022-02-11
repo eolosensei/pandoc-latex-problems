@@ -1,0 +1,169 @@
+\ProvidesPackage{gedmacros}[2020/06/12 Macros específicas GED]
+
+% \atoMass{symbol}{A}
+\newcommand{\atoMass}[2]{%
+  \ensuremath{\ch{#1} = \SI{#2}{\amu}}%
+  }
+
+% \atoEN{symbol}{value}
+\newcommand{\atoEN}[2]{%
+  \ensuremath{\chi (\ch{#1}) = \num{#2}}%
+}
+
+% \atoNumber{symbol}{Z}
+\newcommand{\atoNumber}[2]{%
+  \ensuremath{{#1}~(Z = \num{#2})}%
+}
+
+% \atoSymbol{A}{Z}{symbol}
+\newcommand{\atoSymbol}[3]{%
+  \ensuremath{\ch{^{#2}_{#3}#1}}%
+}
+
+% DEFINICIONES constantes de equilibrio
+
+% \Kconc{compound}{value}
+\newcommand{\Kconc}[2]{%
+  \ensuremath{K_c(\ch{#1}) = \num{#2}}%
+}
+
+% \Kbasic{compound}{value}
+\newcommand{\Kbasic}[2]{%
+  \ensuremath{K_b(\ch{#1}) = \num{#2}}%
+}
+
+% \Kacid{compound}{value}
+\newcommand{\Kacid}[2]{%
+  \ensuremath{K_a(\ch{#1}) = \num{#2}}%
+}
+
+% \Ksol{compound}{value}
+\newcommand{\Ksol}[2]{%
+  \ensuremath{K_{PS}(\ch{#1}) = \num{#2}}%
+}
+
+% \redoxEV{pair}{value}
+\newcommand{\redoxEV}[2]{%
+  \ensuremath{E^\circ(\ch{#1}) = \SI[retain-explicit-plus]{#2}{\V}}%
+}
+
+% DEFINICIONES constantes universales
+
+\newcommand{\cteR}{%
+  \ensuremath{R = \SI{0,082}{\atm\L\per\mol\per\K}}%
+}
+
+
+% DEFINICIONES reacciones químicas
+
+% \reactWithH{reaction}{value}{units}
+\newcommand{\reactWithH}[3]{%
+  \begin{wrapeq}
+    \ch{#1} \hfill \( \Delta H^\circ = \SI[retain-explicit-plus]{#2}{#3} \)%
+  \end{wrapeq}%
+}
+
+% \reactWithK[subindex type (default: 'c')]{reaction}{value}
+\newcommand{\reactWithK}[3][c]{%
+  \begin{wrapeq}
+    \ch{#2} \hfill \( K_\text{#1} = \num{#3} \)%
+  \end{wrapeq}%
+}
+
+% \pilaGalvanica{anod}{anod}{catod}{catod}
+\newcommand{\pilaGalvanica}[4]{%
+  \[ \ch{#1}\,|\,\ch{#2}\,||\,\ch{#3}\,|\,\ch{#4} \]%
+}
+
+% \pilaGalvanicaWithFem{anod}{anod}{catod}{catod}{value}{units}
+\newcommand{\pilaGalvanicaWithFem}[6]{%
+  \begin{wrapeq}
+    \ch{#1} \| \ch{#2} \|\| \ch{#3} \| \ch{#4} \hfill \redoxEV{#5}{#6}%
+  \end{wrapeq}%
+}
+
+
+
+
+% DEFINICIONES ENTALPÍAS
+
+% \entalpyOf{subindex type}{compound}{value}
+\newcommand{\entalpyOf}[3]{%
+  \ensuremath{\Delta H_\text{#1}[\ch{#2}] = \SI{#3}{\kJ\per\mol}}%
+}
+
+% \entalpyStdOf{subindex type}{compound}{value}
+\newcommand{\entalpyStdOf}[3]{%
+  \ensuremath{\Delta H^\circ_\text{#1}[\ch{#2}] = \SI{#3}{\kJ\per\mol}}%
+}
+
+% \stHf{compound}{value}{units}
+\newcommand{\stHf}[3]{%
+  \ensuremath{\Delta H^\circ_f[\ch{#1}] = \SI{#2}{#3}}%
+}
+
+% DEFINICIONES configuración electrónica
+
+\newcommand{\electronicConf}[1]{%
+  \ensuremath{#1}%
+}
+\newcommand{\orb}[3]{#1\text{#2}^{#3}}
+\newcommand{\orbBase}[1]{[\text{#1}]\ }
+\newcommand{\orbElem}[1]{\ch{#1} = }
+
+% Definiciones de cajas de orbitales. Extraído de
+% https://tex.stackexchange.com/questions/372581/atomic-electronic-configuration-with-small-boxes
+% \elecBox{orbital}{electron contents (options: \up, \dwn, \full, \emp, \upup, \dwndwn, \upupup, \dwndwndwn)}
+\newcommand{\elecBox}[2]{{%
+  \newcommand*\up{\fbox{$\mathord\upharpoonleft\phantom{\downharpoonright}$}}%
+  \newcommand*\dwn{\fbox{$\mathord\downharpoonleft\phantom{\upharpoonright}$}}%
+  \newcommand*\full{\fbox{$\upharpoonleft\downharpoonright$}}%
+  \newcommand*\upup{\fbox{$\upharpoonleft\upharpoonright$}}%
+  \newcommand*\upupup{\fbox{$\upharpoonleft\upharpoonleft\upharpoonleft$}}%
+  \newcommand*\dwndwn{\fbox{$\downharpoonright\downharpoonright$}}%
+  \newcommand*\dwndwndwn{\fbox{$\downharpoonright\downharpoonright\downharpoonright$}}%
+  \newcommand*\emp{\fbox{$\phantom{\downharpoonright}\phantom{\downharpoonright}$}}%
+  \setlength\tabcolsep{0pt}% remove extra horizontal space from tabular
+  \begin{tabular}{c}#2\\[2pt]#1\end{tabular}\ \;%
+}}
+%% USO: \\elecBox{2s}{\full} \electron{2p}{\up\ \dwn\ \emp}
+
+
+
+
+
+% DEFINICIONES SIUNITX
+\DeclareSIUnit
+  \atm{atm}
+
+
+% DECLARACIÓN DE ENTORNOS PROPIOS
+
+% Contenido de datos de un enunciado
+\newenvironment{gexdata}{%
+  \vspace{4pt}%
+  \par\noindent\ignorespaces\small\textit{Datos:}%
+  }{\vspace{5pt}\ignorespacesafterend}
+
+\newenvironment{wrapxsim}[3]{%
+  \noindent\ignorespaces
+  \begin{minipage}[t]{\textwidth}
+    \vspace{-2.5mm}%
+    \begin{wrapfigure}{#1}{#2}
+      \centering
+      \vspace{-\baselineskip}
+      \includegraphics[width=#2]{#3}
+    \end{wrapfigure}
+}{\end{minipage}\ignorespacesafterend}
+
+
+
+\newenvironment{wrapeq}{
+  \vspace{6pt}
+  \par\noindent\ignorespaces
+  % \setlength{\tabcolsep}{0pt}
+  % \tabularx{\textwidth}{Xr}
+}{
+% \endtabularx
+\par\vspace{6pt}\ignorespacesafterend
+}

@@ -1,0 +1,223 @@
+\ProvidesPackage{meres-style}[2019/10/10 Meres Style Package]
+
+\usepackage{polyglossia}
+  \setdefaultlanguage{spanish}
+
+\usepackage{fontspec}
+  \setmainfont[Ligatures={NoCommon}]{Fira Sans}
+
+\usepackage[top=3.5cm, bottom=2.5cm, inner=2.5cm, outer=2.3cm, headheight=100pt]{geometry}
+
+\usepackage[inline]{enumitem}
+% Configuración general de enumitem
+% Establece la configuración por defecto en a), b), c)
+  \setlist[enumerate,1]{
+    label   = \alph*),
+    itemsep = 0.3\itemsep,
+  }
+
+% permite crear columnas en de ejercicios
+\usepackage{multicol}
+
+\usepackage{amsmath, amsthm, amssymb, booktabs}
+
+% permite crear tablas con ancho determinado
+\usepackage{tabularx}
+\renewcommand{\arraystretch}{1.6}
+
+\usepackage{unicode-math}
+  \unimathsetup{
+    math-style  = ISO,
+    bold-style  = ISO
+  }
+  \setmathfont{Fira Math}
+
+% resuelve el problema de espaciado excesivo en la coma decimal
+% debe usarse después de unicode-math o da lugar a errores
+\usepackage{icomma}
+
+% añade el uso de colores, también en tablas (table)
+\usepackage[table,xcdraw]{xcolor}
+
+% paquetes de química
+% * chemfig:      dibujo de figuras y estructuras
+% * chemformula:  escritura de reacciones y compuestos químicos
+\usepackage{chemfig, chemformula}
+  \setchemfig{atom sep=2em}
+
+% añade la opción de tachar partes de una fórmula matemática
+\usepackage{cancel}
+
+% paquetes de unidades
+% proporciona herramientas para escribir unidades del SI
+\usepackage{siunitx}
+  \sisetup{
+    per-mode                = symbol,
+    output-decimal-marker   = {,},
+    group-digits            = integer,
+    exponent-product        = \cdot, % \times for the typical cross
+    text-celsius            = ^^b0\kern -\scriptspace C, % soluciona problemas con el símbolo de grados
+    math-celsius            = ^^b0\kern -\scriptspace C,
+    list-final-separator    = { y },
+    list-pair-separator     = { y },
+    range-phrase            = { \translate{to (numerical range)} },
+    qualifier-mode          = brackets,
+  }
+
+% paquete de gestión de ejercicios
+\usepackage{xsim}
+  \loadxsimstyle{layouts}
+  \xsimsetup{
+    path                  = {xsim},
+    exercise/template     = {runin},
+    exercise/name         = {},
+    exercise/print        = {true},
+    solution/template     = {runin},
+    solution/name         = {S},
+    solution/print        = {false},
+    exercise/within       = section
+  }
+  \DeclareExerciseProperty{source}
+
+% configura encabezados y pies de página, con numeración
+\usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[L]{
+    %\includegraphics[width=0.51042in,height=0.45833in]{img/meres-logo.jpg}\\
+    \includegraphics[width=1.30cm,height=1.06cm]{img/meres-logo.jpg}\\
+    \textbf{\textsc{Colegio Internacional Meres}}}
+  \fancyfoot{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0.2pt}
+  \renewcommand{\footrulewidth}{0pt}
+
+
+% opciones para configurar la gestión de ejercicios
+\DeclareOption{exercises}{
+  \xsimsetup{exercise/print = {true}, solution/print = {false}}
+}
+
+\DeclareOption{solutions}{
+  \xsimsetup{exercise/print = {false}, solution/print = {true}}
+}
+
+\ExecuteOptions{exercises}
+
+% completa el procesado de las opciones
+\ProcessOptions\relax
+
+
+
+% DECLARACIÓN DE COMANDOS PROPIOS
+
+\newcommand{\geconvertbigger}[5]{
+    \( \SI[unit-color=blue]{#1}{\cancel#2} \cdot
+    \frac{ \SI{1}{#4} }{
+           \SI[unit-color=blue]{#3}{\cancel#2} }
+    = \SI{#5}{#4} \)
+}
+
+\newcommand{\geconvertlesser}[5]{
+    \( \SI[unit-color=blue]{#1}{\cancel#2} \cdot
+    \frac{ \SI{#3}{#4} }{
+           \SI[unit-color=blue]{1}{\cancel#2} }
+    = \SI{#5}{#4} \)
+}
+
+\newcommand{\tablaencabezado}[2]{
+  \begin{table}[h]
+    \centering
+    \begin{tabularx}{\textwidth}{|
+    >{\columncolor[HTML]{C0C0C0}}l |X|l|X|l|X|l|X|}
+    \hline
+    \textbf{Refuerzo:} & \multicolumn{5}{l|}{#1} & \cellcolor[HTML]{C0C0C0}{\color[HTML]{000000} \textbf{Tema:}} & #2 \\ \hline
+    \multicolumn{2}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{Apellidos y nombre:}} & \multicolumn{6}{l|}{}                                                                                                                                       \\ \hline
+    \textbf{Curso:}                            & 2º ESO                         & \cellcolor[HTML]{C0C0C0}\textbf{Grupo:} &  & \cellcolor[HTML]{C0C0C0}\textbf{Número:} &  & \cellcolor[HTML]{C0C0C0}\textbf{Fecha:} &  \\ \hline
+  \end{tabularx}
+  \end{table}
+}
+
+\newcommand{\tablaexamen}[4]{
+  \begin{table}[h]
+    \centering
+    \begin{tabularx}{\textwidth}{|
+    >{\columncolor[HTML]{C0C0C0}}l |X|l|X|l|X|l|X|}
+    \hline
+    \textbf{Examen de:} & \multicolumn{5}{l|}{#1} & \cellcolor[HTML]{C0C0C0}{\color[HTML]{000000} \textbf{Tema:}} & #2 \\ \hline
+    \multicolumn{2}{|l|}{\cellcolor[HTML]{C0C0C0}\textbf{Apellidos y nombre:}} & \multicolumn{6}{l|}{} \\ \hline
+    \textbf{Curso:} & 2º ESO & \cellcolor[HTML]{C0C0C0}\textbf{Grupo:} & #3 & \cellcolor[HTML]{C0C0C0}\textbf{Número:} &  & \cellcolor[HTML]{C0C0C0}\textbf{Fecha:} & #4 \\ \hline
+  \end{tabularx}
+  \end{table}
+}
+
+
+% DECLARACIÓN DE ENTORNOS PROPIOS
+
+\newenvironment{gexdatos}{
+  \vspace{4pt}
+  \noindent\small\textit{Datos:}
+  }{\vspace{5pt}}
+
+
+% DECLARACIÓN DE TABLA DE PUNTUACIONES PROPIA
+
+\DeclareExerciseTableTemplate{meres}{%
+  \XSIMputright\ExerciseTableCode{%
+    \hline
+    \XSIMifblankTF{\ExerciseType}
+      {}
+      {\XSIMmixedcase{\GetExerciseParameter{exercise-name}}}
+      &%
+  }%
+  \ForEachUsedExerciseByType{%
+    \XSIMifeqTF {#1} { \ExerciseTableType {#1} }
+      {
+        \XSIMifblankTF{\ExerciseType}
+          {%
+            \XSIMputright\ExerciseTableCode{%
+              \XSIMmixedcase{\ExerciseParameterGet{#1}{exercise-name} }%
+            }
+          }
+          {}%
+        \XSIMputright\ExerciseTableCode{#3 &}
+      }
+      {}%
+    }%
+    \XSIMputright\ExerciseTableCode{%
+      \XSIMtranslate{total} \\
+      \hline
+      \XSIMmixedcase{\XSIMtranslate{points}} &
+    }%
+    \ForEachUsedExerciseByType{%
+      \XSIMifeqTF{#1}{\ExerciseTableType{#1}}
+        {%
+          \XSIMputright\ExerciseTableCode{%
+            \XSIMifblankTF{#5}{\printgoal{0}}{\printgoal{#5}} &}%
+        }
+        {}%
+    }%
+    \XSIMputright\ExerciseTableCode{%
+      \XSIMifblankTF{\ExerciseType}
+        {\TotalExerciseGoal{points}{}{}}
+        {\TotalExerciseTypeGoal{\ExerciseType}{points}{}{}}%
+      \\ \hline
+      \XSIMtranslate{reached} &%
+    }%
+    \ForEachUsedExerciseByType{%
+      \XSIMifeqTF{#1}{\ExerciseTableType{#1}}
+        {\XSIMputright\ExerciseTableCode{&}}
+        {}%
+    }%
+    \XSIMputright\ExerciseTableCode{ \\ \hline }%
+    \def\numberofcolumns{%
+      \XSIMifblankTF{\ExerciseType}
+        {\numberofusedexercises}
+        {\csname numberof \ExerciseType s\endcsname}%
+    }%
+    \XSIMifeqF{\numberofcolumns}{0}
+      {%
+        \begin{tabular}{l*{\numberofcolumns}{c}c}
+          \ExerciseTableCode
+        \end {tabular}%
+      }%
+}
