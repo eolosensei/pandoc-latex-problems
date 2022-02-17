@@ -14,3 +14,7 @@ LaTeX-config/pruebas.lua
 *.log
 *.synctex.gz
 *.xsim
+
+
+*vscode/
+*vscode/*
