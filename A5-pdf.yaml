@@ -4,9 +4,11 @@ from: markdown-latex_macros
 to: pdf
 
 # leave blank for input from stdin, use [] for no input:
-input-file: ./2B/MACS/md/integrales-marea-verde.md
+input-file:
+- ./1B/FQ/termodinamica/tex/entalpia.md
+- ./1B/FQ/termodinamica/tex/entropia.md
 # leave blank for output to stdout:
-output-file: ./2B/MACS/pdf/integrales-marea-verde.pdf
+output-file: ./1B/FQ/termoquímica.pdf
 
 # template to use
 template: ./LaTeX-config/ged.pandoc.tex
@@ -28,9 +30,10 @@ variables:
       print: 'true'
       template: gedmargin
     solution:
-      print: 'true'
+      print: 'false'
       template: gedsolution
       name: 'Solución: '
+    endsolution: 'true'
   header-includes:
     - \everymath{\displaystyle}
     - \usepackage{tasks}
@@ -38,9 +41,9 @@ variables:
 
 # metadata for the document
 # this overwrites the metadata from the markdown file
-# metadata:
-#   title: Límites y continuidad
-#   subtitle: Ejercicios 10/03/21
+metadata:
+  title: "Termoquímica"
+  subtitle: "Entalpía y entropía"
 
 
 # Filters will be assumed to be Lua filters if they have
@@ -52,7 +55,7 @@ variables:
 filters:
 - ./Lua-filters/xsim-list.lua
 - ./Lua-filters/chemformula.lua
-- ./Lua-filters/tasks.lua
+# - ./Lua-filters/tasks.lua
 
 # pdf engine configuration
 pdf-engine: pdflatex
